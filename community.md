@@ -3,7 +3,8 @@ layout: about
 permalink: /community/
 title: Community
 tags: community
-headshot: /images/headshot.jpg
+headshot: https://github.com/user-attachments/assets/98ec32d7-4a86-4dd0-a7a1-c0e932c06077
+
 ---
 
 We work closely together with a number of people. Discord is our base platform to meet us. Some of our colaborations:
