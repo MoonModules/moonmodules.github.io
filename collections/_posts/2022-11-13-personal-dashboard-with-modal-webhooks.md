@@ -29,7 +29,7 @@ easy to develop and very low maintenance. It uses tools I already know and regul
 The setup is two parts: the **data**, provided by a web endpoint, and the **view**, implemented by HTML and JS.
 
 - **data:** the dash stats are served by a JSON web endpoint defined by a single `.py` module and deployed with _zero_ infra code or config to [Modal](https://modal.com).
-- **view:** the dashboard UI component is plain HTML and JS stuck at the end of my existing `about.md` Markdown file in [github.com/thundergolfer/thundergolfer.github.io](https://github.com/thundergolfer/thundergolfer.github.io).
+- **view:** the dashboard UI component is plain HTML and JS stuck at the end of my existing `about.md` Markdown file in [github.com/moonmodules/moonmodules.github.io](https://github.com/moonmodules/moonmodules.github.io).
 
 In about half a day I had a nice new dashboard up on this website, and it's as easy to maintain as the website's boring
 and simple Github Pages + Jekyll foundation.
@@ -92,7 +92,7 @@ def hook(response: Response):
 def web():
     web_app.add_middleware(
         CORSMiddleware,
-        allow_origins=["https://thundergolfer.com","http://localhost:4000"],
+        allow_origins=["https://moonmodules.org","http://localhost:4000"],
         allow_methods=["*"], allow_headers=["*"],
     )
     return web_app
@@ -116,7 +116,7 @@ But a working webhook is a start!
 
 Most of the complexity in the above snippet comes from needing to support [CORS](https://fastapi.tiangolo.com/tutorial/cors/) and cache the JSON response in the browser for 12 hours (43,200 seconds).
 
-My website is served from the `thundergolfer.com` domain but the webhook is served from a Modal domain (`modal.run`).
+My website is served from the `moonmodules.org` domain but the webhook is served from a Modal domain (`modal.run`).
 By default the browser will prevent data sharing between different domains because it's a security risk.
 But with the `CORSMiddleware` a web endpoint can communicate that it allows data sharing with my personal domain.
 
@@ -321,7 +321,7 @@ latency on a warm webhook request was about 60ms, rather than 600ms.
 
 ## Add pinch of \<script\>
 
-That's the JSON web endpoint accounted for, but the static HTML page at [thundergolfer.com/about](https://thundergolfer.com) needs to actually _use it_. This happens with a standalone `<script>` in the Markdown page.
+That's the JSON web endpoint accounted for, but the static HTML page at [moonmodules.org/about](https://moonmodules.org) needs to actually _use it_. This happens with a standalone `<script>` in the Markdown page.
 
 ```html
 <!-- /about.md -->
