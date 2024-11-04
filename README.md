@@ -18,7 +18,7 @@ Just my website. The theme is [thundergolfer/**junior-theme**](https://github.co
 
 ### Other places you can find me
 
-* Twitter @ [jonobelotti_IO](https://twitter.com/jonobelotti_io)
+* Reddit @ [MoonModules](https://www.reddit.com/r/MoonModules/)
 * Discord @ [WLED 2D and audio dev](https://discord.gg/TC8NSUSCdV)
 
 ----
