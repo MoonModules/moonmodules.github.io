@@ -3,9 +3,8 @@ layout: post
 title: Waveshare P4
 date: 2024-11-04
 categories: hardware
-summary: WaveShare just dropped their first ESP32-P4 boards!
+summary: WaveShare just dropped their first ESP32-P4 boards! <br><img width="100" src="https://github.com/user-attachments/assets/bff19f44-7296-4d26-9361-ff1388f3f327">
 permalink: waveshare-p4
-headshot: https://github.com/user-attachments/assets/bff19f44-7296-4d26-9361-ff1388f3f327
 ---
 
 <style>
