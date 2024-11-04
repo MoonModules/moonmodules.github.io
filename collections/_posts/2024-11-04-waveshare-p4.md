@@ -14,6 +14,9 @@ permalink: waveshare-p4
     }
 </style>
 
+<img width="319" alt="Screenshot 2024-11-04 at 13 15 52" src="https://github.com/user-attachments/assets/bff19f44-7296-4d26-9361-ff1388f3f327">
+
+
 WaveShare just dropped their first ESP32-P4 boards!
 
 https://www.waveshare.com/esp32-p4-nano.htm
