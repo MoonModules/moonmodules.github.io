@@ -27,9 +27,9 @@ enable_anchorjs: true
 
 # Social icons
 github_username: moonmodules
-stackoverflow_id:
-twitter_username: jonobelotti_io
-linkedin_username: jonathonbelotti
+# stackoverflow_id:
+# twitter_username: jonobelotti_io
+# linkedin_username: jonathonbelotti
 
 text:
   pagination:
