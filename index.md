@@ -20,4 +20,4 @@ I'm bullish on, and a big booster of:
 
 <br>
 
-[**See latest blog posts →**]({{ site.baseurl }}/blog)
+[**See latest news →**]({{ site.baseurl }}/blog)

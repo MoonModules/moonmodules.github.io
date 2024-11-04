@@ -1,5 +1,5 @@
 ---
-layout: community
+layout: about
 permalink: /community/
 title: A little bit community me.
 tags: community
