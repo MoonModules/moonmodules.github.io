@@ -1,16 +1,20 @@
 ---
 layout: about
-permalink: /community/
-title: Community
-tags: community
+permalink: /art/
+title: Art
+tags: art
 headshot: /images/headshot.jpg
 ---
 
-We work closely together with a number of people. Discord is our base platform to meet us. Some of our colaborations:
+Art, Installations, Projects
 
-The Glorb - Transform any space and occasion into a mesmerizing visual experience Glorb
-Contributors ...
-
+Insta
+Etsy
+Venues
+Events
+Burning Man installations - Tarna
+Human sized cube
+...
 
 <div id="stats" class="hidden">
 
