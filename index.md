@@ -3,21 +3,11 @@ layout: default
 tags: home
 ---
 
-# 👋 Hi there, <br/> I'm Jonathon Belotti.
+MoonModules is a collective of light artist, hardware- and software developers. We love creating DIY lighting solutions based on microcontrollers, mainly ESP32. Our work can be found on GitHub and we use mainly Discord for communications. We develop our products for a large community of light enthousiasts and make products we show to the world, e.g. on art-exhibitions, in venues, or at festivals.
 
-### I'm a software engineer with a focus on data & platform engineering.
+Our work is open source, so everybody can see what we do and can use it, also commercially. The only thing we ask is you make references to the products you use, and whatever you do with it, is also open source. For this reason we use GPL-V3 and EUPL-v3 licenses for our products.
 
-### Currently, I help build [Modal](https://modal.com/), a dream cloud platform for data & ML engineers.
+<img width="450" alt="Screenshot 2024-10-28 at 21 56 19" src="https://github.com/user-attachments/assets/33986337-3f1c-40ab-803e-820b33fbdd05">
 
-<br>
-
-I can usually be found in a programming IDE or reading.
-I'm bullish on, and a big booster of:
-
-- 🌿💚 [@bazelbuild](https://github.com/bazelbuild/) and generally using functional principles to keep things sane. (I've open-sourced a few tools for the Bazel ecosystem, see [/projects]({{ site.baseurl }}/projects))
-- Good old-fashioned books 📖. Two recent favourites are [_The Dispossessed_](https://www.goodreads.com/book/show/13651.The_Dispossessed) and [_Shakespearean Tragedy_](https://www.goodreads.com/book/show/437318.Shakespearean_Tragedy)
-- [Effective Altruism](https://www.vox.com/future-perfect/2019/12/6/20992100/peter-singer-effective-altruism-lives-you-can-save-animal-liberation). Helping, not harming. Doing, not having. Building, not consuming.
-
-<br>
 
 [**See latest news →**]({{ site.baseurl }}/blog)
