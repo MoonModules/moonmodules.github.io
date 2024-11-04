@@ -3,7 +3,7 @@ layout: post
 title: Waveshare P4
 date: 2024-11-04
 categories: hardware
-summary: Great stuff
+summary: 
 permalink: waveshare-p4
 ---
 
