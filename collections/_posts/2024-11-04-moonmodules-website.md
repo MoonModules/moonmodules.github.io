@@ -3,7 +3,8 @@ layout: post
 title: MoonModules has its own website
 date: 2024-11-04
 categories: story history serverless aws modal
-summary: MoonModules launched it's own website
+summary: Welcome to our new website
+permalink: moonmodules-welcome
 ---
 
 <style>
