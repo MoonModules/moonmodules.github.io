@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /links/
-title: A little bit about moonmodules.
-tags: about
+title: Useful links
+tags: links
 ---
 
 ## General
