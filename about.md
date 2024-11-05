@@ -3,7 +3,7 @@ layout: about
 permalink: /about/
 title: A little bit about moonmodules.
 tags: about
-headshot: /images/headshot.jpg
+headshot: 
 ---
 
 
