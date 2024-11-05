@@ -5,11 +5,37 @@ title: Useful links
 tags: links
 ---
 
-## General
-- [moonmodules.github.io](https://github.com/MoonModules/moonmodules.github.io) - Fork this repo and submit PR's to propose changes
 
-## WLED
+## Software
 
-## Star
+### WLED
+- [WLED MM](https://github.com/MoonModules/WLED)
 
-- [Star Docs](https://ewowi.github.io/StarDocs/)
+### Star
+- [StarLight](https://github.com/MoonModules/StarLight)
+- [StarBase](https://github.com/ewowi/StarBase)
+
+## Hardware
+
+- Our [Tindie MoonModules Store](https://www.tindie.com/stores/moonmodules/) (temporarily closed)
+- Designing ...
+
+## Installing
+
+- [WLED webinstaller](https://install.wled.me/)
+- Wladi...
+- Serg...
+
+## Developing
+
+## 3D printing
+
+- Tinkercad
+- Fusion
+- ...
+
+## Documentation
+
+- [moonmodules.github.io](https://github.com/MoonModules/moonmodules.github.io) -> [moonmodules.org](https://moonmodules.org) - Fork this repo and submit PR's to propose changes to this website
+- [WLED-Docs](https://github.com/MoonModules/WLED-Docs) -> [mm.kno.wled.ge](https://mm.kno.wled.ge)
+- [StarDocs 0.5.0](https://github.com/ewowi/StarDocs) -> [Star Docs](https://ewowi.github.io/StarDocs/)
