@@ -1,6 +1,8 @@
 # moonmodules.github.io
 
-Just my website. The theme is [thundergolfer/**junior-theme**](https://github.com/thundergolfer/junior-theme)
+See this repo in action [moonmodules.org](http://moonmodules.org)
+
+The theme is [thundergolfer/**junior-theme**](https://github.com/thundergolfer/junior-theme)
 
 ----
 
@@ -10,13 +12,14 @@ Just my website. The theme is [thundergolfer/**junior-theme**](https://github.co
 
 ### What you can find there
 
-* [Blog posts](http://moonmodules.org/)
-* [My 'library' and 'antilibrary'](http://moonmodules.org/library)
-* [A crude summary of my open-source work](http://moonmodules.org/projects/)
-* [A basic about me page](http://moonmodules.org/about/)
+* [News](http://moonmodules.org/blog)
 * [Community](http://moonmodules.org/community/)
+* [Software](http://moonmodules.org/software/)
+* [Hardware](http://moonmodules.org/hardware/)
+* [Art](http://moonmodules.org/art/)
+* [Links](http://moonmodules.org/links/)
 
-### Other places you can find me
+### Other places you can find us
 
 * Reddit @ [MoonModules](https://www.reddit.com/r/MoonModules/)
 * Discord @ [WLED 2D and audio dev](https://discord.gg/TC8NSUSCdV)
