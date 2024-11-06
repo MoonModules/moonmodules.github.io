@@ -28,7 +28,7 @@ tags: links
     - WLED MM: [Latest release](https://github.com/MoonModules/WLED/releases) [Latest development](https://github.com/MoonModules/WLED/actions)
     - StarLight: [Latest release](https://github.com/MoonModules/StarLight/releases) [Latest development](https://github.com/MoonModules/StarLight/actions)
     - StarBase: [Latest release](https://github.com/ewowi/StarBase/releases) [Latest development](https://github.com/ewowi/StarBase/actions)
-    - Latest development: Select latest run, scroll down.
+    - Latest release: scroll to assets. Latest development: Select latest run, scroll down.
     - What software do I need? See [moonmodules/Software](https://moonmodules.org/software)
     - Select the binary (.bin file) matching the board you install to. See [moonmodules/Hardware](https://moonmodules.org/hardware)
     - Use [Srg74 ESP flasher](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher) to flash .bin files to ESP32
