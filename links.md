@@ -26,10 +26,9 @@ tags: links
 - [WLED webinstaller](https://install.wled.me/)
 - Wladi...
 - Serg...
-- https://apps.apple.com/us/app/wled/id1475695033)
 - WLED Native app made by [Moustachauve](https://github.com/Moustachauve)
-    - For [Android](https://play.google.com/store/apps/details?id=ca.cgagnier.wlednativeandroid) [Source](https://github.com/Moustachauve/WLED-Native-Android)
-    - For [iOS](https://apps.apple.com/us/app/wled-native/id6446207239) [Source](https://github.com/Moustachauve/WLED-Native-iOS/)
+    - For [Android](https://play.google.com/store/apps/details?id=ca.cgagnier.wlednativeandroid) [[Source](https://github.com/Moustachauve/WLED-Native-Android)]
+    - For [iOS](https://apps.apple.com/us/app/wled-native/id6446207239) [[Source](https://github.com/Moustachauve/WLED-Native-iOS/)]
 
 ## Developing
 
