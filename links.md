@@ -41,3 +41,13 @@ tags: links
 - [WLED-Docs](https://github.com/MoonModules/WLED-Docs) -> [mm.kno.wled.ge](https://mm.kno.wled.ge)
 - [StarDocs 0.5.0](https://github.com/ewowi/StarDocs) -> [Star Docs](https://ewowi.github.io/StarDocs/)
 - [Wladi WLED FAQ](https://wled-faq.github.io) (unofficial documentation in German/English), [Wladi WLED calculator](https://wled-calculator.github.io/) and [Wladi WLED unofficial installer](https://wled-install.github.io/).
+
+<p>
+    Did we forget something? Please consider
+    <a
+      target="_blank"
+      rel="noopener noreferrer"
+      href="https://github.com/moonmodules/moonmodules.github.io/edit/main/collections/{{ page.path }}"
+      >sending a pull request.</a
+    >
+  </p>
