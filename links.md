@@ -23,14 +23,17 @@ tags: links
 
 ## End user
 
-- [WLED webinstaller](https://install.wled.me/)
-- Wladi...
-- Serg...
+- [WLED webinstaller](https://install.wled.me/) - Not on Safari
+- Wladi builds...
+- Serg builds ...
+- [Srg74 ESP flasher](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher)
 - WLED Native app made by [Moustachauve](https://github.com/Moustachauve)
     - For [Android](https://play.google.com/store/apps/details?id=ca.cgagnier.wlednativeandroid) [[Source](https://github.com/Moustachauve/WLED-Native-Android)]
     - For [iOS](https://apps.apple.com/us/app/wled-native/id6446207239) [[Source](https://github.com/Moustachauve/WLED-Native-iOS/)]
 
 ## Developer
+- VSCode
+- PlatformIO
 
 ## 3D printing
 
