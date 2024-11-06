@@ -26,7 +26,13 @@ tags: links
 - [WLED webinstaller](https://install.wled.me/) - Not on Safari
 - Wladi builds...
 - Serg builds ...
-- [Srg74 ESP flasher](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher)
+- Github created firmare (.bin files)
+    - WLED MM firmware (.bin file) [Latest release](https://github.com/MoonModules/WLED/releases) [Latest development](https://github.com/MoonModules/WLED/actions)
+    - StarLight firmware (.bin file) [Latest release](https://github.com/MoonModules/StarLight/releases) [Latest development](https://github.com/MoonModules/StarLight/actions)
+    - StarBase firmware (.bin file) [Latest release](https://github.com/ewowi/StarBase/releases) [Latest development](https://github.com/ewowi/StarBase/actions)
+    - Latest development: Select latest run, scroll down.
+    - Select the binary matching the board you install to (see [moonmodules/Hardware](https://moonmodules.org/hardware)) 
+- [Srg74 ESP flasher](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher): flash .bin files to ESP32
 - WLED Native app made by [Moustachauve](https://github.com/Moustachauve)
     - For [Android](https://play.google.com/store/apps/details?id=ca.cgagnier.wlednativeandroid) [[Source](https://github.com/Moustachauve/WLED-Native-Android)]
     - For [iOS](https://apps.apple.com/us/app/wled-native/id6446207239) [[Source](https://github.com/Moustachauve/WLED-Native-iOS/)]
