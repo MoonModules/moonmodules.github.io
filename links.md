@@ -47,7 +47,7 @@ tags: links
     <a
       target="_blank"
       rel="noopener noreferrer"
-      href="https://github.com/moonmodules/moonmodules.github.io/edit/main/collections/{{ page.path }}"
+      href="https://github.com/moonmodules/moonmodules.github.io/edit/main/{{ page.path }}"
       >sending a pull request.</a
     >
   </p>
