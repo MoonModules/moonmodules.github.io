@@ -24,14 +24,15 @@ tags: links
 ## End user
 
 - [WLED webinstaller](https://install.wled.me/) or [Wladi WLED unofficial installer](https://wled-install.github.io/) - Not on Safari
-- or Flash Github created firmare (.bin files)
-    - WLED MM firmware (.bin file) [Latest release](https://github.com/MoonModules/WLED/releases) [Latest development](https://github.com/MoonModules/WLED/actions)
-    - StarLight firmware (.bin file) [Latest release](https://github.com/MoonModules/StarLight/releases) [Latest development](https://github.com/MoonModules/StarLight/actions)
-    - StarBase firmware (.bin file) [Latest release](https://github.com/ewowi/StarBase/releases) [Latest development](https://github.com/ewowi/StarBase/actions)
-    - What software do I need? See [moonmodules/Software](https://moonmodules.org/software)
+- or flash Github created firmware (.bin files):
+    - WLED MM: [Latest release](https://github.com/MoonModules/WLED/releases) [Latest development](https://github.com/MoonModules/WLED/actions)
+    - StarLight: [Latest release](https://github.com/MoonModules/StarLight/releases) [Latest development](https://github.com/MoonModules/StarLight/actions)
+    - StarBase: [Latest release](https://github.com/ewowi/StarBase/releases) [Latest development](https://github.com/ewowi/StarBase/actions)
     - Latest development: Select latest run, scroll down.
-    - Select the binary matching the board you install to. See [moonmodules/Hardware](https://moonmodules.org/hardware)
+    - What software do I need? See [moonmodules/Software](https://moonmodules.org/software)
+    - Select the binary (.bin file) matching the board you install to. See [moonmodules/Hardware](https://moonmodules.org/hardware)
     - Use [Srg74 ESP flasher](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher) to flash .bin files to ESP32
+    - How to provision your installed board: see ...
 - WLED Native app made by [Moustachauve](https://github.com/Moustachauve)
     - For [Android](https://play.google.com/store/apps/details?id=ca.cgagnier.wlednativeandroid) [[Source](https://github.com/Moustachauve/WLED-Native-Android)]
     - For [iOS](https://apps.apple.com/us/app/wled-native/id6446207239) [[Source](https://github.com/Moustachauve/WLED-Native-iOS/)]
