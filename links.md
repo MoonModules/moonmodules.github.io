@@ -23,17 +23,15 @@ tags: links
 
 ## End user
 
-- [WLED webinstaller](https://install.wled.me/) - Not on Safari
-- Wladi builds...
-- Serg builds ...
-- Github created firmare (.bin files)
+- [WLED webinstaller](https://install.wled.me/) or [Wladi WLED unofficial installer](https://wled-install.github.io/) - Not on Safari
+- or Flash Github created firmare (.bin files)
     - WLED MM firmware (.bin file) [Latest release](https://github.com/MoonModules/WLED/releases) [Latest development](https://github.com/MoonModules/WLED/actions)
     - StarLight firmware (.bin file) [Latest release](https://github.com/MoonModules/StarLight/releases) [Latest development](https://github.com/MoonModules/StarLight/actions)
     - StarBase firmware (.bin file) [Latest release](https://github.com/ewowi/StarBase/releases) [Latest development](https://github.com/ewowi/StarBase/actions)
-    - What software do I need? See [moonmodules/Software](https://moonmodules.org/software)) 
+    - What software do I need? See [moonmodules/Software](https://moonmodules.org/software)
     - Latest development: Select latest run, scroll down.
-    - Select the binary matching the board you install to (see [moonmodules/Hardware](https://moonmodules.org/hardware)) 
-- [Srg74 ESP flasher](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher): flash .bin files to ESP32
+    - Select the binary matching the board you install to. See [moonmodules/Hardware](https://moonmodules.org/hardware)
+    - Use [Srg74 ESP flasher](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher) to flash .bin files to ESP32
 - WLED Native app made by [Moustachauve](https://github.com/Moustachauve)
     - For [Android](https://play.google.com/store/apps/details?id=ca.cgagnier.wlednativeandroid) [[Source](https://github.com/Moustachauve/WLED-Native-Android)]
     - For [iOS](https://apps.apple.com/us/app/wled-native/id6446207239) [[Source](https://github.com/Moustachauve/WLED-Native-iOS/)]
@@ -54,7 +52,7 @@ tags: links
 - [moonmodules.github.io](https://github.com/MoonModules/moonmodules.github.io) -> [moonmodules.org](https://moonmodules.org) - Fork this repo and submit PR's to propose changes to this website
 - [WLED-Docs](https://github.com/MoonModules/WLED-Docs) -> [mm.kno.wled.ge](https://mm.kno.wled.ge)
 - [StarDocs 0.5.0](https://github.com/ewowi/StarDocs) -> [Star Docs](https://ewowi.github.io/StarDocs/)
-- [Wladi WLED FAQ](https://wled-faq.github.io) (unofficial documentation in German/English), [Wladi WLED calculator](https://wled-calculator.github.io/) and [Wladi WLED unofficial installer](https://wled-install.github.io/).
+- [Wladi WLED FAQ](https://wled-faq.github.io) (unofficial documentation in German/English), [Wladi WLED calculator](https://wled-calculator.github.io/).
 
 <p>
     Did we forget something? Please consider
