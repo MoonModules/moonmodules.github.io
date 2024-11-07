@@ -5,6 +5,7 @@ title: Useful links
 tags: links
 ---
 
+This page contains the links to places where we look frequently and can be regarded as a quick reference card for what we do.
 
 ## Software
 
