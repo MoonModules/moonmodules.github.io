@@ -6,15 +6,22 @@ tags: art
 headshot: https://github.com/user-attachments/assets/cc1f20bb-b724-4377-a4df-f1a26aa9e791
 ---
 
-Art, Installations, Projects
+## Components
 
-Insta
-Etsy
-Venues
-Events
-Burning Man installations - Tarna
-Human sized cube
-...
+- Led Strips -> Sticks
+- Fairy lights -> Human Sized Ccube
+- Matrix panels -> Big screens, Cubes
+- Hub75 -> Big screens, Cubes
+
+## Art, Installations, Projects
+
+* Insta
+* Etsy
+* Venues
+* Events
+* Burning Man installations - Tarna
+* Human sized cube
+* ...
 
 <div id="stats" class="hidden">
 
