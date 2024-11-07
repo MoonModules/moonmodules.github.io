@@ -9,7 +9,7 @@ headshot: https://github.com/user-attachments/assets/cc1f20bb-b724-4377-a4df-f1a
 ## Components
 
 - Led Strips -> Sticks
-- Fairy lights -> Human Sized Ccube
+- Fairy lights -> Human Sized Cube
 - Matrix panels -> Big screens, Cubes
 - Hub75 -> Big screens, Cubes
 
