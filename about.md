@@ -15,6 +15,11 @@ At the same time we developed WLED MM, a new fork of Aircoookie WLED as we had m
 
 Since 2023, we are also developing a new product, based on our experience working with WLED. We took the module concept of WLED and took that further by making everything a module, this was called StarMod. This then allowed us to split LED and non-LED functionality and StarBase and StarLight was born. StarBase containing generic functionality and StarLight to add lighting functionality on top of that. As StarBase is generic and can be used to develop any ESP32 based application. StarLight key features are 3D support, support for any fixture, projections, up to 16384 LEDs, Live coding of fixture definitions, effects and projections, artnet and dmx support.
 
+## edit this site
+
+* use [kraken](https://kraken.io/web-interface) to minimize image size (as 200kb + images slows down website significantly)
+* to edit a page, press ✎ below the page (direct in repo or using PR)
+
 <div id="stats" class="hidden">
 
 <h3 id="dashboard"><code>#dashboard</code></h3>
