@@ -7,10 +7,11 @@ headshot: https://github.com/user-attachments/assets/98ec32d7-4a86-4dd0-a7a1-c0e
 
 ---
 
-We work closely together with a number of people. Discord is our base platform to meet us. Some of our colaborations:
+We work closely together with many people, groups or organizations. Discord is our base platform to meet us. Some of our colaborations:
 
-The Glorb - Transform any space and occasion into a mesmerizing visual experience Glorb
-Contributors ...
+* [The Glorb](https://glorb.me) - Transform any space and occasion into a mesmerizing visual experience Glorb
+* [srg74](https://github.com/srg74): Binaries, ESP flasher, hardware
+* Contributors ...
 
 
 <div id="stats" class="hidden">
