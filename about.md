@@ -15,11 +15,11 @@ At the same time we developed WLED MM, a new fork of Aircoookie WLED as we had m
 
 Since 2023, we are also developing a new product, based on our experience working with WLED. We took the module concept of WLED and took that further by making everything a module, this was called StarMod. This then allowed us to split LED and non-LED functionality and StarBase and StarLight was born. StarBase containing generic functionality and StarLight to add lighting functionality on top of that. As StarBase is generic and can be used to develop any ESP32 based application. StarLight key features are 3D support, support for any fixture, projections, up to 16384 LEDs, Live coding of fixture definitions, effects and projections, artnet and dmx support.
 
-## edit this site
+## Edit this site
 
 * use [kraken](https://kraken.io/web-interface) or similar to minimize image size (as 200kb + images slows down website significantly). Images and videos can be stored in the github repo (drag and drop on a page while editing) or external cloud storage can be used (maybe faster than github).
 * to edit a page, press ✎ below the page (direct in repo or using PR)
-* to add a post go to the [collections/_posts](https://github.com/MoonModules/moonmodules.github.io/tree/main/collections/_posts) folder and add a file there use yyyy-mm-dd-this-is-about-leds.md structure as file name
+* to add a post go to the [collections/_posts](https://github.com/MoonModules/moonmodules.github.io/tree/main/collections/_posts) folder and add a file there use yyyy-mm-dd-this-is-about-leds.md structure as file name, use the existing posts as example on using markup code for headings, bullets, images etc
 
 <div id="stats" class="hidden">
 
