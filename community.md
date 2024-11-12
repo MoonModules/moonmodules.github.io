@@ -11,7 +11,7 @@ We work closely together with many people, groups or organizations. Discord is o
 
 * [The Glorb](https://glorb.me) - Transform any space and occasion into a mesmerizing visual experience Glorb
 * [srg74](https://github.com/srg74): Binaries, ESP flasher, hardware
-* [Tarna the art car](https://www.instagram.com/jackalope_tarna/)
+* [Tarna the art car](https://www.instagram.com/jackalope_tarna/): Toronto based art car 
 * [Stefan Petrick / animartrix](https://github.com/StefanPetrick/animartrix): High quality LED animations for your next project
 * [hpwit](https://github.com/hpwit): clockless (virtual) driver and ESPLiveScript
 * [wladi](): Installers, hardware
