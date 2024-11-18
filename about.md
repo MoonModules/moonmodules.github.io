@@ -17,9 +17,9 @@ Since 2023, we are also developing a new product, based on our experience workin
 
 ## Edit this site
 
-* use [kraken](https://kraken.io/web-interface) or similar to minimize image size (as 200kb + images slows down website significantly). Images and videos can be stored in the github repo (drag and drop on a page while editing) or external cloud storage can be used (maybe faster than github).
-* to edit a page, press ✎ below the page (direct in repo or using PR)
-* to add a post go to the [collections/_posts](https://github.com/MoonModules/moonmodules.github.io/tree/main/collections/_posts) folder and add a file there use yyyy-mm-dd-this-is-about-leds.md structure as file name, use the existing posts as example on using markup code for headings, bullets, images etc
+* Use [tinypng](https://tinypng.com) or [kraken](https://kraken.io/web-interface) or similar to minimize image size (as 200kb + images slows down website significantly). Images and videos can be stored in the github repo (drag and drop on a page while editing) or external cloud storage can be used (maybe faster than github).
+* To edit a page, press ✎ below the page (direct in repo or using PR)
+* To add a post go to the [collections/_posts](https://github.com/MoonModules/moonmodules.github.io/tree/main/collections/_posts) folder and add a file there use yyyy-mm-dd-this-is-about-leds.md structure as file name, use the existing posts as example on using markup code for headings, bullets, images etc
 
 <div id="stats" class="hidden">
 
