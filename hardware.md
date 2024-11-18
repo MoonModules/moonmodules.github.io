@@ -28,3 +28,8 @@ Periferal boards
 
 * [Lyra board with audio in (Ali)](https://www.aliexpress.com/item/1005005346566771.html)
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/ad7d5f03-7594-48f1-8048-4a3ba1ce51bf">
+
+* [RGB Led Curtain String (Ali)](https://aliexpress.com/item/1005008052527960.html)
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
+
+(don't by the cheaper once as .... like this: [don't buy](https://nl.aliexpress.com/item/1005007551118953.html)) 
