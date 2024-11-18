@@ -12,6 +12,8 @@ permalink: star-v050
 ESPLiveScript v1.2.0 released: 
 - [ESPLiveScript v1.2.0 (Beta2)](https://github.com/hpwit/ESPLiveScript)
 
-Check the readme which contains an elaborate discription what it is and how to use it.
-
 ESPLiveScript is used in StarBase (see the blink example) and StarLight (Live Fixtures and Live Effects)
+
+Check the readme in the github repo (link above) which contains an elaborate discription what it is and how to use it:
+
+<img width="300" alt="Screenshot 2024-11-18 at 12 10 07" src="https://github.com/user-attachments/assets/5a906bc8-0c6a-469e-9a0e-3b4677f3ee7c">
