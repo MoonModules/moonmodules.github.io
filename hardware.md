@@ -38,5 +38,9 @@ Periferal boards
 
 (don't by the cheaper once as .... like this: [don't buy](https://s.click.aliexpress.com/e/_DCuOwNB)) 
 
+* [Logical Analyzer](https://a.aliexpress.com/_EGB6Ec9)
+to measure data signals in case of flickering leds
+
+
 
 Note: Some of the links on this site are affiliate links. This means that if you click on one of these links and make a purchase, We may earn a small commission at no extra cost to you. This helps support MoonModules and allows us to maintain this website and invest in hardware to test. We only recommend products and services that we believe in and think will add value to you. Thanks for your support!
