@@ -17,13 +17,18 @@ headshot:
 
 Hardware we have used / tested
 
-Microcontrollers
+### Microcontrollers
 
 * [ESP32 S3 (Ali)](https://s.click.aliexpress.com/e/_DBAtJ2H)
   
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/008546b8-65ce-40e7-a48a-3ab359f9fb89">
 
-Periferal boards
+* [Lilygo T7 S3 (Ali)](https://s.click.aliexpress.com/e/_EGCULv7)
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/8d28a49d-5ba7-475d-a938-0c6be5fe5f45">
+
+### Periferal boards
+
 * [I2S ADC Audio (Ali)](https://s.click.aliexpress.com/e/_DBr6Oqv)
   
 <img width="222" alt="image" src="https://github.com/user-attachments/assets/bfedf80b-6596-41e7-a563-ba7dd58cc476">
@@ -31,6 +36,8 @@ Periferal boards
 * [Lyra board with audio in (Ali)](https://s.click.aliexpress.com/e/_DB1SZW9)
   
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/ad7d5f03-7594-48f1-8048-4a3ba1ce51bf">
+
+### Leds
 
 * [RGB Led Curtain String (Ali)](https://s.click.aliexpress.com/e/_DmRNypf)
   
