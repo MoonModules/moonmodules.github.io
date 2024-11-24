@@ -1,7 +1,7 @@
 # Site settings
 title: MoonModules
 author: Moon
-description: "No hugs, some learning"
+description: "Open source lighting software, hardware and art"
 baseurl: ""
 url: "https://moonmodules.org"
 date_format: "%b %-d, %Y"
