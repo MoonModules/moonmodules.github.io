@@ -15,39 +15,44 @@ headshot:
 
 ## Best buy guide
 
-Hardware we have used / tested
+Hardware we have used / tested. If you are not sure what to buy, you can try one of the items below. We used this hardware with our software and for our projects.
 
 ### Microcontrollers
 
 * [ESP32 S3 (Ali)](https://s.click.aliexpress.com/e/_DBAtJ2H)
   
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/008546b8-65ce-40e7-a48a-3ab359f9fb89">
+<img width="250" src="https://github.com/user-attachments/assets/008546b8-65ce-40e7-a48a-3ab359f9fb89">
 
 * [Lilygo T7 S3 (Ali)](https://s.click.aliexpress.com/e/_EGCULv7)
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/8d28a49d-5ba7-475d-a938-0c6be5fe5f45">
+<img width="250" src="https://github.com/user-attachments/assets/8d28a49d-5ba7-475d-a938-0c6be5fe5f45">
 
 ### Periferal boards
 
 * [I2S ADC Audio (Ali)](https://s.click.aliexpress.com/e/_DBr6Oqv)
   
-<img width="222" alt="image" src="https://github.com/user-attachments/assets/bfedf80b-6596-41e7-a563-ba7dd58cc476">
+<img width="222" src="https://github.com/user-attachments/assets/bfedf80b-6596-41e7-a563-ba7dd58cc476">
 
 * [Lyra board with audio in (Ali)](https://s.click.aliexpress.com/e/_DB1SZW9)
   
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/ad7d5f03-7594-48f1-8048-4a3ba1ce51bf">
+<img width="300" src="https://github.com/user-attachments/assets/ad7d5f03-7594-48f1-8048-4a3ba1ce51bf">
 
 ### Leds
 
 * [RGB Led Curtain String (Ali)](https://s.click.aliexpress.com/e/_DmRNypf)
   
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
+<img width="300" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
 
-(don't by the cheaper once as .... like this: [don't buy](https://s.click.aliexpress.com/e/_DCuOwNB)) 
+(or this one: [Alternative](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test if they also work) 
 
 * [Logical Analyzer](https://a.aliexpress.com/_EGB6Ec9)
 to measure data signals in case of flickering leds
 
+### Other
+
+* [3 wire connectors (Ali)](https://s.click.aliexpress.com/e/_Exx5GBb)
+
+<img width="300" src="https://github.com/user-attachments/assets/a792d6b7-d583-4751-878b-a70f4a88803c">
 
 
 Note: Some of the links on this site are affiliate links. This means that if you click on one of these links and make a purchase, We may earn a small commission at no extra cost to you. This helps support MoonModules and allows us to maintain this website and invest in hardware to test. We only recommend products and services that we believe in and think will add value to you. Thanks for your support!
