@@ -54,5 +54,20 @@ to measure data signals in case of flickering leds
 
 <img width="300" src="https://github.com/user-attachments/assets/a792d6b7-d583-4751-878b-a70f4a88803c">
 
+## Projects
 
-Note: Some of the links on this site are affiliate links. This means that if you click on one of these links and make a purchase, We may earn a small commission at no extra cost to you. This helps support MoonModules and allows us to maintain this website and invest in hardware to test. We only recommend products and services that we believe in and think will add value to you. Thanks for your support!
+### 20x20x20 Cube
+
+<img width="300" src="https://github.com/user-attachments/assets/f2984a0c-dd5e-4ab4-ae55-7d4d180f96dc">
+
+* 3 meter 20P ribbon cable: https://s.click.aliexpress.com/e/_EGjOVwz
+* 20 pin PCB - connector: https://s.click.aliexpress.com/e/_EQSDdnn
+* T-Connector: https://s.click.aliexpress.com/e/_EGpUIy9
+* LED curtains: https://s.click.aliexpress.com/e/_EJZsEU9
+* Power supples 100W: https://s.click.aliexpress.com/e/_EyOur57
+* 3 pin connectors: https://s.click.aliexpress.com/e/_Evi95Wz
+* ESP32-S3: https://s.click.aliexpress.com/e/_DBAtJ2H
+* PCB: Custom build. If there is enough interest we consider design and manufacturing a batch, let us know if you want one on discord , reddit or GitHub.
+
+
+**Note**: Some of the links on this site are affiliate links. This means that if you click on one of these links and make a purchase, We may earn a small commission at no extra cost to you. This helps support MoonModules and allows us to maintain this website and invest in hardware to test. We only recommend products and services that we believe in and think will add value to you. Thanks for your support!
