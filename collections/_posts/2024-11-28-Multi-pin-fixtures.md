@@ -13,7 +13,7 @@ So I build a 12288 LEDs-screen of 48 panels (16x16 = 256 LEDs each), a 3840 LEDS
 
 This brings new challenges in the wiring and powering of all of this. Where a single LED strip mostly has a 3 wire cable, now we need lots of wires. On the big-screen, I made a lot of 3 wire JST connector cables but for the cube (and possible a next screen) I will do it differently. I will show my new wiring plan further on.
 
-Also powering a lot of panels needs some thought. The original big screen by hpwit (ref), has one big 600 W / 24 V / 25A power supply with power rails and buck converters to bring the power back to 5 V. 24 V is used to have less A so smaller wires can be used.
+Also powering a lot of panels needs some thought. The original big screen by [tekwit (Drive 12288 ws2812b with one esp32)](https://www.youtube.com/watch?v=jPPd2A3RyW0&t=9s), has one big 600 W / 24 V / 25A power supply with power rails and buck converters to bring the power back to 5 V. 24 V is used to have less A so smaller wires can be used.
 As I don’t like power supplies with fan’s and also the price per Watt of a power supply is more or less linear, I decided to go with 6 smaller power supplies of 100 W / 5V / 20A each, for the big screen. In both cases each panel gets 12.5 W / 5V / 2.5 A. For the little-screen, I only used one 100 W power supply so each panel only gets 6.6 W / 1.2 A which turnouts to be enough.
 
 Next is actually connecting all these wires to the power supplies and the controller. In case of the virtual led driver, a controller board with shift registers is used where each panel has its own data line, resulting in 48 connections to be made.
@@ -47,3 +47,5 @@ So what do you think? I ordered the cabling and build will be done the coming we
 You can find the list of used hardware on our [Hardware page](https://moonmodules.org/hardware/#20x20x20-cube)
 
 You can comment on this on [discord](https://discord.gg/TC8NSUSCdV) or [reddit](https://www.reddit.com/r/MoonModules/).
+
+(Post written by ewowi)
