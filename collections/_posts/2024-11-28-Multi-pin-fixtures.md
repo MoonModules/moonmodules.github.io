@@ -3,12 +3,9 @@ layout: post
 title: Multi pin fixtures
 date: 2024-11-05
 categories: hardware
-summary: Multi pin fixtures, ribbon cables, connectors and resistors<br><img width="100" src="https://github.com/user-attachments/assets/f8126083-2324-4305-8abf-731d502617b6">
+summary: Multi pin fixtures, ribbon cables, connectors and resistors<br><img width="100" src="https://github.com/user-attachments/assets/f2984a0c-dd5e-4ab4-ae55-7d4d180f96dc">
 permalink: multi-pin-fixtures
 ---
-
-<img width="300" src="https://github.com/user-attachments/assets/f8126083-2324-4305-8abf-731d502617b6">
-
 
 With the recent developments in supporting lots of LEDs thanks to the use of PSRAM on the ESP32-S3 and P4 and the use of virtual LED drivers or Art-Net controllers we are now able to support massive fixtures up to 16384 (and even more) pixels.
 
@@ -25,15 +22,15 @@ For the virtual driver shift register board, I used screw terminals for the big-
 
 The end result looks like this:
 
-￼
+<img width="300" src="https://github.com/user-attachments/assets/98fb5010-7192-44db-a5c9-09602681ee15">
 
-And everything works fine. Well… mostly. See issue x for challenges how to make it work. You can see there most of the issues where resolved except for one and that is in some cases flickering of some panels on the big screen while the baby-screen is running very smoothly.
+And everything works fine. Well… mostly. See [Github issue 17](https://github.com/MoonModules/StarLight/issues/17) for challenges how to make it work. You can see there most of the issues where resolved except for one and that is in some cases flickering of some panels on the big screen while the baby-screen is running very smoothly.
 To deal with the flickering I played with capacitors, with thicker wires, with pull down registers, separating the data line from the ground line. Nothing changed until I changed the resistor of the data line which was 100 Ohm to 249 Ohm because I read this article [QuinLed Data signal cable conditioning](https://quinled.info/data-signal-cable-conditioning/)
 This made the flickering go away! Thanks Quindor! Although tested for a limited number of panels as I ran out of resistors.
 
 So after this long intro now back to the cabling. Deciding to follow the 249 Ohm resistor and separate data line advice of Quindor and the next cube build project in mind I made the following design:
 
-￼
+<img width="300" src="https://github.com/user-attachments/assets/f2984a0c-dd5e-4ab4-ae55-7d4d180f96dc">
 
 As the cube consists of 20 LED curtains, I need to transfer 20 data lines. A ribbon cable like used in a HUB75 panel looks perfect for this.
 
@@ -43,10 +40,10 @@ As the cube will be moved to different places, I wanted the cable to be fully re
 
 This is the cube build in progress: 5 of the 20 curtains are hanging:
 
-￼
+<img width="300" src="https://github.com/user-attachments/assets/436b3f57-0bb8-44ae-88a4-f2da038ffd01">
 
 So what do you think? I ordered the cabling and build will be done the coming weeks. I posted this article because I hope more people will build large LED setups and we can share experiences. I also hope we use more or less standard components, so you don’t have to spent a long time searching for the right components but can reuse designs made before. 
 
-You can find the list of used hardware on our [Hardware page](https://moonmodules.org/hardware/)
+You can find the list of used hardware on our [Hardware page](https://moonmodules.org/hardware/#20x20x20-cube)
 
-You can comment on this on discord and reddit 
+You can comment on this on [discord](https://discord.gg/TC8NSUSCdV) or [reddit](https://www.reddit.com/r/MoonModules/).
