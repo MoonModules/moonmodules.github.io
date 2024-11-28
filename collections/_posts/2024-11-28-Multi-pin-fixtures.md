@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi pin fixtures
-date: 2024-11-05
+date: 2024-11-28
 categories: hardware
 summary: Multi pin fixtures, ribbon cables, connectors and resistors<br><img width="100" src="https://github.com/user-attachments/assets/f2984a0c-dd5e-4ab4-ae55-7d4d180f96dc">
 permalink: multi-pin-fixtures
