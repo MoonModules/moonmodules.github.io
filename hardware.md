@@ -37,6 +37,14 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
   
 <img width="300" src="https://github.com/user-attachments/assets/ad7d5f03-7594-48f1-8048-4a3ba1ce51bf">
 
+* [Artnet-LED-controller](https://s.click.aliexpress.com/e/_Ex9uaOk)
+
+<img width="300" src="https://github.com/user-attachments/assets/9c65921c-64e9-4558-b6ef-aed2a163fd88">
+
+* [Artnet-DMX controller](https://s.click.aliexpress.com/e/_ExRrKe4)
+
+<img width="300" src="https://github.com/user-attachments/assets/e3d605b6-a023-4abb-b604-77b44267b1a3">
+
 ### Leds
 
 * [RGB Led Curtain String (Ali)](https://s.click.aliexpress.com/e/_DmRNypf)
