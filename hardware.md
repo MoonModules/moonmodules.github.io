@@ -77,6 +77,7 @@ to measure data signals in case of flickering leds
 * [ESP32-S3](https://s.click.aliexpress.com/e/_DBAtJ2H)
 * [240R resistors](https://s.click.aliexpress.com/e/_EzqU7ms)
 * PCB: Custom build. If there is enough interest we consider design and manufacturing a batch, let us know if you want one on discord , reddit or GitHub.
+* see also [Multi pin fixtures](https://moonmodules.org/multi-pin-fixtures)
 
 
 
