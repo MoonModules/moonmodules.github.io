@@ -67,6 +67,7 @@ to measure data signals in case of flickering leds
 * [Power supples 100W](https://s.click.aliexpress.com/e/_EyOur57)
 * [3 pin connectors](https://s.click.aliexpress.com/e/_Evi95Wz)
 * [ESP32-S3](https://s.click.aliexpress.com/e/_DBAtJ2H)
+* [240R resistors](https://s.click.aliexpress.com/e/_EzqU7ms)
 * PCB: Custom build. If there is enough interest we consider design and manufacturing a batch, let us know if you want one on discord , reddit or GitHub.
 
 
