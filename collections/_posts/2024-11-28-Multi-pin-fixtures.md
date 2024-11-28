@@ -1,0 +1,52 @@
+---
+layout: post
+title: Multi pin fixtures
+date: 2024-11-05
+categories: hardware
+summary: Multi pin fixtures, ribbon cables, connectors and resistors<br><img width="100" src="https://github.com/user-attachments/assets/f8126083-2324-4305-8abf-731d502617b6">
+permalink: multi-pin-fixtures
+---
+
+<img width="300" src="https://github.com/user-attachments/assets/f8126083-2324-4305-8abf-731d502617b6">
+
+
+With the recent developments in supporting lots of LEDs thanks to the use of PSRAM on the ESP32-S3 and P4 and the use of virtual LED drivers or Art-Net controllers we are now able to support massive fixtures up to 16384 (and even more) pixels.
+
+So I build a 12288 LEDs-screen of 48 panels (16x16 = 256 LEDs each), a 3840 LEDS-screen of 15 panels and I am about to build a 20x20x20 LED cube using LED curtains.
+
+This brings new challenges in the wiring and powering of all of this. Where a single LED strip mostly has a 3 wire cable, now we need lots of wires. On the big-screen, I made a lot of 3 wire JST connector cables but for the cube (and possible a next screen) I will do it differently. I will show my new wiring plan further on.
+
+Also powering a lot of panels needs some thought. The original big screen by hpwit (ref), has one big 600 W / 24 V / 25A power supply with power rails and buck converters to bring the power back to 5 V. 24 V is used to have less A so smaller wires can be used.
+As I don’t like power supplies with fan’s and also the price per Watt of a power supply is more or less linear, I decided to go with 6 smaller power supplies of 100 W / 5V / 20A each, for the big screen. In both cases each panel gets 12.5 W / 5V / 2.5 A. For the little-screen, I only used one 100 W power supply so each panel only gets 6.6 W / 1.2 A which turnouts to be enough.
+
+Next is actually connecting all these wires to the power supplies and the controller. In case of the virtual led driver, a controller board with shift registers is used where each panel has its own data line, resulting in 48 connections to be made.
+If you use an artnet-controller (see what we use on our hardware page) a few panels are daisy chained and one data line for each group of panels is connected to the controller using screw terminals.
+For the virtual driver shift register board, I used screw terminals for the big-screen and I soldered it for the little-screen.
+
+The end result looks like this:
+
+￼
+
+And everything works fine. Well… mostly. See issue x for challenges how to make it work. You can see there most of the issues where resolved except for one and that is in some cases flickering of some panels on the big screen while the baby-screen is running very smoothly.
+To deal with the flickering I played with capacitors, with thicker wires, with pull down registers, separating the data line from the ground line. Nothing changed until I changed the resistor of the data line which was 100 Ohm to 249 Ohm because I read this article [QuinLed Data signal cable conditioning](https://quinled.info/data-signal-cable-conditioning/)
+This made the flickering go away! Thanks Quindor! Although tested for a limited number of panels as I ran out of resistors.
+
+So after this long intro now back to the cabling. Deciding to follow the 249 Ohm resistor and separate data line advice of Quindor and the next cube build project in mind I made the following design:
+
+￼
+
+As the cube consists of 20 LED curtains, I need to transfer 20 data lines. A ribbon cable like used in a HUB75 panel looks perfect for this.
+
+For the power I need at least awg18 wires and each curtain needs power so I found the T-splitters.
+
+As the cube will be moved to different places, I wanted the cable to be fully removable so I used 3 pin connectors.
+
+This is the cube build in progress: 5 of the 20 curtains are hanging:
+
+￼
+
+So what do you think? I ordered the cabling and build will be done the coming weeks. I posted this article because I hope more people will build large LED setups and we can share experiences. I also hope we use more or less standard components, so you don’t have to spent a long time searching for the right components but can reuse designs made before. 
+
+You can find the list of used hardware on our [Hardware page](https://moonmodules.org/hardware/)
+
+You can comment on this on discord and reddit 
