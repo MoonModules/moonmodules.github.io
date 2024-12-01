@@ -15,4 +15,6 @@ I am very happy with the results, so is the shop owner, who uses the WLED-native
 
 See [MoonModules art](https://moonmodules.org/art/#led-strips-on-mikael-pedersen-bike) for details
 
+See [insta](https://www.instagram.com/reel/DDCFbIruACB) for video
+
 (Post written by ewowi)
