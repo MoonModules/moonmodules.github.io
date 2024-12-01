@@ -7,6 +7,8 @@ summary: The Mikael Pedersen bike with it's straight lines is very suitable to m
 permalink: bike-leds-bicyclus
 ---
 
+<img width="300" src="https://github.com/user-attachments/assets/86a7f0d7-e388-470e-9b98-43721f94cf7a">
+
 Working together with Bicyclus, a local bike repair shop to decorate a classic [Mikael Pederson bike](https://en.wikipedia.org/wiki/Mikael_Pedersen) to be displayed in the shop during the winter season.
 
 As I look for opportunities to display what we make to a wider audience, I contacted a bike shop around the corner. It turned out he had a magnificent bike in the shop: a classic Mikael Pedersen bike. This bike has very straight lines which makes it very suitable to mount LED-strips to.
