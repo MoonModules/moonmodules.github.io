@@ -60,14 +60,14 @@ to measure data signals in case of flickering leds
 
 <img width="300" src="https://github.com/user-attachments/assets/4d386045-9526-4a5a-aa31-638058b31f32">
 
-P2, P2.5 etc is the distance per pixel in mm. We work most with P2.5 
+P2, P2.5 etc is the distance per pixel in mm. We work mostly with P2.5 
 
 * Cheapest per pixel: [128x64 p2.5 €23.97](https://s.click.aliexpress.com/e/_Ev3JvTE)
 * [128x64, p2.5 €19.19 + €15.64, cheaper in DE](https://s.click.aliexpress.com/e/_Evp2bDe)
 * [64x64 p3 €22.39](https://s.click.aliexpress.com/e/_EHcakAy)
 * Expiremental support on WLED MM, much brighter [32x32 p6 €16.49+€7.89](https://a.aliexpress.com/_ExMLoc0)
 * [Instructions for WLED MM](https://mm.kno.wled.ge/2D/HUB75/)
-* MoonHub75 board can be used to connect the ribbon cable to an esp32-S3 like [LILYGO®️ T7 S3 €15,59](https://s.click.aliexpress.com/e/_EJoLIt2) (S3 is needed!), for more info on this board, contact us on Discord
+* MoonHub75 board can be used to connect the ribbon cable to an esp32-S3 like [Lilygo T7 S3 €15,59](https://s.click.aliexpress.com/e/_EJoLIt2) (S3 is needed!), for more info on this board, contact us on Discord
 
 good panels have
 
