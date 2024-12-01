@@ -67,7 +67,7 @@ P2, P2.5 etc is the distance per pixel in mm. We work most with P2.5
 * [64x64 p3 €22.39](https://s.click.aliexpress.com/e/_EHcakAy)
 * Expiremental support on WLED MM, much brighter [32x32 p6 €16.49+€7.89](https://a.aliexpress.com/_ExMLoc0)
 * [Instructions for WLED MM](https://mm.kno.wled.ge/2D/HUB75/)
-* MoonHub75 board can be used to connect the ribbon cable to an esp32-S3 (S3 is needed!), for more info on this board, contact us on Discord
+* MoonHub75 board can be used to connect the ribbon cable to an esp32-S3 like [LILYGO®️ T7 S3 €15,59](https://s.click.aliexpress.com/e/_EJoLIt2) (S3 is needed!), for more info on this board, contact us on Discord
 
 good panels have
 
