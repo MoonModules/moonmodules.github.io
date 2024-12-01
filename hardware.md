@@ -56,6 +56,25 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
 * [Logical Analyzer](https://a.aliexpress.com/_EGB6Ec9)
 to measure data signals in case of flickering leds
 
+### Hub75 panels
+
+<img width="300" src="https://github.com/user-attachments/assets/4d386045-9526-4a5a-aa31-638058b31f32">
+
+P2, P2.5 etc is the distance per pixel in mm. We work most with P2.5 
+
+* Cheapest per pixel: [128x64 p2.5 €23.97](https://s.click.aliexpress.com/e/_Ev3JvTE)
+* [128x64, p2.5 €19.19 + €15.64, cheaper in DE](https://s.click.aliexpress.com/e/_Evp2bDe)
+* [64x64 p3 €22.39](https://s.click.aliexpress.com/e/_EHcakAy)
+* Expiremental support on WLED MM, much brighter [32x32 p6 €16.49+€7.89](https://a.aliexpress.com/_ExMLoc0)
+* [Instructions for WLED MM](https://mm.kno.wled.ge/2D/HUB75/)
+* MoonHub75 board can be used to connect the ribbon cable to an esp32-S3 (S3 is needed!)
+
+good panels have
+
+* ⁠larger led chips (3535 vs 2121 vs 1515)
+* ⁠higher "brightness" (1200 cd/m^2) - don't go below 800 cd/m^2
+* outdoor panels can easily reach 8000cd/m^2
+
 ### Other
 
 * [3 wire connectors (Ali)](https://s.click.aliexpress.com/e/_Exx5GBb)
