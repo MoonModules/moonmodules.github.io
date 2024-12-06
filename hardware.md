@@ -51,7 +51,7 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
   
 <img width="300" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
 
-(or this one: [Alternative](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test if they also work) 
+(or this one: [Alternative](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test if they also work: it also works but is slightly smaller) 
 
 * [Logical Analyzer](https://a.aliexpress.com/_EGB6Ec9)
 to measure data signals in case of flickering leds
@@ -87,16 +87,16 @@ good panels have
 
 <img width="300" src="https://github.com/user-attachments/assets/f2984a0c-dd5e-4ab4-ae55-7d4d180f96dc">
 
-* [3 meter 20P ribbon cable](https://s.click.aliexpress.com/e/_EGjOVwz)
-* [20 pin PCB - connector](https://s.click.aliexpress.com/e/_EQSDdnn)
-* [T-Connector](https://s.click.aliexpress.com/e/_EGpUIy9)
+* ~~[3 meter 20P ribbon cable](https://s.click.aliexpress.com/e/_EGjOVwz)~~
+* ~~[20 pin PCB - connector](https://s.click.aliexpress.com/e/_EQSDdnn)~~
+* ~~[T-Connector](https://s.click.aliexpress.com/e/_EGpUIy9)~~
 * [LED curtains](https://s.click.aliexpress.com/e/_EJZsEU9)
 * [Power supples 100W](https://s.click.aliexpress.com/e/_EyOur57)
 * [3 pin connectors](https://s.click.aliexpress.com/e/_Evi95Wz)
 * [ESP32-S3](https://s.click.aliexpress.com/e/_DBAtJ2H)
 * [240R resistors](https://s.click.aliexpress.com/e/_EzqU7ms)
 * PCB: Custom build. If there is enough interest we consider design and manufacturing a batch, let us know if you want one on discord , reddit or GitHub.
-* see also [Multi pin fixtures](https://moonmodules.org/multi-pin-fixtures)
+* see also [Multi pin fixtures](https://moonmodules.org/multi-pin-fixtures) - Update: Ribbon cables do not work!
 
 
 
