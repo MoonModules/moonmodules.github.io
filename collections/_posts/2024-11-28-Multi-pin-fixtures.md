@@ -3,7 +3,7 @@ layout: post
 title: Multi pin fixtures
 date: 2024-11-28
 categories: hardware
-summary: Multi pin fixtures, ribbon cables, connectors and resistors<br><img width="100" src="https://github.com/user-attachments/assets/f2984a0c-dd5e-4ab4-ae55-7d4d180f96dc">
+summary: Multi pin fixtures, connectors and resistors<br><img width="100" src="https://github.com/user-attachments/assets/f2984a0c-dd5e-4ab4-ae55-7d4d180f96dc">
 permalink: multi-pin-fixtures
 ---
 
@@ -45,6 +45,16 @@ This is the cube build in progress: 5 of the 20 curtains are hanging:
 So what do you think? I ordered the cabling and build will be done the coming weeks. I posted this article because I hope more people will build large LED setups and we can share experiences. I also hope we use more or less standard components, so you don’t have to spent a long time searching for the right components but can reuse designs made before. 
 
 You can find the list of used hardware on our [Hardware page](https://moonmodules.org/hardware/#20x20x20-cube)
+
+Update: build the ribbon cable solution but this didn't work:
+
+<img width="300" src="https://github.com/user-attachments/assets/b112928c-fdd6-41e6-b34d-ecd0dbc14f61">
+
+The ribbon cable ruins the data and the leds show partly or random / flickering colors.
+
+So back to the system used in the big screen: each display (each curtain) gets its own 3 wire cable and all lines are connected at a central point.
+
+To be continued!
 
 You can comment on this on [discord](https://discord.gg/TC8NSUSCdV) or [reddit](https://www.reddit.com/r/MoonModules/).
 
