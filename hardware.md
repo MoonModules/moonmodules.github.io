@@ -51,7 +51,7 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
   
 <img width="300" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
 
-(or this one: [Alternative](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test if they also work: it also works but is slightly smaller) 
+(don't buy this one: [Alternative](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test but the t-connectors also have a led and only half of the lights burn in my test) 
 
 * [Logical Analyzer](https://a.aliexpress.com/_EGB6Ec9)
 to measure data signals in case of flickering leds
