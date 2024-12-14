@@ -81,22 +81,10 @@ good panels have
 
 <img width="300" src="https://github.com/user-attachments/assets/a792d6b7-d583-4751-878b-a70f4a88803c">
 
-## Projects
+* [Push in terminal block](https://s.click.aliexpress.com/e/_Ex2p4wg)
 
-### 20x20x20 Cube
+<img width="200" src="https://github.com/user-attachments/assets/51efa5b4-d3bb-47ed-a53c-a75203f2ded4">
 
-<img width="300" src="https://github.com/user-attachments/assets/f2984a0c-dd5e-4ab4-ae55-7d4d180f96dc">
-
-* ~~[3 meter 20P ribbon cable](https://s.click.aliexpress.com/e/_EGjOVwz)~~
-* ~~[20 pin PCB - connector](https://s.click.aliexpress.com/e/_EQSDdnn)~~
-* ~~[T-Connector](https://s.click.aliexpress.com/e/_EGpUIy9)~~
-* [LED curtains](https://s.click.aliexpress.com/e/_EJZsEU9)
-* [Power supples 100W](https://s.click.aliexpress.com/e/_EyOur57)
-* [3 pin connectors](https://s.click.aliexpress.com/e/_Evi95Wz)
-* [ESP32-S3](https://s.click.aliexpress.com/e/_DBAtJ2H)
-* [240R resistors](https://s.click.aliexpress.com/e/_EzqU7ms)
-* PCB: Custom build. If there is enough interest we consider design and manufacturing a batch, let us know if you want one on discord , reddit or GitHub.
-* see also [Multi pin fixtures](https://moonmodules.org/multi-pin-fixtures) - Update: Ribbon cables do not work!
 
 
 
