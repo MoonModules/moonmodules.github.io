@@ -54,7 +54,7 @@ The ribbon cable ruins the data and the leds show partly or random / flickering 
 
 So back to the system used in the big screen: each display (each curtain) gets its own 3-pin cable and all lines are connected at a central point.
 
-Update December 14: 3-pin cable central "hub":
+Update December 14: 3-pin cable central "hub" (6 of 20 curtains connected):
 
 <img width="300" src="https://github.com/user-attachments/assets/1dc1e8e9-2930-4db2-9e15-233d1872d2dc">
 
