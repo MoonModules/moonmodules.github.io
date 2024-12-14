@@ -38,6 +38,16 @@ For the power I need at least awg18 wires and each curtain needs power so I foun
 
 As the cube will be moved to different places, I wanted the cable to be fully removable so I used 3 pin connectors.
 
+* ~~[3 meter 20P ribbon cable](https://s.click.aliexpress.com/e/_EGjOVwz)~~
+* ~~[20 pin PCB - connector](https://s.click.aliexpress.com/e/_EQSDdnn)~~
+* ~~[T-Connector](https://s.click.aliexpress.com/e/_EGpUIy9)~~
+* [LED curtains](https://s.click.aliexpress.com/e/_EJZsEU9)
+* [Power supples 100W](https://s.click.aliexpress.com/e/_EyOur57)
+* [3 pin connectors](https://s.click.aliexpress.com/e/_Evi95Wz)
+* [ESP32-S3](https://s.click.aliexpress.com/e/_DBAtJ2H)
+* [240R resistors](https://s.click.aliexpress.com/e/_EzqU7ms)
+* PCB: Custom build. If there is enough interest we consider design and manufacturing a batch, let us know if you want one on discord , reddit or GitHub.
+
 This is the cube build in progress: 5 of the 20 curtains are hanging:
 
 <img width="300" src="https://github.com/user-attachments/assets/436b3f57-0bb8-44ae-88a4-f2da038ffd01">
