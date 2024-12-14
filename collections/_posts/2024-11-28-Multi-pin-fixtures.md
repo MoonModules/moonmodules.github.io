@@ -52,9 +52,13 @@ Update: build the ribbon cable solution but this didn't work:
 
 The ribbon cable ruins the data and the leds show partly or random / flickering colors.
 
-So back to the system used in the big screen: each display (each curtain) gets its own 3 wire cable and all lines are connected at a central point.
+So back to the system used in the big screen: each display (each curtain) gets its own 3-pin cable and all lines are connected at a central point.
 
-To be continued!
+Update December 14: 3-pin cable central "hub":
+
+<img width="300" src="https://github.com/user-attachments/assets/1dc1e8e9-2930-4db2-9e15-233d1872d2dc">
+
+To be continued! (resistors, capacitors, level shifters / shift registers)
 
 You can comment on this on [discord](https://discord.gg/TC8NSUSCdV) or [reddit](https://www.reddit.com/r/MoonModules/).
 
