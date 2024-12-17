@@ -23,6 +23,10 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
   
 <img width="250" src="https://github.com/user-attachments/assets/008546b8-65ce-40e7-a48a-3ab359f9fb89">
 
+* [ESP32 wrover](https://a.aliexpress.com/_EzhPi6g)
+
+<img width="250" src="https://github.com/user-attachments/assets/65d39b8e-9467-4538-b974-76b791884bd5">
+
 * [Lilygo T7 S3 (Ali)](https://s.click.aliexpress.com/e/_EGCULv7)
 
 <img width="250" src="https://github.com/user-attachments/assets/8d28a49d-5ba7-475d-a938-0c6be5fe5f45">
