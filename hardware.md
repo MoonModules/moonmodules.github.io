@@ -37,6 +37,11 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
   
 <img width="222" src="https://github.com/user-attachments/assets/bfedf80b-6596-41e7-a563-ba7dd58cc476">
 
+* [Ethernet board](https://a.aliexpress.com/_EGkyCYM)
+
+<img width="222" src="https://github.com/user-attachments/assets/19229007-f0f4-4e22-86b3-10e58a3360c8">
+
+
 * [Lyra board with audio in (Ali)](https://s.click.aliexpress.com/e/_DB1SZW9)
   
 <img width="300" src="https://github.com/user-attachments/assets/ad7d5f03-7594-48f1-8048-4a3ba1ce51bf">
