@@ -56,7 +56,7 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
 
 ### Leds
 
-* [RGB Led Curtain String (Ali)](https://s.click.aliexpress.com/e/_EyTZKja)
+* [RGB Led Curtain String (Recently bought)](https://s.click.aliexpress.com/e/_EyTZKja)
   
 <img width="300" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
 
@@ -68,7 +68,7 @@ Worked in 2023
 don't buy:
 * [Led Curtain](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test but the t-connectors also have a led and only half of the lights burn in my test
 * [Led Curtain](https://s.click.aliexpress.com/e/_DmRNypf), have red and blue swapped and lights in the T-connectors
-* [Led Curtain USB](https://s.click.aliexpress.com/e/_EzXzjVS) work with APA106, 600kHz protocol
+* [Led Curtain USB](https://s.click.aliexpress.com/e/_EzXzjVS) work with APA106, 600kHz protocol, red and blue swapped
 
 ### Hub75 panels
 
