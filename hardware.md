@@ -64,7 +64,7 @@ Led curtains are a bit tricky as they are not all the same, some have lights in 
 
 Worked in 2023
 * [Led Curtain](https://s.click.aliexpress.com/e/_EICaYTS)
-* 
+
 don't buy:
 * [Led Curtain](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test but the t-connectors also have a led and only half of the lights burn in my test
 * [Led Curtain](https://s.click.aliexpress.com/e/_DmRNypf), have red and blue swapped and lights in the T-connectors
