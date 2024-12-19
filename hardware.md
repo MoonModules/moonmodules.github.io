@@ -70,9 +70,6 @@ don't buy:
 * [Led Curtain](https://s.click.aliexpress.com/e/_DmRNypf), have red and blue swapped and lights in the T-connectors
 * [Led Curtain USB](https://s.click.aliexpress.com/e/_EzXzjVS) work with APA106, 600kHz protocol
 
-* [Logical Analyzer](https://a.aliexpress.com/_EGB6Ec9)
-to measure data signals in case of flickering leds
-
 ### Hub75 panels
 
 <img width="300" src="https://github.com/user-attachments/assets/4d386045-9526-4a5a-aa31-638058b31f32">
@@ -101,6 +98,8 @@ good panels have
 * [Push in terminal block](https://s.click.aliexpress.com/e/_Ex2p4wg)
 
 <img width="200" src="https://github.com/user-attachments/assets/51efa5b4-d3bb-47ed-a53c-a75203f2ded4">
+
+* [Logical Analyzer](https://a.aliexpress.com/_EGB6Ec9) to measure data signals in case of flickering leds
 
 
 
