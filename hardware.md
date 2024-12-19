@@ -19,8 +19,8 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
 
 ### Microcontrollers
 
-* [ESP32 S3 (Ali)](https://s.click.aliexpress.com/e/_DBAtJ2H)
-  
+* [ESP32 S3 N16R8 (Ali)](https://s.click.aliexpress.com/e/_DBAtJ2H)
+
 <img width="250" src="https://github.com/user-attachments/assets/008546b8-65ce-40e7-a48a-3ab359f9fb89">
 
 * [ESP32 wrover](https://a.aliexpress.com/_EzhPi6g)
@@ -56,11 +56,19 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
 
 ### Leds
 
-* [RGB Led Curtain String (Ali)](https://s.click.aliexpress.com/e/_DmRNypf)
+* [RGB Led Curtain String (Ali)](https://s.click.aliexpress.com/e/_EyTZKja)
   
 <img width="300" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
 
-(don't buy this one: [Alternative](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test but the t-connectors also have a led and only half of the lights burn in my test) 
+Led curtains are a bit tricky as they are not all the same, some have lights in the T-connector (not desirable), some are a few cm shorter, some need APA106 driver etc, some sellers may change the type. Consult us if you are unsure what to buy
+
+Worked in 2023
+* [Led Curtain](https://s.click.aliexpress.com/e/_EICaYTS)
+* 
+don't buy:
+* [Led Curtain](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test but the t-connectors also have a led and only half of the lights burn in my test
+* [Led Curtain](https://s.click.aliexpress.com/e/_DmRNypf), have red and blue swapped and lights in the T-connectors
+* [Led Curtain USB](https://s.click.aliexpress.com/e/_EzXzjVS) work with APA106, 600kHz protocol
 
 * [Logical Analyzer](https://a.aliexpress.com/_EGB6Ec9)
 to measure data signals in case of flickering leds
