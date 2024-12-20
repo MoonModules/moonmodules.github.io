@@ -21,15 +21,16 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
 
 * [ESP32 S3 N16R8 (Ali)](https://s.click.aliexpress.com/e/_DBAtJ2H)
 
-<img width="250" src="https://github.com/user-attachments/assets/008546b8-65ce-40e7-a48a-3ab359f9fb89">
+<img width="250" src="https://github.com/user-attachments/assets/008546b8-65ce-40e7-a48a-3ab359f9fb89"><img width="250" src="https://github.com/user-attachments/assets/32154cbe-8b5e-4cff-8fbe-8f1565f1ef2a">
 
 * [ESP32 wrover](https://a.aliexpress.com/_EzhPi6g)
 
-<img width="250" src="https://github.com/user-attachments/assets/65d39b8e-9467-4538-b974-76b791884bd5">
+<img width="250" src="https://github.com/user-attachments/assets/65d39b8e-9467-4538-b974-76b791884bd5"><img width="250" src="https://github.com/user-attachments/assets/f155f414-77d6-4b20-a4a0-9c0f5ef9407d">
 
 * [Lilygo T7 S3 (Ali)](https://s.click.aliexpress.com/e/_EGCULv7)
 
 <img width="250" src="https://github.com/user-attachments/assets/8d28a49d-5ba7-475d-a938-0c6be5fe5f45">
+<img width="250" src="https://github.com/user-attachments/assets/caf3555d-4e5b-4158-b8ba-b933864255d5">
 
 ### Periferal boards
 
