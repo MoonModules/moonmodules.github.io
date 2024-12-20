@@ -68,6 +68,14 @@ Update December 14: 3-pin cable central "hub" (6 of 20 curtains connected):
 
 <img width="300" src="https://github.com/user-attachments/assets/1dc1e8e9-2930-4db2-9e15-233d1872d2dc">
 
+Update December 20: Das Board
+
+<img width="300" src="https://github.com/user-attachments/assets/763dba71-97c6-4f68-ae60-f5aea52604bc"><img width="300" src="https://github.com/user-attachments/assets/5b5326fc-25bc-4c1f-baf5-ecd3aa0965be">
+
+1 ESP32-Wrover, 4 level shifters each serving 4 pins, 16 outputs for 16 curtains (okay assumed that 4 chips will serve 20 curtains so I will hack another level shifter to drive 20 curtains later).
+
+Currently driven by FastLed, but is slow for 16 pins, will move to [Physical driver](https://github.com/hpwit/I2SClocklessLedDriver) as soon as curtains are supported there.
+
 To be continued! (resistors, capacitors, level shifters / shift registers)
 
 You can comment on this on [discord](https://discord.gg/TC8NSUSCdV) or [reddit](https://www.reddit.com/r/MoonModules/).
