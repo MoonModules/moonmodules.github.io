@@ -1,10 +1,10 @@
 ---
 layout: post
 title: ESPLiveScript v1.2.0 released
-date: 2024-11-05
+date: 2024-11-06
 categories: libraries
 summary: ESPLiveScript v1.2.0 released<br><img width="100" src="https://github.com/user-attachments/assets/f8126083-2324-4305-8abf-731d502617b6">
-permalink: star-v050
+permalink: els-v120
 ---
 
 <img width="300" src="https://github.com/user-attachments/assets/f8126083-2324-4305-8abf-731d502617b6">
