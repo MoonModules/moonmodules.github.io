@@ -71,6 +71,10 @@ don't buy:
 * [Led Curtain](https://s.click.aliexpress.com/e/_DmRNypf), have red and blue swapped and lights in the T-connectors
 * [Led Curtain USB](https://s.click.aliexpress.com/e/_EzXzjVS) work with APA106, 600kHz protocol, red and blue swapped
 
+[cube stands](https://s.click.aliexpress.com/e/_ExMSPeG)
+
+<img width="300" src="https://github.com/user-attachments/assets/96c5a475-519d-45e7-a95b-7cc7dd0e9d49">
+
 ### Hub75 panels
 
 <img width="300" src="https://github.com/user-attachments/assets/4d386045-9526-4a5a-aa31-638058b31f32">
