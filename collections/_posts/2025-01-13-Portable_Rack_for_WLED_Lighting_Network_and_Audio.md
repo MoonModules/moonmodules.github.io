@@ -3,7 +3,7 @@ layout: post
 title: Portable Audio Rack for WLED with Audio, Lighting, and Network
 date: 2025-01-13
 categories: hardware
-summary: An easily portable rack for convenience with running shows with WLED<br /><img width="100" src="https://github.com/user-attachments/assets/590b32ca-ead3-424a-8af4-72665de924cd">
+summary: An easily portable rack for convenience with running shows with WLED<br /><img width="100" src="https://github.com/user-attachments/assets/ccc2f9d5-61fe-4c54-bd2d-00160406db9c">
 permalink: portable-wled-rack
 ---
 
@@ -18,7 +18,7 @@ Hey, [TroyHacks](https://github.com/troyhacks/WLED/) here.
 
 This is a portable rolling rack setup I cobbled together to bring all the tech I need for running light shows (and audio features) into a single portable unit with one easy power hookup:
 
-![PXL_20250110_210904857](https://github.com/user-attachments/assets/b8c1e329-1262-4857-a46b-4dc20e6cb142)
+![rack_new](https://github.com/user-attachments/assets/ccc2f9d5-61fe-4c54-bd2d-00160406db9c)
 
 On the front I have a power conditioner with a master switch with 8 outlets on the back and a convenience outlet on the front. There's a nice long power cable for plugging it all into house power. 
 
