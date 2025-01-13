@@ -57,21 +57,21 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
 
 ### Leds
 
-**Update Jan 2025**: Recently most shipments of LED curtains are curtains with T-Connectors with an LED in it. After doing some tests it turns out they need to be controlled as if it were 800 (instead of 400) lights as the T-connector LED shifts the LED id with 40. So subsequential leds are set by 0..19, 40..59, ..., 760-779. Consult us for latest info.
-
-* [RGB Led Curtain String](https://s.click.aliexpress.com/e/_EyTZKja)
-  
-<img width="300" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
+**Update Jan 2025**: Recently most shipments of LED curtains are curtains with T-Connectors with an LED in it. After doing some tests it turns out they need to be controlled as if it were 800 (instead of 400) lights as the T-connector LED shifts the LED id with 40. So subsequential leds are set by 0..19, 40..59, ..., 760-779. This means that the description below is based on latest received shipment, but curtain types might be different now. Consult us for latest info.
 
 Led curtains are a bit tricky as they are not all the same, some have lights in the T-connector (not desirable), some are a few cm shorter, some need APA106 driver etc, some sellers may change the type. Consult us if you are unsure what to buy
 
 Worked in 2023
 
+* [RGB Led Curtain String](https://s.click.aliexpress.com/e/_EyTZKja): normal 400 addresses (until mid-ish 2024!)
+  
+<img width="300" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
+
 * [Led Curtain](https://s.click.aliexpress.com/e/_EICaYTS)
 
 Ordered in 2024
 
-* [Led Curtain](https://s.click.aliexpress.com/e/_DCuOwNB), ordered one to test but the t-connectors also have a led and only half of the lights burn in my test
+* [Led Curtain](https://s.click.aliexpress.com/e/_DCuOwNB), t-connectors have a led and 800 addresses have to be used to burn 400 lights (see above) 
 * [Led Curtain](https://s.click.aliexpress.com/e/_DmRNypf), have red and blue swapped and lights in the T-connectors
 * [Led Curtain USB](https://s.click.aliexpress.com/e/_EzXzjVS) work with APA106, 600kHz protocol, red and blue swapped
 
