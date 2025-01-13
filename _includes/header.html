@@ -1,8 +1,37 @@
+<style>
+  .flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: stretch;
+}
+
+.flex-items:nth-child(1) {
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+}
+
+.flex-items:nth-child(2) {
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+}
+</style>
 <header class="site-header px-responsive">
-  <div class="mt2 wrap"></div>
-    <div style="float: left; width: 120px; vertical-align: middle;"><img src="https://raw.githubusercontent.com/MoonModules/moonmodules.github.io/refs/heads/main/images/moonmodules_mascot.png" style="width: 100px !important; height: 100px !important" /></div>
-    <div style="float: left; width: 300px; vertical-align: middle;"><a href="https://moonmodules.org/" style="font-weight: bold; text-decoration: none; color: black;">☾&nbsp;MoonModules&nbsp;☽</a><br><i>Open source lighting software, hardware and art</i></div>
-    <hr style="clear: both; margin-top: 0.5em; margin-bottom: 0.5em;">  
-    {% include navigation.html %}
+  <div class="flex-container">
+    <div class="flex-items"><img src="https://raw.githubusercontent.com/MoonModules/moonmodules.github.io/refs/heads/main/images/moonmodules_mascot.png" style="width: 100px !important; height: 100px !important" /></div>
+    <div class="flex-items"><a href="https://moonmodules.org/" style="font-weight: bold; text-decoration: none; color: black;">☾&nbsp;MoonModules&nbsp;☽</a><br><i>Open source lighting software, hardware and art</i></div>
+  </div>
+  <div class="mt2 wrap">
+        {% include navigation.html %}
   </div>
 </header>
