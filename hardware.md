@@ -57,9 +57,11 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
 
 ### Leds
 
-**Update Jan 2025**: Recently most shipments of LED curtains are curtains with T-Connectors with an LED in it. After doing some tests it turns out they need to be controlled as if it were 800 (instead of 400) lights as the T-connector LED shifts the LED id with 40. So subsequential leds are set by 0..19, 40..59, ..., 760-779. This means that the description below is based on latest received shipment, but curtain types might be different now. Consult us for latest info.
+**Update Jan 2025**: Recently most shipments of LED curtains are curtains with T-Connectors with an LED in it. After doing some tests it turns out they need to be controlled as if it were 800 (instead of 400) lights as the T-connector LED shifts the LED id with 40. So subsequential leds are set by 0..19, 40..59, ..., 760-779. This means that the description below is based on latest received shipment, but curtain types might be different now. 
 
-Led curtains are a bit tricky as they are not all the same, some have lights in the T-connector (not desirable), some are a few cm shorter, some need APA106 driver etc, some sellers may change the type. Consult us if you are unsure what to buy
+Led curtains are a bit tricky as they are not all the same, some have lights in the T-connector (not desirable), some are a few cm shorter, some need APA106 driver etc, some sellers may change the type. 
+
+Consult us if you are unsure what to buy. If you buy them, please tell us what type you received.
 
 Worked in 2023
 
