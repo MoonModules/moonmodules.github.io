@@ -9,6 +9,4 @@ Our work is open source, so everybody can see what we do and can use it, also co
 
 <img width="450" alt="Screenshot 2024-10-28 at 21 56 19" src="https://github.com/user-attachments/assets/33986337-3f1c-40ab-803e-820b33fbdd05">
 
-![385052168-791e15ec-fb06-468b-95f0-c5d53f00e69d](https://github.com/user-attachments/assets/5e6830f3-8b72-497e-b69b-043d3286032a)
-
 [**See latest news →**]({{ site.baseurl }}/blog)
