@@ -11,7 +11,7 @@ permalink: universal-control-box
 
 We make software and we deploy it on esp32 devices. We also do projects with it and one piece missing is to put electronics in an enclosure so it can be used in projects savely. I tried finding a good reusable enclosure but was not successful so decided to make our own. Main requirement is flexibility as we experiment a lot with hardware used. Next requirement is we would like to have our gear be part of professional setups so it at least should look professional to be accepted by the pros. So I designed a box which looks good and has a modular approach: the sides can be replaced to fit specific needs for switches, lights and connectors. The perforated sides allow for some fresh air inside and allows for screw terminals to be screwed through the holes.
 
-3 models have now been published and are available as 3D-printable model. They differ in size and the side plates available. Click on the links to go to Makerworld to print them.
+3 models have now been published and are available as 3D-printable model directly to a Bambu Labs printer or via STL-files. They differ in size and the side plates available. Click on the links to go to Makerworld to print them.
 
 <img width="400" src="https://github.com/user-attachments/assets/95b8cda1-f014-49ec-a72a-3e89c7d6d4bf" />
 
