@@ -39,7 +39,6 @@ We make software and we deploy it on esp32 devices. We also do projects with it 
 
 
 The sizes of the side plates are provided so you can easily develop your own. You are more then welcome to send your designs to us so it can be added for reuse.
-Also let us know if you want a specific size of the boxes. You can donate any amount you feel it's worth and we make it for you (and share it to the community)
 
 By Ewowi 
 (Discord/@ewowi)
