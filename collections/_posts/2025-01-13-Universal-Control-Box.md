@@ -3,13 +3,19 @@ layout: post
 title: Universal Control Box
 date: 2025-01-13
 categories: 3d-print
-summary: Universal control boxes in different sizes for esp32, shields and pcb<br><img width="100" src="https://github.com/user-attachments/assets/c43977c0-18d3-439d-b624-7b63fef0f02b">
+summary: Universal control boxes in different sizes for esp32, shields and pcb<br><img width="100" src="https://github.com/user-attachments/assets/06a7ba1e-695f-44e7-90a7-b92d810a3f21">
 permalink: universal-control-box
 ---
+
+<img width="400" src="https://github.com/user-attachments/assets/06a7ba1e-695f-44e7-90a7-b92d810a3f21">
+
+
 
 We make software and we deploy it on esp32 devices. We also do projects with it and one piece missing is to put electronics in an enclosure so it can be used in projects savely. I tried finding a good reusable enclosure but was not successful so decided to make our own. Main requirement is flexibility as we experiment a lot with hardware used. Next requirement is we would like to have our gear be part of professional setups so it at least should look professional to be accepted by the pros. So I designed a box which looks good and has a modular approach: the sides can be replaced to fit specific needs for switches, lights and connectors. The perforated sides allow for some fresh air inside and allows for screw terminals to be screwed through the holes.
 
 3 models have now been published. They differ in size and the side plates available.
+
+<img width="400" src="https://github.com/user-attachments/assets/95b8cda1-f014-49ec-a72a-3e89c7d6d4bf" />
 
 * [8.5x4x2 cm](https://makerworld.com/en/models/987898#profileId-962923) fitting the new [Olimex ESP32-P4](https://www.olimex.com/Products/IoT/ESP32-P4/ESP32-P4-DevKit/open-source-hardware)
 
