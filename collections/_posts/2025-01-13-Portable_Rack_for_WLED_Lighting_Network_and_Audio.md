@@ -3,7 +3,7 @@ layout: post
 title: Portable Audio Rack for WLED with Audio, Lighting, and Network
 date: 2025-01-13
 categories: hardware
-summary: An easily portable rack for convenience with running shows with WLED
+summary: An easily portable rack for convenience with running shows with WLED <img width="100" src="https://github.com/user-attachments/assets/590b32ca-ead3-424a-8af4-72665de924cd">
 permalink: portable-wled-rack
 ---
 
