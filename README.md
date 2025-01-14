@@ -8,7 +8,8 @@ The theme is [thundergolfer/**junior-theme**](https://github.com/thundergolfer/j
 
 ### What it looks like
 
-<img width="500" src="https://github.com/user-attachments/assets/cf895f0f-f5c3-45c1-b829-4198813d57c9">
+<img width="500" src="https://github.com/user-attachments/assets/20918ca4-33ec-483d-82f0-af72c5928fa0">
+
 
 ### What you can find there
 
