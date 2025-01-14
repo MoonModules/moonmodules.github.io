@@ -100,7 +100,7 @@ good panels have
 * ⁠higher "brightness" (1200 cd/m^2) - don't go below 800 cd/m^2
 * outdoor panels can easily reach 8000cd/m^2
 
-### Integrated Circuits
+### Multi-pin fixture shopping list
 
 In order to drive leds level shifters are adviced, mostly simple setups work without but the curtain cube works better with level shifters. If you want to use the virtual driver, you need shift registers. This is the shopping list:
 
