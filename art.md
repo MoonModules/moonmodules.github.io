@@ -15,6 +15,14 @@ headshot: https://github.com/user-attachments/assets/cc1f20bb-b724-4377-a4df-f1a
 
 ## Art, Installations, Projects
 
+### BFC
+
+The HCS tranformed into BFC
+
+<img width="250" alt="Screenshot 2025-01-14 at 17 18 37" src="https://github.com/user-attachments/assets/742aeae3-9dcb-4368-b29c-320d4f91eb2f" />
+
+See also [Video on insta](https://www.instagram.com/reel/DDEGQRPgLbX)
+
 ### Cube202020
 
 The Cube202020 (actually Cube202012 as it is work in progress) was displayed at a party late december at [Villa Ockenburgh](https://villaockenburgh.nl).
