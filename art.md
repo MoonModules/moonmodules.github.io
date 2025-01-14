@@ -41,7 +41,7 @@ Working together with Bicyclus, a local bike repair shop to decorate a classic [
 
 Designed and created by [netmindz](https://github.com/netmindz) using Stefan Petrick his [AnimARTrix](https://github.com/StefanPetrick/animartrix) library integrated in WLED MM.
 
-<img width="400" src="https://github.com/user-attachments/assets/6ec60692-2a30-4447-8be8-fe42a8f673e0">
+<img width="600" src="https://github.com/user-attachments/assets/6ec60692-2a30-4447-8be8-fe42a8f673e0">
 
 An overview of the AnimARTrix effects can be found on [youtube](https://www.youtube.com/playlist?list=PL7xCYThV9HuL354h9CA9STVKKeQmBsfju)
 
