@@ -106,6 +106,7 @@ In order to drive leds level shifters are adviced, mostly simple setups work wit
 
 #### Basics
 
+* [Universal Control Box 12x12x5 3D-print](https://moonmodules.org/universal-control-box) <img width="50" src="https://github.com/user-attachments/assets/fdb07bcf-80be-49b1-bb8d-b7c73b647943">
 * [Prototype board 10x10cm](https://s.click.aliexpress.com/e/_EHynR3E) - see Universal control box <img width="50" src="https://github.com/user-attachments/assets/c4e758bf-4f1a-4aa9-9f5b-a0aea70a9334">
 * [16 pin mini screw terminals](https://s.click.aliexpress.com/e/_Evjjvao) <img width="50" src="https://github.com/user-attachments/assets/da028e6c-ad70-4f51-871b-f493aff4a079">
 * [Wiring connector for gnd and +](https://s.click.aliexpress.com/e/_EuhbSz2) <img width="50" src="https://github.com/user-attachments/assets/67857187-145d-447c-b0ed-3c4c6737c643">
