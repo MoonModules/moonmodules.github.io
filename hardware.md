@@ -118,7 +118,7 @@ In order to drive leds level shifters are adviced, mostly simple setups work wit
 
 #### Physical driver
 
-<img width="75" src="https://github.com/user-attachments/assets/763dba71-97c6-4f68-ae60-f5aea52604bc"><img width="150" src="https://github.com/user-attachments/assets/5b5326fc-25bc-4c1f-baf5-ecd3aa0965be">
+<img width="100" src="https://github.com/user-attachments/assets/763dba71-97c6-4f68-ae60-f5aea52604bc"><img width="150" src="https://github.com/user-attachments/assets/5b5326fc-25bc-4c1f-baf5-ecd3aa0965be">
 
 * [Level shifter 74HCT125](https://s.click.aliexpress.com/e/_EHULbRi) <img width="50" src="https://github.com/user-attachments/assets/edd7e5e5-0343-4246-84ac-aa84eaff253b">
 
