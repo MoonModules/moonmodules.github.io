@@ -17,7 +17,7 @@ headshot: https://github.com/user-attachments/assets/cc1f20bb-b724-4377-a4df-f1a
 
 ### BFC
 
-The HCS tranformed into BFC
+The HSC tranformed into BFC
 
 <img width="250" alt="Screenshot 2025-01-14 at 17 18 37" src="https://github.com/user-attachments/assets/742aeae3-9dcb-4368-b29c-320d4f91eb2f" />
 
