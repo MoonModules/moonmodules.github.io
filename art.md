@@ -3,7 +3,7 @@ layout: about
 permalink: /art/
 title: Art
 tags: art
-headshot: https://github.com/user-attachments/assets/cc1f20bb-b724-4377-a4df-f1a26aa9e791
+headshot: https://github.com/user-attachments/assets/a4be72fc-ec33-478f-bdde-605d87649370
 ---
 
 ## Art, Installations, Projects
