@@ -118,7 +118,7 @@ In order to drive leds level shifters are adviced, mostly simple setups work wit
 
 #### Physical driver
 
-<img width="150" src="https://github.com/user-attachments/assets/763dba71-97c6-4f68-ae60-f5aea52604bc"><img width="150" src="https://github.com/user-attachments/assets/5b5326fc-25bc-4c1f-baf5-ecd3aa0965be">
+<img width="75" src="https://github.com/user-attachments/assets/763dba71-97c6-4f68-ae60-f5aea52604bc"><img width="150" src="https://github.com/user-attachments/assets/5b5326fc-25bc-4c1f-baf5-ecd3aa0965be">
 
 * [Level shifter 74HCT125](https://s.click.aliexpress.com/e/_EHULbRi) <img width="50" src="https://github.com/user-attachments/assets/edd7e5e5-0343-4246-84ac-aa84eaff253b">
 
@@ -127,7 +127,7 @@ In order to drive leds level shifters are adviced, mostly simple setups work wit
 * [Shift register 74HCT595](https://a.aliexpress.com/_EvG32bO) <img width="50" src="https://github.com/user-attachments/assets/3be05db4-9b6a-42bc-8a87-cfd79b9adae7">
 * [Shift register 74HCT245N](https://s.click.aliexpress.com/e/_Eu2j2PI) <img width="50" src="https://github.com/user-attachments/assets/e752bb7d-c042-4625-b26e-e4b36584e39d">
 
-Note: this has not yet been made on a 10x10 PCB, might be a bit of a wiring challenge ;-) 
+Note: this has not yet been made on a 10x10 PCB, might be a bit of a wiring challenge ;-). Prefab PCB has been used: see [Multi Pin Fixtures](https://moonmodules.org/multi-pin-fixtures)
 
 #### Optional
 * [100nF capacitors](https://s.click.aliexpress.com/e/_Ey0T35A) <img width="50" src="https://github.com/user-attachments/assets/29c23606-d95c-4f45-98b9-c4f71c3ab00e">
