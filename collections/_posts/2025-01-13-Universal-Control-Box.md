@@ -49,4 +49,4 @@ You are more then welcome to send your designs to us so it can be added for reus
 By [Ewowi](https://github.com/ewowi)
 (Discord/@ewowi)
 
-**Note**: Some of the links on this site are affiliate links. This means that if you click on one of these links and make a purchase, we may earn a small commission at no extra cost to you. This helps support MoonModules and allows us to maintain this website and invest in hardware to test. We only recommend products and services that we believe in and think will add value to you. Thanks for your support!
+[Affiliate links](https://moonmodules.org/hardware/#affiliate-links)
