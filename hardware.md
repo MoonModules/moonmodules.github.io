@@ -100,6 +100,25 @@ good panels have
 * ⁠higher "brightness" (1200 cd/m^2) - don't go below 800 cd/m^2
 * outdoor panels can easily reach 8000cd/m^2
 
+### Integrated Circuits
+
+In order to drive leds level shifters are adviced, mostly simple setups work without but the curtain cube works better with level shifters. If you want to use the virtual driver, 
+
+* [Level shifter](https://s.click.aliexpress.com/e/_EHULbRi)
+* [Shift register 74HCT595](https://a.aliexpress.com/_EvG32bO)
+* [Shift register 74HCT245N](https://s.click.aliexpress.com/e/_Eu2j2PI)
+* [3 pin wire](https://a.aliexpress.com/_EzvZKGo)
+* [100nF capacitors](https://s.click.aliexpress.com/e/_Ey0T35A)
+* [19 pin single row female header for ESP32 wrover](https://s.click.aliexpress.com/e/_EwL3TBa)
+* [22 pin single row female header for S3](https://s.click.aliexpress.com/e/_EusEfRK)
+* [33 ohm resistor between ic and dataline](https://s.click.aliexpress.com/e/_EIgcW1i) . See Quindor article
+* [16 pin mini screw terminals](https://s.click.aliexpress.com/e/_Evjjvao)
+* [Wiring connector for gnd and +](https://s.click.aliexpress.com/e/_EuhbSz2)
+* [Diode for USB protection](https://s.click.aliexpress.com/e/_Ex1sXZO)
+* [5v, 20A power supply](https://s.click.aliexpress.com/e/_Exdz2ZK)
+* [2 pin screw terminals for power](https://s.click.aliexpress.com/e/_EIowP0y)
+* [Prototype board 10x10cm](https://s.click.aliexpress.com/e/_EHynR3E) - see Universal control box
+
 ### Other
 
 * [3 wire connectors (Ali)](https://s.click.aliexpress.com/e/_Exx5GBb)
