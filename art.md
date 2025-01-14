@@ -6,13 +6,6 @@ tags: art
 headshot: https://github.com/user-attachments/assets/cc1f20bb-b724-4377-a4df-f1a26aa9e791
 ---
 
-## Components
-
-- Led Strips -> Sticks
-- Fairy lights -> Human Sized Cube
-- Matrix panels -> Big screens, Cubes
-- Hub75 -> Big screens, Cubes
-
 ## Art, Installations, Projects
 
 ### BFC
@@ -44,15 +37,30 @@ Working together with Bicyclus, a local bike repair shop to decorate a classic [
 * [Power supply 5V 4A](https://s.click.aliexpress.com/e/_EHB4MYo)
 * WLED-MM firmware on ESP32 board, WLED-native app
 
-## Socials
- * [ewowi](https://www.instagram.com/ewoudwijma)
+### WLED MM and AnimARTrix powered lamps
 
+Designed and created by [netmindz](https://github.com/netmindz) using Stefan Petrick his [AnimARTrix](https://github.com/StefanPetrick/animartrix) library integrated in WLED MM.
+
+<img width="400" src="https://github.com/user-attachments/assets/6ec60692-2a30-4447-8be8-fe42a8f673e0">
+
+An overview of the AnimARTrix effects can be found on [youtube](https://www.youtube.com/playlist?list=PL7xCYThV9HuL354h9CA9STVKKeQmBsfju)
+
+Find and buy the lamps on [Etsy](https://milliwattuk.etsy.com)
+
+More photos and videos on  [insta](https://www.instagram.com/milliwatt.uk/)
+
+## Socials
+* [troyhacks](https://www.instagram.com/troy_ess)
+* [netmindz](https://www.instagram.com/milliwatt.uk)
+* [ewowi](https://www.instagram.com/ewoudwijma)
+ 
 ## WIP
-* Insta
-* Etsy
 * Venues
 * Events
 * Burning Man installations - Tarna
 * Human sized cube
+* Led Strips -> Sticks
+* Fairy lights -> Human Sized Cube
+* Matrix panels -> Big screens, Cubes
+* Hub75 -> Big screens, Cubes
 * ...
-
