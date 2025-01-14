@@ -39,7 +39,11 @@ We make software and we deploy it on esp32 devices. We also do projects with it 
 
 
 The sizes of the side plates are provided so you can easily develop your own. 
-See [PCB Shopping list](https://moonmodules.org/hardware/#multi-pin-fixture-shopping-list) for a complete list of components used to build multi pin fixture setups, see [Multi pin fixtures](https://moonmodules.org/multi-pin-fixtures) for how to build them.
+
+See [PCB Shopping list](https://moonmodules.org/hardware/#multi-pin-fixture-shopping-list) for a complete list of components used to build multi pin fixture setups.
+
+See [Multi pin fixtures](https://moonmodules.org/multi-pin-fixtures) for how to build them.
+
 You are more then welcome to send your designs to us so it can be added for reuse.
 
 By [Ewowi](https://github.com/ewowi)
