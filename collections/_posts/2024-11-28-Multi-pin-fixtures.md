@@ -76,7 +76,7 @@ Update December 20: Das Board
 
 Currently driven by FastLed, but is slow for 16 pins, will move to [Physical driver](https://github.com/hpwit/I2SClocklessLedDriver) as soon as curtains are supported there.
 
-To be continued! (resistors, capacitors, level shifters / shift registers)
+To be continued! (resistors, capacitors, level shifters / shift registers), see [PCB Shopping list](https://moonmodules.org/hardware/#integrated-circuits) for a complete list of components used.
 
 You can comment on this on [discord](https://discord.gg/TC8NSUSCdV) or [reddit](https://www.reddit.com/r/MoonModules/).
 
