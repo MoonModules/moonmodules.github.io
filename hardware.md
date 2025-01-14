@@ -102,7 +102,8 @@ good panels have
 
 ### Multi-pin fixture shopping list
 
-In order to drive leds level shifters are adviced, mostly simple setups work without but the curtain cube works better with level shifters. If you want to use the virtual driver, you need shift registers. This is the shopping list:
+In order to drive leds using FastLED or the [Physical LED driver](https://github.com/hpwit/I2SClocklessLedDriver), level shifters are adviced. Mostly simple setups work without but for instance the curtain cubes works better with level shifters. 
+If you want to use the [Virtual LED Driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver), you need shift registers (no level shifters are needed in this case). This is the shopping list:
 
 #### Basics
 
@@ -116,13 +117,13 @@ In order to drive leds level shifters are adviced, mostly simple setups work wit
 * [19 pin single row female header for ESP32 wrover](https://s.click.aliexpress.com/e/_EwL3TBa) <img width="50" src="https://github.com/user-attachments/assets/fc05fc50-2b01-4ae9-9395-0d031dd4e0dd">
 * [22 pin single row female header for S3](https://s.click.aliexpress.com/e/_EusEfRK) <img width="50" src="https://github.com/user-attachments/assets/fc05fc50-2b01-4ae9-9395-0d031dd4e0dd">
 
-#### Physical driver
+#### Physical LED driver
 
 <img width="100" src="https://github.com/user-attachments/assets/763dba71-97c6-4f68-ae60-f5aea52604bc"><img width="150" src="https://github.com/user-attachments/assets/5b5326fc-25bc-4c1f-baf5-ecd3aa0965be">
 
 * [Level shifter 74HCT125](https://s.click.aliexpress.com/e/_EHULbRi) <img width="50" src="https://github.com/user-attachments/assets/edd7e5e5-0343-4246-84ac-aa84eaff253b">
 
-#### Virtual driver
+#### Virtual LED driver
 
 * [Shift register 74HCT595](https://a.aliexpress.com/_EvG32bO) <img width="50" src="https://github.com/user-attachments/assets/3be05db4-9b6a-42bc-8a87-cfd79b9adae7">
 * [Shift register 74HCT245N](https://s.click.aliexpress.com/e/_Eu2j2PI) <img width="50" src="https://github.com/user-attachments/assets/e752bb7d-c042-4625-b26e-e4b36584e39d">

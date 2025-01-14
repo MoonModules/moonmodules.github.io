@@ -7,18 +7,18 @@ summary: Multi pin fixtures, connectors and resistors<br><img width="100" src="h
 permalink: multi-pin-fixtures
 ---
 
-With the recent developments in supporting lots of LEDs thanks to the use of PSRAM on the ESP32-S3 and P4 and the use of virtual LED drivers or Art-Net controllers we are now able to support massive fixtures up to 16384 (and even more) pixels.
+With the recent developments in supporting lots of LEDs thanks to the use of PSRAM on the ESP32-S3 and P4 and the use of [Virtual LED Driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver) or Art-Net controllers we are now able to support massive fixtures up to 16384 (and even more) pixels.
 
-So I build a 12288 LEDs-screen of 48 panels (16x16 = 256 LEDs each), a 3840 LEDS-screen of 15 panels and I am about to build a 20x20x20 LED cube using LED curtains. They are controlled by [StarLight](https://github.com/MoonModules/StarLight) using [ESP Live Scripts](https://github.com/hpwit/ESPLiveScript) and the [virtual clockless driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver) which uses shift registers to multiply the number of pins available.
+So I build a 12288 LEDs-screen of 48 panels (16x16 = 256 LEDs each), a 3840 LEDS-screen of 15 panels and I am about to build a 20x20x20 LED cube using LED curtains. They are controlled by [StarLight](https://github.com/MoonModules/StarLight) using [ESP Live Scripts](https://github.com/hpwit/ESPLiveScript) and the [Virtual LED driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver) which uses shift registers to multiply the number of pins available.
 
 This brings new challenges in the wiring and powering of all of this. Where a single LED strip mostly has a 3 wire cable, now we need lots of wires. On the big-screen, I made a lot of 3 wire JST connector cables but for the cube (and possible a next screen) I will do it differently. I will show my new wiring plan further on.
 
 Also powering a lot of panels needs some thought. The original big screen by [hpwit/tekwit (Drive 12288 ws2812b with one esp32)](https://www.youtube.com/watch?v=jPPd2A3RyW0&t=9s), has one big 600 W / 24 V / 25A power supply with power rails and buck converters to bring the power back to 5 V. 24 V is used to have less A so smaller wires can be used.
 As the price per Watt of a power supply is more or less linear, I decided to go with 6 smaller power supplies of 100 W / 5V / 20A each, for the big screen. In both cases each panel gets 12.5 W / 5V / 2.5 A. For the little-screen, I only used one 100 W power supply so each panel only gets 6.6 W / 1.2 A which turnouts to be enough.
 
-Next is actually connecting all these wires to the power supplies and the controller. In case of the virtual led driver, a controller board with shift registers is used where each panel has its own data line, resulting in 48 connections to be made.
+Next is actually connecting all these wires to the power supplies and the controller. In case of the [Virtual LED Driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver), a controller board with shift registers is used where each panel has its own data line, resulting in 48 connections to be made.
 If you use an artnet-controller (see what we use on our hardware page) a few panels are daisy chained and one data line for each group of panels is connected to the controller using screw terminals.
-For the virtual driver shift register board, I used screw terminals for the big-screen and I soldered it for the little-screen.
+For the [Virtual LED Driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver) shift register board, I used screw terminals for the big-screen and I soldered it for the little-screen.
 
 The end result looks like this:
 
@@ -74,7 +74,7 @@ Update December 20: Das Board
 
 1 ESP32-Wrover, 4 level shifters each serving 4 pins, 16 outputs for 16 curtains (okay assumed that 4 chips will serve 20 curtains so I will hack another level shifter to drive 20 curtains later).
 
-Currently driven by FastLed, but is slow for 16 pins, will move to [Physical driver](https://github.com/hpwit/I2SClocklessLedDriver) as soon as curtains are supported there.
+Currently driven by FastLed, but is slow for 16 pins, will move to [Physical LED driver](https://github.com/hpwit/I2SClocklessLedDriver) as soon as curtains are supported there.
 
 To be continued! (resistors, capacitors, level shifters / shift registers), see [PCB Shopping list](https://moonmodules.org/hardware/#multi-pin-fixture-shopping-list) for a complete list of components used.
 
