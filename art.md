@@ -50,9 +50,9 @@ Find and buy the lamps on [Etsy](https://milliwattuk.etsy.com)
 More photos and videos on  [insta](https://www.instagram.com/milliwatt.uk/)
 
 ## Socials
-* [troyhacks](https://www.instagram.com/troy_ess)
-* [netmindz](https://www.instagram.com/milliwatt.uk)
-* [ewowi](https://www.instagram.com/ewoudwijma)
+* [troyhacks on insta](https://www.instagram.com/troy_ess)
+* [netmindz on insta](https://www.instagram.com/milliwatt.uk)
+* [ewowi on insta](https://www.instagram.com/ewoudwijma)
  
 ## WIP
 * Venues
