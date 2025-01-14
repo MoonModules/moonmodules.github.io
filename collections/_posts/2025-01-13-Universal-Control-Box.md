@@ -38,7 +38,9 @@ We make software and we deploy it on esp32 devices. We also do projects with it 
     * [DMX/XLR connectors](https://s.click.aliexpress.com/e/_EIavYI0)
 
 
-The sizes of the side plates are provided so you can easily develop your own. You are more then welcome to send your designs to us so it can be added for reuse.
+The sizes of the side plates are provided so you can easily develop your own. 
+See [PCB Shopping list](https://moonmodules.org/hardware/#integrated-circuits) for a complete list of components used to build multi pin fixture setups, see [Multi pin fixtures](https://moonmodules.org/multi-pin-fixtures) for how to build them.
+You are more then welcome to send your designs to us so it can be added for reuse.
 
 By [Ewowi](https://github.com/ewowi)
 (Discord/@ewowi)
