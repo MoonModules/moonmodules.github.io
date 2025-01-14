@@ -110,7 +110,6 @@ In order to drive leds level shifters are adviced, mostly simple setups work wit
 * [Prototype board 10x10cm](https://s.click.aliexpress.com/e/_EHynR3E) - see Universal control box <img width="50" src="https://github.com/user-attachments/assets/c4e758bf-4f1a-4aa9-9f5b-a0aea70a9334">
 * [16 pin mini screw terminals](https://s.click.aliexpress.com/e/_Evjjvao) <img width="50" src="https://github.com/user-attachments/assets/da028e6c-ad70-4f51-871b-f493aff4a079">
 * [Wiring connector for gnd and +](https://s.click.aliexpress.com/e/_EuhbSz2) <img width="50" src="https://github.com/user-attachments/assets/67857187-145d-447c-b0ed-3c4c6737c643">
-* [Diode for USB protection](https://s.click.aliexpress.com/e/_Ex1sXZO) <img width="50" src="https://github.com/user-attachments/assets/0766a337-eb2f-47fd-a26a-098d3649b184">
 * [5v, 20A power supply](https://s.click.aliexpress.com/e/_Exdz2ZK) <img width="50" src="https://github.com/user-attachments/assets/bf2a2bf0-cac4-4897-84ab-233d6b77745e">
 * [2 pin screw terminals for power](https://s.click.aliexpress.com/e/_EIowP0y) <img width="50" src="https://github.com/user-attachments/assets/cd77ebbc-f145-4128-9c88-90be1ce21e24">
 * [3 pin wire 22AWG](https://a.aliexpress.com/_EzvZKGo) <img width="50" src="https://github.com/user-attachments/assets/08b6cf5a-1c55-4562-9bcb-41fba0e68dc7">
@@ -133,8 +132,7 @@ Note: this has not yet been made on a 10x10 PCB, might be a bit of a wiring chal
 #### Optional
 * [100nF capacitors](https://s.click.aliexpress.com/e/_Ey0T35A) <img width="50" src="https://github.com/user-attachments/assets/29c23606-d95c-4f45-98b9-c4f71c3ab00e">
 * [33 ohm resistor between ic and dataline](https://s.click.aliexpress.com/e/_EIgcW1i) . See Quindor article <img width="50" src="https://github.com/user-attachments/assets/f420c8e9-27b3-4511-a481-0761c29d3eaf">
-
-
+* [Diode for USB protection](https://s.click.aliexpress.com/e/_Ex1sXZO) <img width="50" src="https://github.com/user-attachments/assets/0766a337-eb2f-47fd-a26a-098d3649b184">
 
 ### Other
 
