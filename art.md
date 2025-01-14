@@ -23,7 +23,7 @@ The Cube202020 (actually Cube202012 as it is work in progress) was displayed at 
 
 See [Multi Led Fixtures](https://moonmodules.org/multi-pin-fixtures), [Led Curtains](https://moonmodules.org/hardware/#led-curtains) and [Multi pin fixture shopping list](https://moonmodules.org/hardware/#multi-pin-fixture-shopping-list) for more info.
 
-See also [Insta](https://www.instagram.com/reel/DESUP5zNcr1)
+See also [Video on insta](https://www.instagram.com/reel/DESUP5zNcr1)
 
 ### Led strips on Mikael Pedersen bike
 
