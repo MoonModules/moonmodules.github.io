@@ -20,9 +20,9 @@ With WLED, the only limit is imagination, making it a true game-changer in the l
 
 ## Art, Installations, Projects
 
-### BFC
+### The Big Freakin' Cube (The BFC)
 
-The HSC tranformed into BFC
+The HSC - Human Sized Cube - tranformed into BFC
 
 <img width="250" alt="Screenshot 2025-01-14 at 17 18 37" src="https://github.com/user-attachments/assets/742aeae3-9dcb-4368-b29c-320d4f91eb2f" />
 
