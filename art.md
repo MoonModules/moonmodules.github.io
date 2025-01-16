@@ -10,7 +10,7 @@ WLED has become a revolutionary tool in the world of lighting art. Known for its
 
 From large-scale installations in public spaces to intricate hobby projects, WLED is celebrated for its ability to create stunning visual effects that can be tailored to any artistic need.
 
-Recent improvements have made WLED even more suitable for larger installations. Enhanced support for multi-pin output and the use of more powerful ESP32 boards like the ESS32-P4 has enabled artists to control many thousands of LEDs seamlessly. These advancements ensure that even the most ambitious projects can be realized with precision and ease.
+Recent improvements have made WLED even more suitable for larger installations. Enhanced support for multi-pin output and the use of more powerful ESP32 boards like the ESP32-P4 has enabled artists to control many thousands of LEDs seamlessly. These advancements ensure that even the most ambitious projects can be realized with precision and ease.
 
 This has led to a surge in its popularity globally, as creative minds from different cultures and backgrounds explore new possibilities in light-based art.
 
