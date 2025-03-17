@@ -15,6 +15,7 @@ See [StarBase and StarLight v0.6.0 2024 wrap-up](https://moonmodules.org/star-v0
 <img width="200" src="https://github.com/user-attachments/assets/c43977c0-18d3-439d-b624-7b63fef0f02b"/>
 
 I used the christmas holiday to reflect on where we are with StarLight and the challenge I have with getting the UI right and I tried something new, which looks very promising: I did a POC using [ESP SvelteKit](https://github.com/theelims/ESP32-sveltekit) and the result is that I will go ahead with this framework to further develop StarLight (-as-a-service). Results can be found in the [MoonLight repo](https://github.com/MoonModules/MoonLight) and work in progress in the [kanban](https://github.com/users/MoonModules/projects/2).
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/58af7555-5a07-4d18-a228-5620db039061" />
 
 So we started with StarMod, then renamed to StarBase and StarLight and with the introduction of Svelte it became MoonLight. There is no separate MoonBase (yet) as ESP32-Sveltekit is the base now, although we will create non LED features like a files manager and an instance manager (supersync 2.0).
 
