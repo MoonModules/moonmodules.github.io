@@ -11,9 +11,9 @@ MoonModules has been founded in 2021 by Ewowi and Harry Baas who at the time dev
 
 Since then we have worked on the first release of Aircoookie WLED 0.14 which introduced Sound Reactive and 2D support as created in the Atuline fork. At this time SoftHack007 joined. We also supported subsequent releases, which we do sence then.
 
-At the same time we developed WLED MM, a new fork of Aircoookie WLED as we had more ideas and creativity then Aircoookie WLED could digest. The MoonModules knowledge repository gives an overview of what we made. Recent versions of WLED MM focus more on large LED installations, Art-Net support and HUB75 support. Since this time, Troy, Soren, and NetMindz joined MoonModules.
+At the same time we developed WLED MM, a new fork of Aircoookie WLED as we had more ideas and creativity then Aircoookie WLED could digest. The MoonModules knowledge repository gives an overview of what we made. WLED MM focus on large LED installations, Art-Net and HUB75 support, support for new devices like the ESP32-P4. Mulitple instance synchronisation (supersync) and much more. During this time, Troy, Sören, and NetMindz joined MoonModules.
 
-Started in 2023 we are also developing a new product based on our experience working with WLED. We took the module concept of WLED and took that further by making everything a module, this was called StarMod. This then allowed us to split LED and non-LED functionality and StarBase and StarLight was born. StarBase containing generic functionality and StarLight to add lighting functionality on top of that. As StarBase is generic and can be used to develop any ESP32 based application. StarLight key features are 3D support, support for any fixture, projections, up to 16432 LEDs, live coding of fixture definitions, effects and projections, Art-Net, and DMX support.
+Started in 2023 we are also developing a new product based on our experience working with WLED called MoonLight. MoonLight is an attempt to build a modern alternative to WLED, with a modern UI, and supporting 1D, 2D and 3D fixtures, effects and projections and live scripts and led drivers.
 
 ![Netherlands](https://github.com/user-attachments/assets/ab4a122b-8687-4300-8300-178afa8e37af)
 ![Germany](https://github.com/user-attachments/assets/d14c4a6b-a8ba-4677-be26-b9e6b570dbe7)
