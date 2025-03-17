@@ -3,7 +3,7 @@ layout: post
 title: Star-Mod-Base-Light-Moon-Svelte-Live
 date: 2025-03-17
 categories: software
-summary: From StarMod to MoonLight<br><img width="100" src="https://github.com/user-attachments/assets/de0ab735-d547-462e-b7e3-c3f819bf9283">
+summary: From StarMod to MoonLight<br><img width="100" src="https://github.com/user-attachments/assets/14cf0ba7-d535-4edf-8d69-7a6cd0089e7d">
 permalink: Star-Mod-Base-Light-Moon-Svelte-Live
 ---
 
@@ -18,12 +18,20 @@ I used the christmas holiday to reflect on where we are with StarLight and the c
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/58af7555-5a07-4d18-a228-5620db039061" />
 
 So we started with StarMod, then renamed to StarBase and StarLight and with the introduction of Svelte it became MoonLight. There is no separate MoonBase (yet) as ESP32-Sveltekit is the base now, although we will create non LED features like a files manager and an instance manager (supersync 2.0).
+Confusing isn't it 😉
 
-To make things even worse, we created another repo [ewowi/ESP32-svelte-live-mm](https://github.com/ewowi/ESP32-svelte-live-mm). Because the Sveltekit updated from Svelte 3 to Svelte 5 which changes the syntax of the UI components. And also because we wanted to create a minimal version to add [hpwit/ESPLiveScript](https://github.com/hpwit/ESPLiveScript) to optimize this in a clean environment. This will also be a playground to test a new effects and projections model where multiple effects and multiple projections can be combined (e.g. using nodes and noodles). This repo will be merged into MoonLight.
+To make things even worse, we created another repo [ewowi/ESP32-svelte-live-mm](https://github.com/ewowi/ESP32-svelte-live-mm). Because the Sveltekit updated from Svelte 3 to Svelte 5 which changes the syntax of the UI components. And also because we wanted to create a minimal version to add [hpwit/ESPLiveScript](https://github.com/hpwit/ESPLiveScript) to optimize this in a clean environment. This will also be a playground to test a new effects and projections model where multiple effects and multiple projections can be combined (e.g. using nodes and noodles). This repo will be merged into MoonLight later.
+
+Below is an overview of the repos:
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/14cf0ba7-d535-4edf-8d69-7a6cd0089e7d" />
 
+So currently most activity is on the ESP32-svelte-live-mm repo, moving to the MoonLight repo later on. The StarBase repo will not be updated for the time being and the StarLight repo has a branch called star-as-a-service which is used as a library in MoonLight. Depending on the outcome of what is happening in ESP32-svelte-live-mm, the StarLight repo might also become obsolete.
+
+I hope this helps a bit explaining what is going on.
+
 Want to play: [MoonLight getting started](https://moonmodules.org/MoonLight/general/gettingstarted/)
+Want to help: more help is absolulely appreciated! Especially in the area of UI design and development, but also in testing, documenting and developing new functionalities. Contact us on our channels.
 
 By [ewowi](https://github.com/ewowi)
 (Discord/@ewowi)
