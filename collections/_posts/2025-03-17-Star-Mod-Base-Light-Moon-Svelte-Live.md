@@ -7,7 +7,7 @@ summary: From StarMod to MoonLight<br><img width="100" src="https://github.com/u
 permalink: Star-Mod-Base-Light-Moon-Svelte-Live
 ---
 
-<img width="400" src="https://github.com/user-attachments/assets/de0ab735-d547-462e-b7e3-c3f819bf9283"></img>
+<img width="400" src="https://github.com/user-attachments/assets/de0ab735-d547-462e-b7e3-c3f819bf9283"/>
 
 Started in 2023 we are developing a new product based on our experience working with WLED. We took the module concept of WLED and took that further by making everything a module, this was called StarMod. This then allowed us to split LED and non-LED functionality and StarBase and StarLight was born. StarBase containing generic functionality and StarLight to add lighting functionality on top of that. As StarBase is generic and can be used to develop any ESP32 based application. StarLight key features are 3D support, support for any fixture, projections, up to 16432 LEDs, live coding of fixture definitions, effects and projections, Art-Net, and DMX support.
 
