@@ -12,6 +12,7 @@ permalink: Star-Mod-Base-Light-Moon-Svelte-Live
 Started in 2023 we are developing a new product based on our experience working with WLED. We took the module concept of WLED and took that further by making everything a module, this was called StarMod. This then allowed us to split LED and non-LED functionality and StarBase and StarLight was born. StarBase containing generic functionality and StarLight to add lighting functionality on top of that. As StarBase is generic and can be used to develop any ESP32 based application. StarLight key features are 3D support, support for any fixture, projections, up to 16432 LEDs, live coding of fixture definitions, effects and projections, Art-Net, and DMX support.
 
 See [StarBase and StarLight v0.6.0 2024 wrap-up](https://moonmodules.org/star-v060)
+<img width="200" src="https://github.com/user-attachments/assets/c43977c0-18d3-439d-b624-7b63fef0f02b"/>
 
 I used the christmas holiday to reflect on where we are with StarLight and the challenge I have with getting the UI right and I tried something new, which looks very promising: I did a POC using [ESP SvelteKit](https://github.com/theelims/ESP32-sveltekit) and the result is that I will go ahead with this framework to further develop StarLight (-as-a-service). Results can be found in the [MoonLight repo](https://github.com/MoonModules/MoonLight) and work in progress in the [kanban](https://github.com/users/MoonModules/projects/2).
 
