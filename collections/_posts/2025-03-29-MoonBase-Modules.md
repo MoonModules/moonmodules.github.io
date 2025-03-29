@@ -19,7 +19,7 @@ A simple module called [ModuleAnimations](https://moonmodules.org/MoonLight/cust
 
 It has never been easier to build your own custom functionality with a super sexy UI. Give it a try using the [getting started instructions](https://moonmodules.org/MoonLight/general/gettingstarted/). 
 
-This will be the basis to build a flexible system where multiple effects are mixed up with other building blocks like fixture definitions, mappings and projections. Ultimately done in a ‘nodes and noodles’ setup (pic) where each building block can be connected to others. Each building block can run pre-compiled code or run ultra fast live scripts - which can be created and edited without flashing new firmware.
+This will be the basis to build a flexible system where multiple effects are mixed up with other building blocks like fixture definitions, mappings and projections. Ultimately done in a ‘nodes and noodles’ setup where each building block can be connected to others. Each building block can run pre-compiled code or run ultra fast live scripts - which can be created and edited without flashing new firmware.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/c73fd772-5353-4fdb-9cc1-147adc1e686b" />
 
