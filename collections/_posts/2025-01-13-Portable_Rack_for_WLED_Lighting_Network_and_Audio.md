@@ -47,3 +47,4 @@ Future plans would be a USB-C docking station to allow a laptop full power and E
 
 The [Sound Town rolling 6U rack](https://www.amazon.com/Sound-Town-Lightweight-Construction-Retractable/dp/B07XQ2KH1V) has a retractable handle (5U usable, as the handle takes up almost 1U) and can be fully enclosed for travel. It includes a nice zipper pouch on one of the covers for storing my tablet and all my random adapters and spare cords, etc.
 
+Discuss on [Reddit](https://www.reddit.com/r/MoonModules/comments/1jtgpju/portable_wled_rack)
