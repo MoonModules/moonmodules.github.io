@@ -78,6 +78,6 @@ Currently driven by FastLed, but is slow for 16 pins, will move to [Physical LED
 
 To be continued! (resistors, capacitors, level shifters / shift registers), see [PCB Shopping list](https://moonmodules.org/hardware/#multi-pin-fixture-shopping-list) for a complete list of components used.
 
-You can comment on this on [discord](https://discord.gg/TC8NSUSCdV) or [reddit](https://www.reddit.com/r/MoonModules/).
+You can comment on this on [discord](https://discord.gg/TC8NSUSCdV) or [reddit](https://www.reddit.com/r/MoonModules/comments/1h1vg2o/multi_pin_fixtures).
 
 (Post written by ewowi)
