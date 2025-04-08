@@ -13,7 +13,7 @@ permalink: MoonBase-Modules
 
 As a side effect [MoonBase-Modules](https://ewowi.github.io/MoonBase/custom/modules/) is implemented. What started as WLED usermods was further developed in StarBase but got an unexpected powerful re-implementation here using a lot of goodies from ESP32-SvelteKit: automatic setup of http rest apis,  websockets, data persistence and automatic creation of the UI. All done by a JSON definition document. 
 
-A simple module called [ModuleAnimations](https://ewowi.github.io/MoonBase/custom/module/animations/) has been added to MoonBase, which controls brightness and multiple effects in parallel. Currently only 3 effects are added plus de possibility to run multiple live scripts.
+A simple module called [ModuleAnimations](https://ewowi.github.io/MoonBase/moonbase/module/animations/) has been added to MoonBase, which controls brightness and multiple effects in parallel. Currently only 3 effects are added plus de possibility to run multiple live scripts.
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/022fde4d-9a3b-456c-ade5-e18219e5a5d5" />
 
