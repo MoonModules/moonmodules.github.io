@@ -11,7 +11,7 @@ permalink: MoonBase-Modules
 
 [MoonBase v0.5.4](https://github.com/ewowi/MoonBase/releases/tag/v0.5.4) is released! See [Star-Mod-Base-Light-Moon-Svelte-Live](https://moonmodules.org/Star-Mod-Base-Light-Moon-Svelte-Live): MoonBase is using latest [ESP32-SvelteKit](https://github.com/theelims/ESP32-sveltekit) using Svelte 5 and started as a test setup for [ESPLiveScript](https://github.com/hpwit/ESPLiveScript.git). 
 
-As a side effect [MoonBase-Modules](https://ewowi.github.io/MoonBase/custom/modules/) is implemented. What started as WLED usermods was further developed in StarBase but got an unexpected powerful re-implementation here using a lot of goodies from ESP32-SvelteKit: automatic setup of http rest apis,  websockets, data persistence and automatic creation of the UI. All done by a JSON definition document. 
+As a side effect [MoonBase-Modules](https://ewowi.github.io/MoonBase/moonbase/modules/) is implemented. What started as WLED usermods was further developed in StarBase but got an unexpected powerful re-implementation here using a lot of goodies from ESP32-SvelteKit: automatic setup of http rest apis,  websockets, data persistence and automatic creation of the UI. All done by a JSON definition document. 
 
 A simple module called [ModuleAnimations](https://ewowi.github.io/MoonBase/moonbase/module/animations/) has been added to MoonBase, which controls brightness and multiple effects in parallel. Currently only 3 effects are added plus de possibility to run multiple live scripts.
 
