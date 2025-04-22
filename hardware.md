@@ -21,6 +21,22 @@ headshot:
 
 We designed a passive adapter board to connect a Lilygo T7-S3 to a HUB75 Panel. WLED MoonModules has a build which can be flashed onto this board. See [News/MoonHub75](https://moonmodules.org/moonhub75)
 
+## 3D Prints
+
+Prints we have designed or printed
+
+* [16x16-led-matrix-grid](https://www.printables.com/model/450231-16x16-led-matrix-grid)
+
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/ce9a0d7e-38fc-497b-a818-4affd7b8228b" />
+
+* [illuminated-sphere](https://www.printables.com/model/61584-geodesic-led-sphere-ws2812-illuminated-sphere-with/) see [Discord](https://discord.com/channels/473448917040758787/801531333067014164/1360827413142966374)
+
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/b5c3720b-8115-4db3-8481-4f93f9e3d733" />
+
+* [MoonModules Control boxes](https://makerworld.com/en/@ewoud/upload), see also [universal-control-box](https://moonmodules.org/universal-control-box)
+
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/dc057591-633e-4508-9e58-7929a6a1f856" />
+
 ## Best buy guide
 
 Hardware we have used / tested. If you are not sure what to buy, you can try one of the items below. We used this hardware with our software and for our projects.
