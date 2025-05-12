@@ -51,7 +51,7 @@ This page contains the links to places where we look frequently and can be regar
 
 - [moonmodules.github.io](https://github.com/MoonModules/moonmodules.github.io) -> [moonmodules.org](https://moonmodules.org) - Fork this repo and submit PR's to propose changes to this website
 - [WLED-Docs](https://github.com/MoonModules/WLED-Docs) -> [mm.kno.wled.ge](https://mm.kno.wled.ge)
-- [StarDocs 0.5.0](https://github.com/ewowi/StarDocs) -> [Star Docs](https://ewowi.github.io/StarDocs/)
+- [MoonLight docs](https://MoonModules.org/MoonLight)
 - [Wladi WLED FAQ](https://wled-faq.github.io) (unofficial documentation in German/English), [Wladi WLED calculator](https://wled-calculator.github.io/).
 
 <p>
