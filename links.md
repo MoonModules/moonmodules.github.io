@@ -9,12 +9,11 @@ This page contains the links to places where we look frequently and can be regar
 
 ## Software
 
-### WLED
+### WLED-MM
 - [WLED MM](https://github.com/MoonModules/WLED)
 
-### Star
-- [StarLight](https://github.com/MoonModules/StarLight)
-- [StarBase](https://github.com/ewowi/StarBase)
+### MoonLight
+- [MoonLight](https://github.com/MoonModules/MoonLight)
 
 ## Hardware
 
@@ -26,9 +25,8 @@ This page contains the links to places where we look frequently and can be regar
 
 - [WLED webinstaller](https://install.wled.me/) or [Wladi WLED unofficial installer](https://wled-install.github.io/) - Not on Safari
 - or flash Github created firmware (.bin files):
-    - WLED MM: [Latest release](https://github.com/MoonModules/WLED/releases) [Latest development](https://github.com/MoonModules/WLED/actions)
-    - StarLight: [Latest release](https://github.com/MoonModules/StarLight/releases) [Latest development](https://github.com/MoonModules/StarLight/actions)
-    - StarBase: [Latest release](https://github.com/ewowi/StarBase/releases) [Latest development](https://github.com/ewowi/StarBase/actions)
+    - WLED-MM: [Latest release](https://github.com/MoonModules/WLED/releases) [Latest development](https://github.com/MoonModules/WLED/actions)
+    - MoonLight: [Latest release](https://github.com/MoonModules/MoonLight/releases) [Latest development](https://github.com/MoonModules/MoonLight/actions)
     - Latest release: scroll to assets. Latest development: Select latest run, scroll down.
     - What software do I need? See [moonmodules/Software](https://moonmodules.org/software)
     - Select the binary (.bin file) matching the board you install to. See [moonmodules/Hardware](https://moonmodules.org/hardware)
