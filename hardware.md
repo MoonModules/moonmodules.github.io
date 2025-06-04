@@ -56,6 +56,8 @@ Hardware we have used / tested. If you are not sure what to buy, you can try one
 <img width="250" src="https://github.com/user-attachments/assets/8d28a49d-5ba7-475d-a938-0c6be5fe5f45">
 <img width="250" src="https://github.com/user-attachments/assets/caf3555d-4e5b-4158-b8ba-b933864255d5">
 
+* adviced for the MoonHub75PCB, see above
+
 ### Periferal boards
 
 * [I2S ADC Audio (Ali)](https://s.click.aliexpress.com/e/_DBr6Oqv)
@@ -125,6 +127,20 @@ good panels have
 * ⁠larger led chips (3535 vs 2121 vs 1515)
 * ⁠higher "brightness" (1200 cd/m^2) - don't go below 800 cd/m^2
 * outdoor panels can easily reach 8000cd/m^2
+
+### Moving Heads
+
+* [19x15W Zoom Wash Lights RGBW Beam Moving Head Light ](https://s.click.aliexpress.com/e/_EGvoUVc)
+  * 19 leds, 15W each, max 285W (standby about 25W)
+  * 3 led groups: 1, 6 and 12 leds: 16Ch mode: all as one RGB, 24CH mode, each group accessible
+  * Support zoom! Focused beam is good, no RGB artifacts in beam while projected.
+  * Temperature controlled fan - not on at low brightness
+  * Powercon, powerful menu
+  * No gobo's
+  * Supported by latest MoonLight dev !
+
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/d03b1b66-320f-4e76-9ad8-7acb622358aa" />
+
 
 ### Multi-pin fixture shopping list
 
