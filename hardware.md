@@ -138,7 +138,7 @@ good panels have
   * Powercon, powerful menu
   * No gobo's
   * (discounted?) Price: 100-110€
-  * Supported by latest MoonLight dev !
+  * Supported by latest MoonLight dev ! See demo [here](https://discord.com/channels/700041398778331156/1369577911677354046/1379559184801988649)
 
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/d03b1b66-320f-4e76-9ad8-7acb622358aa" />
 
