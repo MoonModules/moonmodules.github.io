@@ -137,6 +137,7 @@ good panels have
   * Temperature controlled fan - not on at low brightness
   * Powercon, powerful menu
   * No gobo's
+  * (discounted?) Price: 100-110€
   * Supported by latest MoonLight dev !
 
 <img width="378" alt="image" src="https://github.com/user-attachments/assets/d03b1b66-320f-4e76-9ad8-7acb622358aa" />
