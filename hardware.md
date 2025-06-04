@@ -142,7 +142,9 @@ good panels have
   * Good display/menu system
   * No gobo's
   * (discounted?) Price: 100-110€
-  * Supported by latest MoonLight dev ! See demo [here](https://discord.com/channels/700041398778331156/1369577911677354046/1379559184801988649). An Artnet-DMX controller (see above), one ESP32(-S3) and optionally for sound, one ESP32 with WLED-MM and mic/line-in to stream audio UDO packets over the network is needed to reproduce this
+  * Supported by latest MoonLight dev !
+    * See demo [here](https://discord.com/channels/700041398778331156/1369577911677354046/1379559184801988649).
+    * Hardware needed: Artnet-DMX controller (see above), one ESP32(-S3) and optionally for sound, one ESP32 with WLED-MM and mic/line-in to stream audio UDP packets over the network
 
 ### Multi-pin fixture shopping list
 
