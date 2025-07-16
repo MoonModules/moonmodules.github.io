@@ -1,13 +1,13 @@
 ---
 layout: post
-title: MoonLight v0.5.7 Release to v0.5.8
+title: MoonLight v0.5.7 to v0.5.8
 date: 2025-07-16
 categories: software
 summary: MoonLight v0.5.7 is out! Read about next steps<br><img width="100" src="https://github.com/user-attachments/assets/89404065-53fc-46b0-9309-bcadba45026b">
-permalink: 2025-07-16-MoonLightv0.5.7-v0.5.8
+permalink: 2025-07-16-MoonLightv057
 ---
 
-## MoonLight v0.5.7 Release to 0.5.8
+## MoonLight v0.5.7 to v0.5.8
 
 MoonLight v0.5.7 is out! Check out the release notes: we’ve upgraded to the latest of the latest in our software stack: ESP-IDF 5, FastLED 3.10.1, Svelte 5, DaisyUI 5, and Tailwind 4. So don’t expect everything to be perfectly smooth just yet—but from here, things only get better!
 
