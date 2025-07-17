@@ -15,7 +15,7 @@ MoonLight [v0.5.7](https://github.com/MoonModules/MoonLight/releases) is out! Ch
 
 ### FastLED:
 
-FastLED is our main LED driver and, in most cases, it works!  For ESP32-S3 boards (like the Stephan Electronics board shown above), we’ve found the best results using I2S, which allows us to drive up to 16 pins in parallel. For non-S3 boards, we’re using RMT 5.  That said, we’re still exploring whether these are really the best default configurations.
+FastLED is our main LED driver and, in most cases, it works!  For ESP32-S3 boards (like the Stephan Electronics board shown above), we’ve found the best results using I2S, which allows us to drive up to 16 pins in parallel. For non-S3 boards, we’re using RMT 5.  That said, we’re still [exploring](https://github.com/MoonModules/MoonLight/issues/29) whether these are really the best default configurations.
 
 Our current I2S implementation on the ESP32-S3 is based on [I2SClockLessLedDriveresp32s3](https://github.com/hpwit/I2SClockLessLedDriveresp32s3), integrated into FastLED. However, in the upcoming MoonLight v0.5.8, we’ll decouple this from FastLED and run it as a standalone driver in MoonLight. That means FastLED will no longer use I2S on the S3 by default.  Most likely, FastLED for the S3 will switch to RMT(5) as well. This will reduce the number of supported pins (to 4–8), but simplify the setup.
 
@@ -32,7 +32,7 @@ These drivers already proved themselves in our StarLight project, running up to 
 
 We’re now collaborating with @hpwit to consolidate above repo's into one single repository, so we can integrate them cleanly into MoonLight without name conflicts, enabling one firmware per board to support all drivers. See [ESP32-LedsDriver](https://github.com/ewowi/ESP32-LedsDriver)
 
-Also, we won’t use FastLED.addLeds(...) style for the Physical and Virtual drivers (only the FastLED driver will do), since CHIPSET and color order are template parameters in FastLED, which require pre-compilation. In MoonLight, we want these to be configurable at runtime. That’s another reason to unify all drivers into one runtime-flexible system. This also prepares us for future boards, like the ESP32-P4.
+Also, we won’t use FastLED.addLeds(...) style for the Physical and Virtual drivers (only the FastLED driver will do), since pin, chip set and color order are template parameters in FastLED, which require pre-compilation. In MoonLight, we want these to be configurable at runtime. That’s another reason to unify all drivers into one runtime-flexible system. This also prepares us for future boards, like the ESP32-P4.
 
 ### What’s Next
 
