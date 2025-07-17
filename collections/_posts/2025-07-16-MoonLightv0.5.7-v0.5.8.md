@@ -36,7 +36,7 @@ Also, we won’t use FastLED.addLeds(...) style for the Physical and Virtual dri
 
 ### What’s Next
 
-#### UI Improvements
+#### UI improvements
 So far, most UI components were taken from the upstream ESP32-SvelteKit repo. But there’s room to improve:
 
 * Dark mode toggle
@@ -44,7 +44,7 @@ So far, most UI components were taken from the upstream ESP32-SvelteKit repo. Bu
 * WebGL monitor previews
 *  ... and more.
 
-#### Main Loop Stability . 
+#### Main Loop stability 
 There’s still an issue where the main application loop gets blocked iIn v0.5.7 due to ESP32 - browser interaction. We improved the following:
 
 * Promoted the main loop to a high-priority system task
@@ -59,6 +59,7 @@ There’s still an issue where the main application loop gets blocked iIn v0.5.7
 * Node separation between Physical and Virtual layers
 * More end-user-friendly documentation
 * New layouts, effects, and modifiers
+* FastLED 2D Visual Enhancements see [3.9.16](https://github.com/FastLED/FastLED/releases/tag/3.9.16)
 
 ### Want to Help?
 
