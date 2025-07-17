@@ -64,3 +64,4 @@ There’s still an issue where the main application loop gets blocked iIn v0.5.7
 
 We’re especially looking for contributors in the areas of FastLED and UI tuning. If you're familiar with these technologies or just want to help improve MoonLight, your contributions are very welcome.
 Stay tuned—and come build with us!
+If you like MoonLight, give it a star, fork it or open an issue or PR. More activity makes the project harder to copy without credit.
