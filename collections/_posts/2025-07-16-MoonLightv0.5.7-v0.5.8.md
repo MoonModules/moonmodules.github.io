@@ -19,6 +19,10 @@ FastLED is our main LED driver and, in most cases, it works!  For ESP32-S3 boa
 
 Our current I2S implementation on the ESP32-S3 is based on [I2SClockLessLedDriveresp32s3](https://github.com/hpwit/I2SClockLessLedDriveresp32s3), integrated into FastLED. However, in the upcoming MoonLight v0.5.8, we’ll decouple this from FastLED and run it as a standalone driver in MoonLight. That means FastLED will no longer use I2S on the S3 by default.  Most likely, FastLED for the S3 will switch to RMT(5) as well. This will reduce the number of supported pins (to 4–8), but simplify the setup.
 
+Selecting different LEDs drivers in MoonLight:
+
+<img width="159" height="105" alt="image" src="https://github.com/user-attachments/assets/eb70332c-8817-466f-8810-dd3fe5f301d1" />
+
 Note: FastLED’s I2S implementation currently only supports WS2812 color ordering, other color formats are ignored due to hardcoded settings. See [FastLED issue #1966](https://github.com/FastLED/FastLED/issues/1966).
 
 ### I2S Clockless LED Drivers Repos
@@ -30,7 +34,7 @@ These drivers already proved themselves in our StarLight project, running up to 
 * [I2SClocklessVirtualLedDriver](https://github.com/hpwit/I2SClocklessVirtualLedDriver): Combined ESP32 + ESP32-S3
 * [I2SClockLessLedVirtualDriveresp32s3](https://github.com/hpwit/I2SClockLessLedVirtualDriveresp32s3): Obsolete; merged into the previous repo
 
-We’re now collaborating with @hpwit to consolidate above repo's into one single repository, so we can integrate them cleanly into MoonLight without name conflicts, enabling one firmware per board to support all drivers. See [ESP32-LedsDriver](https://github.com/ewowi/ESP32-LedsDriver)
+We’re now collaborating with [hpwit](https://github.com/hpwit) to consolidate above repo's into one single repository, so we can integrate them cleanly into MoonLight without name conflicts, enabling one firmware per board to support all drivers. See [ESP32-LedsDriver](https://github.com/ewowi/ESP32-LedsDriver)
 
 Also, we won’t use FastLED.addLeds(...) style for the Physical and Virtual drivers (only the FastLED driver will do), since pin, chip set and color order are template parameters in FastLED, which require pre-compilation. In MoonLight, we want these to be configurable at runtime. That’s another reason to unify all drivers into one runtime-flexible system. This also prepares us for future boards, like the ESP32-P4.
 
