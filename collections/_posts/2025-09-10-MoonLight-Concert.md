@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MoonLight @ Concert
+title: MoonLight in Concert
 date: 2025-09-10
 categories: software
 summary: MoonLight used to power 2 stages on Festival<br><img width="100" src="https://github.com/user-attachments/assets/89404065-53fc-46b0-9309-bcadba45026b">
