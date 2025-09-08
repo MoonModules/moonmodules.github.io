@@ -11,13 +11,13 @@ permalink: 2025-07-16-MoonLightv057
 
 ## MoonLight v0.5.7 to v0.5.8
 
-MoonLight [v0.5.7](https://github.com/MoonModules/MoonLight/releases) is out! Check out the release notes: we’ve upgraded to the latest of the latest in our software stack: ESP-IDF 5, FastLED 3.10.1, Svelte 5, DaisyUI 5, and Tailwind 4. So don’t expect everything to be perfectly smooth just yet, but from here, things only get better!
+MoonLight [v0.5.7](https://github.com/MoonModules/MoonLight/releases) is out! Check out the release notes: we’ve upgraded to the latest of the latest in our software stack: ESP-IDF 5, FastLED 3.10.1, Svelte 5, DaisyUI 5, and Tailwind 4.So don’t expect everything to be perfectly smooth just yet, but from here, things only get better!
 
 ### FastLED:
 
-FastLED is our main LED driver and, in most cases, it works!  For ESP32-S3 boards (like the Stephan Electronics board shown above), we’ve found the best results using I2S, which allows us to drive up to 16 pins in parallel. For non-S3 boards, we’re using RMT 5.  That said, we’re still [exploring](https://github.com/MoonModules/MoonLight/issues/29) whether these are really the best default configurations.
+FastLED is our main LED driver and, in most cases, it works! For ESP32-S3 boards (like the Stephan Electronics board shown above), we’ve found the best results using I2S, which allows us to drive up to 16 pins in parallel. For non-S3 boards, we’re using RMT 5. That said, we’re still [exploring](https://github.com/MoonModules/MoonLight/issues/29) whether these are really the best default configurations.
 
-Our current I2S implementation on the ESP32-S3 is based on [I2SClockLessLedDriveresp32s3](https://github.com/hpwit/I2SClockLessLedDriveresp32s3), integrated into FastLED. However, in the upcoming MoonLight v0.5.8, we’ll decouple this from FastLED and run it as a standalone driver in MoonLight. That means FastLED will no longer use I2S on the S3 by default.  Most likely, FastLED for the S3 will switch to RMT(5) as well. This will reduce the number of supported pins (to 4–8), but simplify the setup.
+Our current I2S implementation on the ESP32-S3 is based on [I2SClockLessLedDriveresp32s3](https://github.com/hpwit/I2SClockLessLedDriveresp32s3), integrated into FastLED. However, in the upcoming MoonLight v0.5.8, we’ll decouple this from FastLED and run it as a standalone driver in MoonLight. That means FastLED will no longer use I2S on the S3 by default. Most likely, FastLED for the S3 will switch to RMT(5) as well. This will reduce the number of supported pins (to 4–8), but simplify the setup.
 
 Selecting different LEDs drivers in MoonLight:
 
@@ -46,15 +46,15 @@ So far, most UI components were taken from the upstream ESP32-SvelteKit repo. Bu
 * Dark mode toggle
 * Multi-row layouts
 * WebGL monitor previews
-*  ... and more.
+* ... and more.
 
-#### Main Loop stability 
+#### Main Loop stability
 There’s still an issue where the main application loop gets blocked iIn v0.5.7 due to ESP32 - browser interaction. We improved the following:
 
 * Promoted the main loop to a high-priority system task
 * Added delays to other tasks to avoid starvation
 * Introduced a basic task manager to monitor system activity
-*  But more optimization is still needed.
+* But more optimization is still needed.
 * see [LEDs are updating very slowly](https://github.com/MoonModules/MoonLight/issues/26)
 
 #### Coming Soon
