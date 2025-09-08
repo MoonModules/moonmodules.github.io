@@ -15,6 +15,8 @@ permalink: 2025-09-10-MoonLightv059
 
 2 stages
 
+[YouTube - FF25](https://youtu.be/NnEV9RplZN8)
+
 ## Hardware used
 
 ### both setups
@@ -37,6 +39,8 @@ permalink: 2025-09-10-MoonLightv059
 
 * [19x15W Zoom Wash Lights RGBW Beam Moving Head](https://s.click.aliexpress.com/e/_EwBfFYw)
 * SE16 + Rings
+
+<img width="400" src="https://github.com/user-attachments/assets/89404065-53fc-46b0-9309-bcadba45026b"/>
 
 ### Lab
 
