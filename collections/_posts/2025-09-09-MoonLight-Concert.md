@@ -29,7 +29,7 @@ This post has been written to document the current state of MoonLight, the lesso
 
 ### Both setups
 
-| Name | Image | Shop |
+| Product | Image | Shop |
 | ---- | ----- | ---- |
 | [M5Stack AtomS3R](https://docs.m5stack.com/en/core/AtomS3R) | <img width="200" src="https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/images/esp32-s3-atoms3r.jpg"/>  | <a href="https://shop.m5stack.com/products/atoms3r-dev-kit" target="_blank">Shop</a> |
 | Pknight Art-Net DMX 512 | <img width="200" src="https://github.com/user-attachments/assets/e3d605b6-a023-4abb-b604-77b44267b1a3"> | [Shop](https://s.click.aliexpress.com/e/_ExQK8Dc) |
@@ -41,7 +41,7 @@ This post has been written to document the current state of MoonLight, the lesso
 
 <img width="320" src="https://github.com/user-attachments/assets/8a9f39a1-3204-482c-8415-d300965d666d" />
 
-| Name | Image | Shop |
+| Product | Image | Shop |
 | ---- | ----- | ---- |
 |18 LED Bars|<img width="300" src="https://github.com/user-attachments/assets/75b18cf6-bc32-4bf0-a03b-7eea8dbfd677" />| [Shop](https://s.click.aliexpress.com/e/_EQMKbmK) |
 |GL.iNet GL-AXT1800 router|<img width="300" src="https://github.com/user-attachments/assets/a6259dc4-ab7f-4e98-8b0d-84d762109ea2" />| [Shop](https://s.click.aliexpress.com/e/_EJnqqIm) |
@@ -51,7 +51,7 @@ This post has been written to document the current state of MoonLight, the lesso
 
 <img width="320" src="https://github.com/user-attachments/assets/f8a0f9b7-b785-4571-a344-2c9ab4dc06ce" />
 
-| Name | Image | Shop | 
+| Product | Image | Shop | 
 | ---- | ----- | ---- | 
 |19x15W Zoom Wash Lights RGBW Beam Moving Head|<img width="300" src="https://github.com/user-attachments/assets/6e61c41f-e128-4adc-b9c1-6239fe4736dc" />|[Shop](https://s.click.aliexpress.com/e/_EwBfFYw)|
 |GL.iNet AR300M16 router|<img width="300" src="https://github.com/user-attachments/assets/1f3530f5-251a-4cd0-8409-62bf30affb2d" />|[Shop](https://s.click.aliexpress.com/e/_EGrhXnU)|
@@ -63,7 +63,7 @@ This post has been written to document the current state of MoonLight, the lesso
 
 These items were tested but didn't make it to the show.
 
-| Name | Image | Shop |
+| Product | Image | Shop |
 | ---- | ----- | ---- |
 |Art-Net LED controller|<img width="200" src="https://github.com/user-attachments/assets/9c65921c-64e9-4558-b6ef-aed2a163fd88">|[Shop](https://s.click.aliexpress.com/e/_Ex9uaOk)|
 |Atom S3R Shield board|![IMG_0629](https://github.com/user-attachments/assets/51332ac4-6748-4479-b03c-482a4b78cb19)||
