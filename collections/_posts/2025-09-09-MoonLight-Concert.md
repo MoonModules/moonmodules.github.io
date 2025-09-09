@@ -20,24 +20,10 @@ This was the ultimate test to prepare for the v0.6.0 release.
 
 ### both setups
 
-<table border="1">
-  <thead>
-    <td>Name</td><td>Image</td><td>Shop</td><td>Description</td>
-  </thead>
-  <tbody>
-    <tr>
-      <td>[M5Stack AtomS3R](https://docs.m5stack.com/en/core/AtomS3R)</td>
-      <td><img src="" width="100"/></td><td><a href="" target="_blank">Shop</a></td>
-      <td>This is the board recommended for MoonLight. Although most of the boards listed in the installer will work fine in v0.6.0, currently ESP32-S3 in general and the AtomS3R in particular is the board of choice, because of the extra memory (PSRAM). LED data is sent over the network using the Art-Net driver in MoonLight.</td>
-    </tr>
-    <tr>
-      <td>Pknight Art-Net DMX 512</td>
-      <td><img width="100" src="https://github.com/user-attachments/assets/e3d605b6-a023-4abb-b604-77b44267b1a3"></td>
-      <td><a href="" target="_blank">[Pknight Art-Net DMX 512](https://s.click.aliexpress.com/e/_ExQK8Dc)</td>
-      <td>Receiver of the Art-Net data, sends DMX over XLR cables to the moving heads and to the lightbars</td>
-      </tr>
-  </tbody>
-</table>
+| Name | Image | Shop | Description |
+| ---- | ----------- | ------- |
+| [M5Stack AtomS3R](https://docs.m5stack.com/en/core/AtomS3R) | <img src=""/>  | <a href="" target="_blank">Shop</a> | This is the board recommended for MoonLight. Although most of the boards listed in the [installer](https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/index.html) will work fine in v0.6.0, currently ESP32-S3 in general and the AtomS3R in particular is the board of choice, because of the extra memory (PSRAM). LED data is sent over the network using the Art-Net driver in MoonLight. |
+| Pknight Art-Net DMX 512 | <img src="https://github.com/user-attachments/assets/e3d605b6-a023-4abb-b604-77b44267b1a3"> | <a href="" target="_blank">[Pknight Art-Net DMX 512](https://s.click.aliexpress.com/e/_ExQK8Dc) | Receiver of the Art-Net data, sends DMX over XLR cables to the moving heads and to the lightbars |
 
 ### Live stage
 
