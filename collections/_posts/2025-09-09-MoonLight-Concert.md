@@ -11,10 +11,18 @@ permalink: 2025-09-10-MoonLightv059
 
 🚧
 
-## The festival
+## Introduction
 
 MoonLight was used to drive all the lights on a small festival beginning of September on 2 stages. See [YouTube - FF25](https://youtu.be/NnEV9RplZN8) for an impression. All lights (LED bars, moving heads, rings) where driven by MoonLight v0.5.9.
 This was the ultimate test to prepare for the v0.6.0 release.
+
+What started as 'we will implement DMX control in a future tool called moonDMX' has emerged to DMX support in MoonLight. The first step was introducing channels per light. This was mainly RGB / 3 channels and a bit RGBW / 4 channels but changing setPixelColor to setRGB and add setWhite, setPan, setTilt, setGobo etc and defining offsets for each channel.
+Now we can define effects supporting this. 'Classic' effects wil use setRGB mainly but new effects can use setPan, setTilt etc. Currently a few move effects have been defined which can be combined with light effects. This means we can combine a classic effect like Noise2D with a move effect like ambient move and it will show pretty nice on moving heads. This combination is used on the moving heads shown in the Youtube video. Art-Net was used to send DMX data to Art-Net / DMX controllers using XLR cables to control individual lights.
+
+The main limitation in comparison to classic DMX controller desks is that we currently support only setups with identical type of lights, e.g. an array of moving heads or an array of light bars. Each start dmx is a multitude of channels per light. E.g. a moving head of 32 channels will have start addresses of 1, 33, 65 etc. This is the current compromise between driving LEDs and dmx-lights. The tool is optimized for large numbers of idententical lights in a daisy chain. This also made it possible to implement dmx-lights without compromising performance when driving big LED setups.
+
+The effects used in this gig are pretty simple and straightforward. Mainly because MoonLight has a limitied number of effects and DMX support is pretty new. The main goal of using MoonLight here is to test if MoonLight has the potential of running large shows. There was no crash, no downtime and no complaints by the audience so goal accomplished!
+Lot's of lessons learned (see below), next time we will do even better!
 
 ## Hardware used
 
@@ -51,6 +59,15 @@ This was the ultimate test to prepare for the v0.6.0 release.
 | ---- | ----- | ---- | ----------- |
 |Artnet-LED-controller|<img width="200" src="https://github.com/user-attachments/assets/9c65921c-64e9-4558-b6ef-aed2a163fd88">|[Artnet-LED-controller](https://s.click.aliexpress.com/e/_Ex9uaOk)||
 |Atom S3R Shield|![IMG_0629](https://github.com/user-attachments/assets/51332ac4-6748-4479-b03c-482a4b78cb19)||<img width="320" src="https://github.com/user-attachments/assets/28bd5355-f434-4b56-ac4c-38f517971ac9" />|
+
+### Lessons learned
+
+🚧
+
+* Front light
+* Effects on small number of lights
+* We want crazy stuff, audience want ambience lighting
+* ...
 
 ### Want to Help?
 
