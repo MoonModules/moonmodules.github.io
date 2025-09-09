@@ -31,40 +31,48 @@ This news item has been written to document the current state of MoonLight, the 
 
 ### Both setups
 
-| Name | Image | Shop | Description |
-| ---- | ----- | ---- | ----------- |
-| [M5Stack AtomS3R](https://docs.m5stack.com/en/core/AtomS3R) | <img width="200" src="https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/images/esp32-s3-atoms3r.jpg"/>  | <a href="" target="_blank">Shop</a> | This is the board recommended for MoonLight. The boards listed in the [installer](https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/index.html) (except P4) will work fine in v0.6.0, currently ESP32-S3 in general and the AtomS3R in particular is the board of choice, because of the extra memory (PSRAM). LED data is sent over the network using the Art-Net driver in MoonLight. |
-| Pknight Art-Net DMX 512 | <img width="200" src="https://github.com/user-attachments/assets/e3d605b6-a023-4abb-b604-77b44267b1a3"> | <a href="" target="_blank">[Pknight Art-Net DMX 512](https://s.click.aliexpress.com/e/_ExQK8Dc) | Receiver of the Art-Net data, sends DMX over XLR cables to the moving heads and to the lightbars |
+| Name | Image | Shop |
+| ---- | ----- | ---- |
+| [M5Stack AtomS3R](https://docs.m5stack.com/en/core/AtomS3R) | <img width="200" src="https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/images/esp32-s3-atoms3r.jpg"/>  | <a href="" target="_blank">Shop</a> |  |
+| Pknight Art-Net DMX 512 | <img width="200" src="https://github.com/user-attachments/assets/e3d605b6-a023-4abb-b604-77b44267b1a3"> | <a href="" target="_blank">[Pknight Art-Net DMX 512](https://s.click.aliexpress.com/e/_ExQK8Dc) |  |
+
+* Atom S3R: This is the board recommended for MoonLight. The boards listed in the [installer](https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/index.html) (except P4) will work fine in v0.6.0, currently ESP32-S3 in general and the AtomS3R in particular is the board of choice, because of the extra memory (PSRAM). LED data is sent over the network using the Art-Net driver in MoonLight.
+* Pknight Art-Net DMX 512: Receiver of the Art-Net data, sends DMX over XLR cables to the moving heads and to the lightbars
 
 ### Live stage
 
 <img width="320" src="https://github.com/user-attachments/assets/8a9f39a1-3204-482c-8415-d300965d666d" />
 
-| Name | Image | Shop | Description |
-| ---- | ----- | ---- | ----------- |
-|LED Bars|<img width="300" src="https://github.com/user-attachments/assets/75b18cf6-bc32-4bf0-a03b-7eea8dbfd677" />| [18 LED Bars](https://s.click.aliexpress.com/e/_EQMKbmK) ||
-|GL.iNet GL-AXT1800 router|<img width="300" src="https://github.com/user-attachments/assets/a6259dc4-ab7f-4e98-8b0d-84d762109ea2" />| [GL.iNet GL-AXT1800 router](https://s.click.aliexpress.com/e/_EJnqqIm) ||
+| Name | Image | Shop |
+| ---- | ----- | ---- |
+|LED Bars|<img width="300" src="https://github.com/user-attachments/assets/75b18cf6-bc32-4bf0-a03b-7eea8dbfd677" />| [18 LED Bars](https://s.click.aliexpress.com/e/_EQMKbmK) |
+|GL.iNet GL-AXT1800 router|<img width="300" src="https://github.com/user-attachments/assets/a6259dc4-ab7f-4e98-8b0d-84d762109ea2" />| [GL.iNet GL-AXT1800 router](https://s.click.aliexpress.com/e/_EJnqqIm) |
 |WLED-MM Mic sound injector||||
 
 ### Dance stage
 
 <img width="320" src="https://github.com/user-attachments/assets/f8a0f9b7-b785-4571-a344-2c9ab4dc06ce" />
 
-| Name | Image | Shop | Description |
-| ---- | ----- | ---- | ----------- |
-|19x15W Zoom Wash Lights RGBW Beam Moving Head|<img width="300" src="https://github.com/user-attachments/assets/6e61c41f-e128-4adc-b9c1-6239fe4736dc" />|[19x15W Zoom Wash Lights RGBW Beam Moving Head](https://s.click.aliexpress.com/e/_EwBfFYw)||
-|GL.iNet AR300M16 router|<img width="300" src="https://github.com/user-attachments/assets/1f3530f5-251a-4cd0-8409-62bf30affb2d" />|[GL.iNet AR300M16 router](https://s.click.aliexpress.com/e/_EGrhXnU)||
+| Name | Image | Shop | 
+| ---- | ----- | ---- | 
+|19x15W Zoom Wash Lights RGBW Beam Moving Head|<img width="300" src="https://github.com/user-attachments/assets/6e61c41f-e128-4adc-b9c1-6239fe4736dc" />|[19x15W Zoom Wash Lights RGBW Beam Moving Head](https://s.click.aliexpress.com/e/_EwBfFYw)|
+|GL.iNet AR300M16 router|<img width="300" src="https://github.com/user-attachments/assets/1f3530f5-251a-4cd0-8409-62bf30affb2d" />|[GL.iNet AR300M16 router](https://s.click.aliexpress.com/e/_EGrhXnU)|
 |WLED-MM Line in sound injector|![IMG_0723](https://github.com/user-attachments/assets/94fb802e-f494-4d83-b761-5d2fd4207b06)|||
-|SE16 + 16 x 24 LED Ring|<img width="300" src="https://github.com/user-attachments/assets/268a1642-b607-4cc9-a81a-f1f76b84ec44" />|[24 LED Ring](https://s.click.aliexpress.com/e/_EuMSJqE)||
+|SE16 + 16 x 24 LED Ring|<img width="300" src="https://github.com/user-attachments/assets/268a1642-b607-4cc9-a81a-f1f76b84ec44" />|[24 LED Ring](https://s.click.aliexpress.com/e/_EuMSJqE)|
 
 ### Lab
 
 These items where tested but didn't make it to the show.
 
-| Name | Image | Shop | Description |
-| ---- | ----- | ---- | ----------- |
-|Artnet-LED-controller|<img width="200" src="https://github.com/user-attachments/assets/9c65921c-64e9-4558-b6ef-aed2a163fd88">|[Artnet-LED-controller](https://s.click.aliexpress.com/e/_Ex9uaOk)||
-|Atom S3R Shield|![IMG_0629](https://github.com/user-attachments/assets/51332ac4-6748-4479-b03c-482a4b78cb19)||<img width="320" src="https://github.com/user-attachments/assets/28bd5355-f434-4b56-ac4c-38f517971ac9" />|
+| Name | Image | Shop |
+| ---- | ----- | ---- |
+|Artnet-LED-controller|<img width="200" src="https://github.com/user-attachments/assets/9c65921c-64e9-4558-b6ef-aed2a163fd88">|[Artnet-LED-controller](https://s.click.aliexpress.com/e/_Ex9uaOk)|
+|Atom S3R Shield board|![IMG_0629](https://github.com/user-attachments/assets/51332ac4-6748-4479-b03c-482a4b78cb19)||
+
+* Shield Board: This is a design in progress for a board to plug the Atom S3R on. The board has a level shifter which drives 4 LED outputs. In above Youtube video it drives the 4 panels. It uses pin 5,6,7 and 8 of the Atom S3R for the 4 level shifted data lines of the LED outputs
+
+<img width="320" src="https://github.com/user-attachments/assets/28bd5355-f434-4b56-ac4c-38f517971ac9" />
+<img width="320" src="https://github.com/user-attachments/assets/e2f4b691-bde1-4204-9413-c1db1c296adb" />
 
 ### Lessons learned
 
