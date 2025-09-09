@@ -13,19 +13,19 @@ permalink: 2025-09-10-MoonLightv059
 
 ## Introduction
 
-MoonLight was used to drive all lights on a small festival beginning of September on 2 stages. See [YouTube - FF25](https://youtu.be/NnEV9RplZN8) for an impression. All lights (LED bars, moving heads, rings) where driven by MoonLight v0.5.9.
+MoonLight was used to drive all lights on a small festival in early September across 2 stages. See [YouTube - FF25](https://youtu.be/NnEV9RplZN8) for an impression. All lights (LED bars, moving heads, rings) were driven by MoonLight v0.5.9.
 This was the ultimate test to prepare for the v0.6.0 release.
 
-What started as 'we will implement DMX control in a future tool called moonDMX' has emerged to DMX support in MoonLight. Until then only RGB (3 channels) and RGBW (4 channels) was supported. First channels per light and channel offsets where added. Then setPixelColor became setRGB and new functions setWhite, setPan, setTilt, setGobo etc where added.
-This allowed defining effects supporting this. 'Classic' effects wil use setRGB mainly but new effects can use setPan, setTilt etc. Currently a few 'move' effects have been defined which can be combined with light effects. E.g. combine a classic effect like Noise2D with a move effect like ambient move and it will show pretty nice on moving heads. This combination is used on the moving heads shown in the Youtube video. Art-Net was used to send DMX data to Art-Net / DMX controllers using XLR cables to control individual lights.
+What started as 'we will implement DMX control in a future tool called moonDMX' has evolved into DMX support in MoonLight. Until then, only RGB (3 channels) and RGBW (4 channels) were supported. First, channels per light and channel offsets were added. Then setPixelColor became setRGB and new functions setWhite, setPan, setTilt, setGobo etc. were added.
+This allowed us to define effects that support these functions. 'Classic' effects mainly use setRGB, but new effects can use setPan, setTilt etc. Currently, a few 'move' effects have been defined which can be combined with light effects. For example, combine a classic effect like Noise2D with a move effect like ambient move and it will display beautifully on moving heads. This combination was used on the moving heads shown in the YouTube video. Art-Net was used to send DMX data to Art-Net / DMX controllers using XLR cables to control individual lights.
 
-The main difference when comparison classic DMX light controller desks is that we currently support only setups per Moonlight device with identical type of lights, e.g. an array of moving heads or an array of light bars. Each start dmx is a multitude of channels per light. E.g. a moving head of 32 channels will have start addresses of 1, 33, 65 etc. This is the current compromise between driving LEDs and dmx-lights: MoonLight is optimized for large numbers of idententical lights in a daisy chain so also driving big LED setups will still be done with same efficiency as before.
+The main difference compared to classic DMX light controller desks is that we currently support only setups per MoonLight device with identical types of lights, e.g. an array of moving heads or an array of light bars. Each starting DMX address is a multiple of channels per light. For example, a moving head with 32 channels will have start addresses of 1, 33, 65 etc. This is the current compromise between driving LEDs and DMX lights: MoonLight is optimized for large numbers of identical lights in a daisy chain, so driving big LED setups will still be done with the same efficiency as before.
 
-Next to DMX output also classic direct wiring to mircocontroller was used on the rings display using 16 parallel outputs enabling the rings to run at 500 FPS.
+In addition to DMX output, classic direct wiring to microcontrollers was also used on the rings display using 16 parallel outputs, enabling the rings to run at 500 FPS.
 
-The effects used in this gig are pretty simple and straightforward. Mainly because MoonLight has a limited number of effects (but growing) and DMX support is pretty new. The main goal of using MoonLight here is to test if MoonLight has the potential of running shows. There was no crash, no downtime and no complaints by the audience so goal accomplished! Lot's of lessons learned (see below), next time we will do even better!
+The effects used in this gig are pretty simple and straightforward, mainly because MoonLight has a limited number of effects (but growing) and DMX support is relatively new. The main goal of using MoonLight here was to test whether MoonLight has the potential for running shows. There were no crashes, no downtime, and no complaints from the audience, so goal accomplished! We learned many lessons (see below), and next time we will do even better!
 
-This news item has been written to document the current state of MoonLight, the lessons learned using it at a show and the next steps. We also hope this encourages other other people to make similar setups using MoonLight.
+This news item has been written to document the current state of MoonLight, the lessons learned from using it at a show, and the next steps. We also hope this encourages other people to create similar setups using MoonLight.
 
 ## Hardware used
 
@@ -36,8 +36,8 @@ This news item has been written to document the current state of MoonLight, the 
 | [M5Stack AtomS3R](https://docs.m5stack.com/en/core/AtomS3R) | <img width="200" src="https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/images/esp32-s3-atoms3r.jpg"/>  | <a href="" target="_blank">Shop</a> |  |
 | Pknight Art-Net DMX 512 | <img width="200" src="https://github.com/user-attachments/assets/e3d605b6-a023-4abb-b604-77b44267b1a3"> | <a href="" target="_blank">[Pknight Art-Net DMX 512](https://s.click.aliexpress.com/e/_ExQK8Dc) |  |
 
-* Atom S3R: This is the board recommended for MoonLight. The boards listed in the [installer](https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/index.html) (except P4) will work fine in v0.6.0, currently ESP32-S3 in general and the AtomS3R in particular is the board of choice, because of the extra memory (PSRAM). LED data is sent over the network using the Art-Net driver in MoonLight.
-* Pknight Art-Net DMX 512: Receiver of the Art-Net data, sends DMX over XLR cables to the moving heads and to the lightbars
+* Atom S3R: This is the board recommended for MoonLight. The boards listed in the [installer](https://raw.githack.com/MoonModules/MoonLight/refs/heads/main/firmware/installer/index.html) (except P4) will work fine in v0.6.0. Currently ESP32-S3 in general and the AtomS3R in particular is the board of choice, because of the extra memory (PSRAM). LED data is sent over the network using the Art-Net driver in MoonLight.
+* Pknight Art-Net DMX 512: Receiver of the Art-Net data, sends DMX over XLR cables to the moving heads and to the light bars
 
 ### Live stage
 
@@ -62,14 +62,14 @@ This news item has been written to document the current state of MoonLight, the 
 
 ### Lab
 
-These items where tested but didn't make it to the show.
+These items were tested but didn't make it to the show.
 
 | Name | Image | Shop |
 | ---- | ----- | ---- |
 |Artnet-LED-controller|<img width="200" src="https://github.com/user-attachments/assets/9c65921c-64e9-4558-b6ef-aed2a163fd88">|[Artnet-LED-controller](https://s.click.aliexpress.com/e/_Ex9uaOk)|
 |Atom S3R Shield board|![IMG_0629](https://github.com/user-attachments/assets/51332ac4-6748-4479-b03c-482a4b78cb19)||
 
-* Shield Board: This is a design in progress for a board to plug the Atom S3R on. The board has a level shifter which drives 4 LED outputs. In above Youtube video it drives the 4 panels. It uses pin 5,6,7 and 8 of the Atom S3R for the 4 level shifted data lines of the LED outputs
+* Shield Board: This is a design in progress for a board to plug the Atom S3R into. The board has a level shifter which drives 4 LED outputs. In the YouTube video above, it drives the 4 panels. It uses pins 5, 6, 7, and 8 of the Atom S3R for the 4 level shifted data lines of the LED outputs
 
 <img width="320" src="https://github.com/user-attachments/assets/28bd5355-f434-4b56-ac4c-38f517971ac9" />
 <img width="320" src="https://github.com/user-attachments/assets/e2f4b691-bde1-4204-9413-c1db1c296adb" />
@@ -78,15 +78,15 @@ These items where tested but didn't make it to the show.
 
 🚧
 
-* The main challenge for the light bar stage was providing good enough front light. This was accomplished adding a fixed rectangle effect on top of the back light effects (started with rainbow, some bands no back light, later switched to paintbrush effect). To avoid only colored light, alternating white has been added as a control option to the fixed rectangle effect -> add layers in v0.7.0, each layer has a start position and a size. Preferably also brightness per layer. Display solid (or a special front lite effect) on a seperate layer
-* Effects on small number of lights. Although the Paintbrush effect showed nice patterns it is not optimized for small displays -> need to think of nice patterns for small displays (including moving heads)
-* We want crazy stuff, audience and (some) bands want ambience lighting -> allow for both using presets / playlists
-* The shows had to be run as unsupervised as possible. -> Preset loops where added with a start and end preset. Where not used during the performance. Need to be tested and optimized more (hick up during transitions)
-* The tiny M5Stack Atom S3R is up to the task of running MoonLight. When using in Art-Net mode just connect to USB (power) and go!
+* The main challenge for the light bar stage was providing adequate front lighting. This was accomplished by adding a fixed rectangle effect on top of the back light effects (started with rainbow, some bands had no back light, later switched to paintbrush effect). To avoid only colored light, alternating white has been added as a control option to the fixed rectangle effect -> add layers in v0.7.0, each layer has a start position and a size. Preferably also brightness per layer. Display solid (or a special front light effect) on a separate layer
+* Effects on small numbers of lights. Although the Paintbrush effect showed nice patterns, it is not optimized for small displays -> need to think of nice patterns for small displays (including moving heads)
+* We want crazy stuff, audience and (some) bands want ambient lighting -> allow for both using presets / playlists
+* The shows had to be run as unsupervised as possible. -> Preset loops were added with a start and end preset. These were not used during the performance. They need to be tested and optimized more (hiccup during transitions)
+* The tiny M5Stack Atom S3R is up to the task of running MoonLight. When using in Art-Net mode, just connect to USB (power) and go!
 
 ### Want to Help?
 
-We’re especially looking for contributors in the areas of FastLED and UI tuning. If you're familiar with these technologies or just want to help improve MoonLight, your contributions are very welcome.
+We're especially looking for contributors in the areas of FastLED and UI tuning. If you're familiar with these technologies or just want to help improve MoonLight, your contributions are very welcome.
 Stay tuned—and come build with us!
 
 **If you like [MoonLight](https://github.com/MoonModules/MoonLight), give it a star, fork it or open an issue or pull request. It helps the project grow, improve and get noticed.**
