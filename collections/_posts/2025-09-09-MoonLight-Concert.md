@@ -40,16 +40,17 @@ This was the ultimate test to prepare for the v0.6.0 release.
 
 | Name | Image | Shop | Description |
 | ---- | ----- | ---- | ----------- |
-|19x15W Zoom Wash Lights RGBW Beam Moving Head|<img width="300" src="https://github.com/user-attachments/assets/092214a5-44c0-48c4-ba3c-5f37cef067d7" />|[19x15W Zoom Wash Lights RGBW Beam Moving Head](https://s.click.aliexpress.com/e/_EwBfFYw)||
+|19x15W Zoom Wash Lights RGBW Beam Moving Head|<img width="300" src="https://github.com/user-attachments/assets/6e61c41f-e128-4adc-b9c1-6239fe4736dc" />|[19x15W Zoom Wash Lights RGBW Beam Moving Head](https://s.click.aliexpress.com/e/_EwBfFYw)||
 |GL.iNet AR300M16 router|<img width="300" src="https://github.com/user-attachments/assets/1f3530f5-251a-4cd0-8409-62bf30affb2d" />|[GL.iNet AR300M16 router](https://s.click.aliexpress.com/e/_EGrhXnU)||
-|WLED-MM Line in sound injector||||
-|SE16 + 16 x 24 LED Ring|<img width="300" src="https://github.com/user-attachments/assets/ea16eb1e-b2f8-4d03-a237-df68cf705c22" />|[24 LED Ring](https://s.click.aliexpress.com/e/_EuMSJqE)||
+|WLED-MM Line in sound injector|![IMG_0723](https://github.com/user-attachments/assets/94fb802e-f494-4d83-b761-5d2fd4207b06)|||
+|SE16 + 16 x 24 LED Ring|<img width="300" src="https://github.com/user-attachments/assets/268a1642-b607-4cc9-a81a-f1f76b84ec44" />|[24 LED Ring](https://s.click.aliexpress.com/e/_EuMSJqE)||
 
 ### Lab
 
 | Name | Image | Shop | Description |
 | ---- | ----- | ---- | ----------- |
 |Artnet-LED-controller|<img width="200" src="https://github.com/user-attachments/assets/9c65921c-64e9-4558-b6ef-aed2a163fd88">|[Artnet-LED-controller](https://s.click.aliexpress.com/e/_Ex9uaOk)||
+|Atom S3R Shield|![IMG_0629](https://github.com/user-attachments/assets/51332ac4-6748-4479-b03c-482a4b78cb19)||<img width="320" src="https://github.com/user-attachments/assets/28bd5355-f434-4b56-ac4c-38f517971ac9" />|
 
 ### Want to Help?
 
