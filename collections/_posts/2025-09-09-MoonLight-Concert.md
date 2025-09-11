@@ -45,7 +45,9 @@ This post has been written to document the current state of MoonLight, the lesso
 | ---- | ----- | ---- |
 |18 LED Bars|<img width="300" src="https://github.com/user-attachments/assets/75b18cf6-bc32-4bf0-a03b-7eea8dbfd677" />| [Shop](https://s.click.aliexpress.com/e/_EQMKbmK) |
 |GL.iNet GL-AXT1800 router|<img width="300" src="https://github.com/user-attachments/assets/a6259dc4-ab7f-4e98-8b0d-84d762109ea2" />| [Shop](https://s.click.aliexpress.com/e/_EJnqqIm) |
-|WLED-MM Mic sound injector|||
+|WLED-MM Mic sound injector|<img width="300" src="https://github.com/user-attachments/assets/d2d4541b-a2b7-42c9-8cd4-a1ccad097fc2" />|[Tindie shop](https://www.tindie.com/products/serg74/esp32-wled-pico-board/)|
+
+* WLED-MM Mic sound injector: We used the ESP32 WLED pico board with onboard mic from [Serg74](https://github.com/srg74) for this.
 
 ### Dance stage
 
