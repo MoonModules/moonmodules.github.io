@@ -57,7 +57,7 @@ This post has been written to document the current state of MoonLight, the lesso
 | ---- | ----- | ---- | 
 |19x15W Zoom Wash Lights RGBW Beam Moving Head|<img width="300" src="https://github.com/user-attachments/assets/6e61c41f-e128-4adc-b9c1-6239fe4736dc" />|[Shop](https://s.click.aliexpress.com/e/_EwBfFYw)|
 |GL.iNet AR300M16 router|<img width="300" src="https://github.com/user-attachments/assets/1f3530f5-251a-4cd0-8409-62bf30affb2d" />|[Shop](https://s.click.aliexpress.com/e/_EGrhXnU)|
-|WLED-MM Line in sound injector|![IMG_0723](https://github.com/user-attachments/assets/94fb802e-f494-4d83-b761-5d2fd4207b06)|[Link](https://mm.kno.wled.ge/soundreactive/Line-Input/)|
+|WLED-MM Line in sound injector|<img width="300" src="https://github.com/user-attachments/assets/94fb802e-f494-4d83-b761-5d2fd4207b06" />|[Link](https://mm.kno.wled.ge/soundreactive/Line-Input/)|
 |SE16|<img width="300" src="https://github.com/user-attachments/assets/8fb1813f-a8cd-44c4-a112-52639f073dcd" />|Not for sale yet|
 |16 x 24 LED Ring|<img width="300" src="https://github.com/user-attachments/assets/268a1642-b607-4cc9-a81a-f1f76b84ec44" />|[Shop](https://s.click.aliexpress.com/e/_EuMSJqE)|
 
