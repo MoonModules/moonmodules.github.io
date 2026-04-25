@@ -1,0 +1,17 @@
+# MoonHub75 PCB
+
+!!! note "Archived"
+    Originally published 2025-01-14. Migrated without changes. Future home: **Products**.
+
+<img width="400" src="https://github.com/user-attachments/assets/620f7c41-8078-4024-b2a0-39a7424f9678">
+
+We designed a passive adapter board to connect a Lilygo T7-S3 to a HUB75 Panel. WLED MoonModules has a build which can be flashed onto this board. The board has multiple audio connections and an INMP441 can be soldered onto this board.
+All files needed for production (Gerber, BOM, CPL) are included, as this is just a PCB, components need to be soldered onto it, it's fairly cheap to order them at an online PCB manufacturer.
+
+* [Lilygo T7 S3 board](https://s.click.aliexpress.com/e/_Evt6WAk) <img width="50" src="https://github.com/user-attachments/assets/0fb3826b-473e-4a7b-9cd0-e208a782e930">
+* [INMP441 microphone](https://s.click.aliexpress.com/e/_EvZmGli) <img width="50" src="https://github.com/user-attachments/assets/9fcefe75-ce71-447b-931f-faec2b25ae15">
+
+By [Sören](https://github.com/lost-hope)
+(Discord/@lost.hope)
+
+[Affiliate links](https://moonmodules.org/hardware/#affiliate-links)

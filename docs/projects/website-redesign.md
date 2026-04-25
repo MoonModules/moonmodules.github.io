@@ -28,11 +28,15 @@ Archive
 
 Repos moves under Products: it is less intimidating to non-technical visitors and accurately reflects that repositories are where the products live. Archive is a top-level section holding all migrated content from the current site.
 
+**Projects** is the showcase of things MoonModules has actually built: art installations, hardware projects, 3D prints, PCB designs. It is not a software documentation section. Examples from Archive that belong here: the Cube202020, the Mikael Pedersen bike, the MoonHub75 PCB, the Universal Control Box, 3D print models on Bambu Labs / Printables. The website redesign itself also lives here as a meta-project.
+
+**Support** will include a dedicated hardware buying guide, extracted from the Archive hardware page (the "Best buy guide" section). This gives non-technical visitors a clean shopping list without wading through hardware specifications aimed at developers.
+
 ## Audiences
 
 | Audience | What they need |
 |---|---|
-| Non-technical | What is this, what can it do, how do I get it |
+| Non-technical — including friends and family who have no idea what any of this is | What is this, what can it do, how do I get it, can I see it |
 | Technical | Project status, how to contribute, architecture |
 | Supporter / donor | Who is behind this, what is the impact, how to support |
 
@@ -114,6 +118,24 @@ Points for Sprint 2:
 
 **Definition of done:** Every piece of existing content is in the Archive section and has a documented future home. Nothing is lost, nothing is moved yet. Content will be moved from Archive to its final location gradually across the sprints that follow.
 
+**Result:** All 14 posts and 7 pages migrated to `docs/archive/`. Each page carries a Material admonition showing its future home and an outdated flag where relevant (5 posts and 2 pages flagged). The archive index provides a single table of all items with status. The `admonition` markdown extension was added to `mkdocs.yml`. Archive pages are deliberately not listed in the nav — they are reachable via the index table.
+
+**Retrospective:**
+
+What went well:
+- The site map from Sprint 1 gave exact slugs and future homes, so no decisions were needed during migration
+- The admonition format makes outdated content visible without breaking the page or losing the content
+- The split-point annotation on hardware.md gives Sprint 4 a clear instruction without requiring any content to be touched now
+
+What was difficult:
+- Several posts reference StarBase and StarLight by name; flagging them as outdated is correct but the nuance is that the project history is accurate — only the product names changed. Sprint 4 will need to handle this carefully when writing the new Products pages
+- MkDocs logs "not in nav" notices for all unlisted archive pages; this is expected behaviour and not an error, but worth noting so future contributors do not try to add them all to `mkdocs.yml`
+
+Points for Sprint 3:
+- The logo is already in `docs/assets/`; Sprint 3 should verify it renders well on both dark and light backgrounds before committing to it
+- Agree on the colour palette before touching any other theme settings — colour affects how admonitions, code blocks, and links look throughout the whole site
+- The hardware.md archive page has a divider comment marking the Products/Support split; Sprint 4 should use it as a literal cut line
+
 ---
 
 ## Sprint 3: Design and Branding
@@ -121,20 +143,32 @@ Points for Sprint 2:
 **Scope:** Establish the visual identity of the new site.
 
 - Define or update the MoonModules logo (SVG, suitable for dark and light backgrounds)
-- Choose a colour palette and typography that looks modern without being corporate
+- Choose a colour palette and typography that looks modern without being corporate — the current default feels too much like a GitHub documentation site; the goal is something that works for non-technical visitors and reflects the art and maker side of MoonModules
 - Configure the MkDocs theme to match: header, footer, sidebar, font, colours
 - Define what a good page looks like: heading hierarchy, image sizes, link style
 - Day/night toggle in the header, defaulting to night (dark mode)
 - No emoji in navigation or headings
 - Review the homepage and a sample content page against the design
 
+**Design direction — options for discussion:**
+
+Three directions to consider, in order from least to most effort:
+
+1. **Warmer dark theme** — keep the Material framework but swap the indigo palette for something with more warmth (deep teal, amber accent, or a purple-leaning dark). Less corporate, still fully functional. Low effort. Reference feel: creative tool documentation sites, not enterprise software.
+
+2. **Image-led layout** — make the homepage and Projects section visually driven by photos and video stills of actual installations. The tech recedes to the background; the first thing a visitor sees is light art, not a sidebar. Medium effort, mostly CSS and layout adjustments to the Material theme.
+
+3. **Custom typography** — add a display font for headings (something geometric or slightly playful, not a system font) while keeping a clean readable body font. Changes the personality of the site significantly without touching layout. Low to medium effort via the Material `font` config.
+
+These can be combined. A decision is needed before any theme work begins so contributors do not redo each other's work.
+
 **Definition of done:** The design is consistent, documented in a style guide page, the new site is committed to the repository and published publicly for the first time, and the fork from https://github.com/thundergolfer/thundergolfer.github.io is removed.
 
 ---
 
-## Sprint 4: Repository Showcase
+## Sprint 4: Repository Showcase and Projects Showcase
 
-**Scope:** Give every repository a clear, honest description so visitors understand the landscape.
+**Scope:** Give every repository a clear description, build out the Projects section as a showcase of physical and art builds, and create a standalone buying guide in Support.
 
 Repositories to cover:
 
@@ -166,7 +200,16 @@ For each repository:
 - Link to GitHub with live star count
 - Link to documentation where it exists
 
-**Definition of done:** The Repos section is complete and accurate for all categories above.
+**Projects showcase** — extract from Archive and write up:
+
+- Art installations: Cube202020, Mikael Pedersen bike, BFC (Big Freakin' Cube), concert at festival
+- Hardware builds: MoonHub75 PCB, Universal Control Box (with Bambu Labs / Makerworld links)
+- 3D prints: 16x16 LED matrix grid, illuminated sphere, control boxes
+- Each project gets a title, one image, a short description, and links to relevant resources
+
+**Buying guide** — extract the "Best buy guide" section from the hardware Archive page into `docs/support/buying-guide.md`. Keep it as a practical shopping list for people who want to get started without reading through developer documentation.
+
+**Definition of done:** The Repos section is complete and accurate for all categories above. The Projects section has at least one page per project type (art, hardware, 3D prints). The buying guide is live under Support.
 
 ---
 

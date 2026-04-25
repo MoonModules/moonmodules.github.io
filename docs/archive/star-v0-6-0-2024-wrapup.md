@@ -1,0 +1,72 @@
+# StarBase and StarLight v0.6.0 — 2024 wrap-up
+
+!!! warning "Archived — outdated"
+    Originally published 2024-12-20. Migrated without changes. Future home: **Products**. StarBase and StarLight have since been renamed to MoonLight. The project history described here is accurate; product names have changed.
+
+<img width="400" src="https://github.com/user-attachments/assets/c43977c0-18d3-439d-b624-7b63fef0f02b"/>
+
+StarBase and StarLight v0.6.0 have been released, release info and bins here:
+- [StarLight 0.6.0](https://github.com/MoonModules/StarLight/releases/tag/v0.6.0)
+- [StarBase 0.6.0](https://github.com/ewowi/StarBase/releases/tag/v0.6.0)
+- [StarDocs 0.6.0](https://github.com/ewowi/StarDocs/releases/tag/v0.6.0) and [docs](https://ewowi.github.io/StarDocs/)
+
+StarBase and StarLight are 2 spin-off products from WLED and WLED MoonModules. They are software components which run on ESP32 microcontrollers. We use the ESP32 microcontroller as it is very low cost and very high performant.
+
+StarBase is everything but lights and StarLights is StarBase plus lights. StarBase can be used for any ESP32 based project. Both systems can be seen as library superglue. StarBase uses libraries like AsyncWebServer, ArduinoJson and ESPLiveScript. StarLight uses FastLED, [Physical LED driver](https://github.com/hpwit/I2SClocklessLedDriver) and [Virtual LED Driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver). By this they are standalone products which can be deployed and run directly on an ESP32. StarBase can be seen as what Windows was for MSDos, it's currently Windows 95 :slight_smile:.
+
+Both products have seen the light in 2024. Aim is to publish a new release about every month. Starting with 0.1.0 we are now at 0.6.0. WLED is now at version 0.15.0 so this gives also an indication of maturity of Star: they are still early life products. But we are catching up with WLED :slight_smile:.
+
+So why start a big project like this? The reason is we need a very efficient and maintainable system to further develop the ideas we had and were very hard to implement in WLED. Examples are 3D light fixtures, syncing lots of devices, extending the UI, unspaghetti the code to understand it, old stuff (like the esp8266) which gotten in the way and so on. So we took the usermod / module concept and grouped everything in modules, added a variable model to it and used Object Oriented programming concepts to communicate between variables, modules, the web based user interface, the ESP32 and its file system. This makes adding a new module as straightforward as possible.
+
+This is what we did in 2024:
+
+**v0.1.0** - _Lucky Star_ (June 9)
+
+* StarBase: StarLink (Sync groups, dashboard, time sync), HA
+* StarLight: Effects: Noisemeter, noise2D. Fixture generator (Curtain, Glorb), Preview, ESP32-S3, sharedData
+
+**v0.2.0** - _Stairway to heaven_ (July 20)
+
+* StarBase: Gyro, var events, loop20ms, Live Scripts, file edit, new ui (WIP)
+* StarLight: Effects; Rubik's cube, Game of life, Flow, LaserGEQ. Mapping, Projections, [Physical LED driver](https://github.com/hpwit/I2SClocklessLedDriver)
+
+**v0.3.0** - _Running up that hill_ (August 19)
+
+* StarBase: HTML Live Server in VSCode
+* StarLight: Effects: StarField, Mario. Projections: Scrolling, Acceleration, Checkerboard, Rotation, Blending, Layers
+
+    [<img width="200" src="http://img.youtube.com/vi/hC94lalXCbQ/0.jpg">](http://www.youtube.com/watch?v=hC94lalXCbQ)
+
+**v0.4.0** - _The night comes down_ (October 14)
+
+* StarBase: Class Variable, variable pointers, Ethernet, var.onLoop1s
+* StarLight: Effects: Praxis. ArtNet
+
+    <img width="200" alt="image" src="https://github.com/user-attachments/assets/21247776-a6b9-4e85-9825-7cbeeca7bb7d">
+
+**v0.5.0** - _StarLight_ (November 5)
+
+* StarBase: Multiple Live Scripts, Live Scripts list in UI
+* StarLight. Effects: paintBrush, VU-meter. Projections: Mirror. Support up to 16384 pixels!!, 1-byte preview, Live Fixtures, [Virtual LED Driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver)
+
+    <img width="300" src="https://github.com/user-attachments/assets/c81d2f56-00d1-4424-a716-8e3c30e76636">
+
+**v0.6.0** - _Out of control_ (December 19)
+
+* StarBase: Presets, Stack 16K, cpu performance, safe mode
+* StarLight: Effects: Fire. Projections: rippleYZ. Live Fixture / [Virtual LED Driver](https://github.com/hpwit/I2SClocklessVirtualLedDriver) setup
+
+    <img width="300" src="https://github.com/user-attachments/assets/c43977c0-18d3-439d-b624-7b63fef0f02b">
+
+Contributors are NetMindz, TroyHacks, Softhack, LostHope, Brandon502/WildCats08, FlavourDynamics / Monsoono, HPWit, AaronAverill and lots of people especially on discord helped.
+Worth mentioning is the cooperation with HPWit. He made 2 tremendous products:
+
+* [ESPLiveScripts](https://github.com/hpwit/ESPLiveScript): compile and run scripts directly without rebooting or updating firmware.
+* [I2SClocklessLedDriver (Physical LED driver)](https://github.com/hpwit/I2SClocklessLedDriver) and [I2SClocklessVirtualLedDriver (virtual LED driver)](https://github.com/hpwit/I2SClocklessVirtualLedDriver). Alternative to FastLED LED driver allowing for multiple data connections to LED displays and very high frame rates.
+
+Live Scripts are in StarBase (see the blink example). Live Effects, Live Fixtures, [Physical LED drivers](https://github.com/hpwit/I2SClocklessLedDriver) and [Virtual LED Drivers](https://github.com/hpwit/I2SClocklessVirtualLedDriver) are in StarLight.
+
+Above list is by no means complete and by no means are they finished functionalities. There is a lot to talk about, a lot to document ([StarDocs](https://ewowi.github.io/StarDocs)) and a lot to further develop. So that's for 2025.
+
+Happy holidays,
+Ewoud
