@@ -164,6 +164,25 @@ These can be combined. A decision is needed before any theme work begins so cont
 
 **Definition of done:** The design is consistent, documented in a style guide page, the new site is committed to the repository and published publicly for the first time, and the fork from https://github.com/thundergolfer/thundergolfer.github.io is removed.
 
+**Result:** Colour palette set to teal primary + amber accent, replacing the default Material indigo. Header given a distinctive dark gradient (`#0a1f1a` → `#0d3028`) with an amber accent line and subtle glow — consistent across both dark and light modes, inspired by the openframeworks.cc aesthetic of typographic confidence over corporate colour. Space Grotesk applied to h1–h4 and the site name. Navigation tabs styled uppercase with letter-spacing; active tab highlighted in amber. GitHub repository icon hidden from the header (edit button still works). Visual style guide added to `docs/contributing.md`. Fork detach is a manual step in GitHub Settings for the repo admin.
+
+**Retrospective:**
+
+What went well:
+- Teal + amber reads as warm and craft-oriented rather than developer tooling — noticeably less corporate than the default Material purple
+- Keeping the header dark in both schemes avoids the inconsistency of a colour flip when toggling day/night
+- Space Grotesk gives the site name and headings real personality without requiring a custom typeface pipeline
+- The openframeworks.cc reference was a useful anchor — the uppercase sparse tab lettering with a clean active indicator is the key detail that makes the header feel distinctive
+
+What was difficult:
+- MkDocs Material's hot reload does not always pick up CSS changes mid-session; a manual server restart was needed to see updates
+- The logo PNG has a white background that may cause a slight halo on the dark header; `mix-blend-mode: lighten` is applied as a workaround, but the proper fix is an SVG version (backlog)
+
+Points for Sprint 4:
+- The archive hardware page has a clear divider marking where the Products content ends and the buying guide begins — use it as a literal cut line
+- The Projects showcase pages will be the first pages on the new site with real images; check that image widths render consistently across dark and light modes before finishing the sprint
+- Consider adding `navigation.instant` to `mkdocs.yml` features in Sprint 4 to make page transitions feel faster
+
 ---
 
 ## Sprint 4: Repository Showcase and Projects Showcase

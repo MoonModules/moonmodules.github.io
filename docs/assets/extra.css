@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+/* ─── Typography ─────────────────────────────────────────────────────────── */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+/* ─── Header ─────────────────────────────────────────────────────────────── */
+
+.md-header {
+  background: linear-gradient(135deg, #0a1f1a 0%, #0d3028 60%, #1a2a1a 100%);
+  border-bottom: 2px solid #ffab40;
+  box-shadow: 0 2px 20px rgba(255, 171, 64, 0.12);
+  padding: 4px 0;
+}
+
+.md-header__inner {
+  padding: 8px 16px;
+}
+
+/* Hide GitHub repo icon from header — edit button still works */
+.md-header__source {
+  display: none;
+}
+
+/* Site name */
+.md-header__title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 0.02em;
+}
+
+/* ─── Navigation tabs ────────────────────────────────────────────────────── */
+
+.md-tabs {
+  background: rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid rgba(255, 171, 64, 0.2);
+}
+
+.md-tabs__link {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.55;
+  transition: opacity 0.2s ease, color 0.2s ease;
+  padding-bottom: 12px;
+}
+
+.md-tabs__link:hover {
+  opacity: 1;
+  color: #ffab40;
+}
+
+.md-tabs__item--active .md-tabs__link {
+  opacity: 1;
+  color: #ffab40;
+  border-bottom: 2px solid #ffab40;
+  padding-bottom: 10px;
+}
+
+/* ─── Logo ───────────────────────────────────────────────────────────────── */
+
+.md-header__button.md-logo img {
+  border-radius: 2px;
+  background: transparent;
+}
+
+[data-md-color-scheme="slate"] .md-header__button.md-logo img {
+  mix-blend-mode: lighten;
+}
+
+/* ─── Light mode header ──────────────────────────────────────────────────── */
+
+[data-md-color-scheme="default"] .md-header {
+  background: linear-gradient(135deg, #0a2a20 0%, #0d4030 60%, #1a3020 100%);
+}
+
+[data-md-color-scheme="default"] .md-tabs {
+  background: rgba(0, 0, 0, 0.2);
+}

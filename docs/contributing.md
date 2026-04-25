@@ -53,3 +53,49 @@ The blog is not yet active. When it is, instructions will be added here.
 - Compress images to under 200 KB before uploading. Use [TinyPNG](https://tinypng.com) or [Kraken](https://kraken.io/web-interface).
 - Set an explicit width in pixels so the layout does not break on different screen sizes.
 - Images can be stored in the GitHub repository (drag and drop while editing) or in external cloud storage.
+
+---
+
+## Visual style
+
+### Colours
+
+The site uses Material for MkDocs with a teal primary and amber accent, dark mode by default. The header uses a custom dark gradient with an amber accent line, consistent across both schemes.
+
+| Role | Value |
+|---|---|
+| Primary | Teal (Material `teal`) |
+| Accent | Amber (Material `amber`) |
+| Header background | Dark teal gradient — `#0a1f1a` to `#0d3028` |
+| Header accent line | Amber — `#ffab40` |
+| Dark scheme | Slate — near-black background |
+| Light scheme | White background |
+
+Do not introduce additional colours in content. If you need to highlight something, use the built-in admonition types (`note`, `warning`, `tip`) rather than custom colours.
+
+### Typography
+
+| Role | Font |
+|---|---|
+| Headings (h1–h4) | Space Grotesk, 600 weight |
+| Body text | Roboto |
+| Code | Roboto Mono |
+
+Do not override fonts in content via inline HTML or custom CSS.
+
+### Logo
+
+The MoonModules mascot is the moon character in a hoodie. It lives at `docs/assets/moonmodules-logo.png`.
+
+- Minimum display size: 32 × 32 px
+- Do not stretch or recolour it
+- Do not place it on a coloured background in content — use it on neutral or transparent surfaces
+- An SVG version is on the backlog; for now use the PNG
+
+### Admonitions
+
+Use admonitions to draw attention to specific information. Three types are used on this site:
+
+- `note` — neutral information, used on archive pages to show future home
+- `warning` — used on archive pages to flag outdated content
+- `tip` — for genuinely useful shortcuts or non-obvious advice in instructions
