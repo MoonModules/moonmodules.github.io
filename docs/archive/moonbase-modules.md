@@ -1,6 +1,6 @@
 # MoonBase Modules
 
-!!! warning "Archived — outdated"
+!!! warning "Archived: outdated"
     Originally published 2025-03-29. Migrated without changes. Future home: **Products**. MoonBase has since been merged into MoonLight; the architecture described here reflects an intermediate stage of development.
 
 <img width="400" src="https://github.com/user-attachments/assets/3384f3ba-b5e6-4993-9a8b-80c25878e176"/>

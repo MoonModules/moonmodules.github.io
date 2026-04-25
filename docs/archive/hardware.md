@@ -128,7 +128,7 @@ P2, P2.5 etc is the distance per pixel in mm. We work mostly with P2.5
 good panels have
 
 * larger led chips (3535 vs 2121 vs 1515)
-* higher "brightness" (1200 cd/m^2) — don't go below 800 cd/m^2
+* higher "brightness" (1200 cd/m^2), don't go below 800 cd/m^2
 * outdoor panels can easily reach 8000cd/m^2
 
 ### Moving Heads
@@ -140,7 +140,7 @@ good panels have
   * 19 leds, 15W each, max 285W (standby about 25W)
   * 3 led groups: 1, 6 and 12 leds: 16Ch mode: all as one RGB, 24CH mode, each group accessible
   * Support zoom! Focused beam is good, no RGB artifacts in beam while projected.
-  * Temperature controlled fan — not on at low brightness
+  * Temperature controlled fan (not on at low brightness)
   * Powercon
   * Good display/menu system
   * No gobos

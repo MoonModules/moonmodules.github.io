@@ -28,7 +28,7 @@ try:
     L.load_session_from_file(SESSION_USER)
     print(f'Loaded session for {SESSION_USER}')
 except FileNotFoundError:
-    print('No session file found — run: instaloader --login ewoudwijma')
+    print('No session file found: run: instaloader --login ewoudwijma')
 
 posts = []
 

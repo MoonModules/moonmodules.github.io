@@ -11,28 +11,30 @@ URL = f'https://www.reddit.com/r/{SUBREDDIT}/new.json?limit=5'
 OUTPUT = 'docs/assets/reddit-feed.json'
 USER_AGENT = 'web:moonmodules-site:v1.0 (by /u/ewowi)'
 
-req = urllib.request.Request(URL, headers={'User-Agent': USER_AGENT})
-with urllib.request.urlopen(req, timeout=10) as response:
-    data = json.load(response)
-
 posts = []
-for child in data['data']['children']:
-    p = child['data']
-    # preview images have HTML-encoded ampersands
-    img_url = ''
-    try:
-        img_url = p['preview']['images'][0]['source']['url'].replace('&amp;', '&')
-    except (KeyError, IndexError, TypeError):
-        pass
-    posts.append({
-        'title': p.get('title', ''),
-        'permalink': p.get('permalink', ''),
-        'author': p.get('author', ''),
-        'created_utc': p.get('created_utc', 0),
-        'score': p.get('score', 0),
-        'selftext': (p.get('selftext', '') or '').strip(),
-        'img_url': img_url,
-    })
+try:
+    req = urllib.request.Request(URL, headers={'User-Agent': USER_AGENT})
+    with urllib.request.urlopen(req, timeout=10) as response:
+        data = json.load(response)
+    for child in data['data']['children']:
+        p = child['data']
+        img_url = ''
+        try:
+            img_url = p['preview']['images'][0]['source']['url'].replace('&amp;', '&')
+        except (KeyError, IndexError, TypeError):
+            pass
+        posts.append({
+            'title': p.get('title', ''),
+            'permalink': p.get('permalink', ''),
+            'author': p.get('author', ''),
+            'created_utc': p.get('created_utc', 0),
+            'score': p.get('score', 0),
+            'selftext': (p.get('selftext', '') or '').strip(),
+            'img_url': img_url,
+        })
+except Exception as e:
+    print(f'Reddit fetch failed: {e}')
+    print('Writing empty feed.')
 
 with open(OUTPUT, 'w', encoding='utf-8') as f:
     json.dump(posts, f, ensure_ascii=False, indent=2)

@@ -1,6 +1,6 @@
 # Star-Mod-Base-Light-Moon-Svelte-Live
 
-!!! warning "Archived — outdated"
+!!! warning "Archived: outdated"
     Originally published 2025-03-17. Migrated without changes. Future home: **Products**. This post explains the naming history of the project (StarMod → StarBase/StarLight → MoonLight). The current product is MoonLight; the repository structure described here has since been simplified.
 
 <img width="400" src="https://github.com/user-attachments/assets/de0ab735-d547-462e-b7e3-c3f819bf9283"/>

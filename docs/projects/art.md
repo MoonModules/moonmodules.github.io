@@ -6,7 +6,7 @@ A selection of light installations built with MoonModules software.
 
 ## The Big Freakin' Cube
 
-The HSC — Human Sized Cube — scaled up into the BFC, a large interactive LED cube installation.
+The HSC (Human Sized Cube) scaled up into the BFC, a large interactive LED cube installation.
 
 <img width="400" alt="The Big Freakin Cube" src="/assets/images/bfc-installation.png" />
 
@@ -16,7 +16,7 @@ The HSC — Human Sized Cube — scaled up into the BFC, a large interactive LED
 
 ## Cube202020
 
-The Cube202020 — a 20×20×20 LED curtain cube — was displayed at a party at [Villa Ockenburgh](https://villaockenburgh.nl). Built from LED curtain strings on a custom frame, driven by WLED-MM with multi-pin fixture support.
+The Cube202020 (a 20×20×20 LED curtain cube) was displayed at a party at [Villa Ockenburgh](https://villaockenburgh.nl). Built from LED curtain strings on a custom frame, driven by WLED-MM with multi-pin fixture support.
 
 <img width="400" src="/assets/images/cube202020.png">
 
@@ -46,6 +46,6 @@ Designed and built by [netmindz](https://github.com/netmindz) using Stefan Petri
 
 ## MoonLight at a concert
 
-In September 2025, MoonLight drove all the lighting across two stages at a small festival — LED bars, moving heads, and LED rings — using DMX over Art-Net, with no crashes or downtime over the full event.
+In September 2025, MoonLight drove all the lighting across two stages at a small festival: LED bars, moving heads, and LED rings, using DMX over Art-Net, with no crashes or downtime over the full event.
 
 [Read the full write-up](concert.md)

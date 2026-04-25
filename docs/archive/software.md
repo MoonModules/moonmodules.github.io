@@ -1,6 +1,6 @@
 # Software (original)
 
-!!! warning "Archived — outdated"
+!!! warning "Archived: outdated"
     Migrated from the original site. Future home: **Products**. This page lists only three projects and predates projectMM and FastLED-MM. The current product list is in [About](about.md).
 
 We work on the following projects

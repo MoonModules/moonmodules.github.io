@@ -1,6 +1,6 @@
 # Contributing
 
-<img width="400" src="/assets/images/moonhub75-pcb.png" alt="MoonHub75 PCB — designed and contributed by Sören">
+<img width="400" src="/assets/images/moonhub75-pcb.png" alt="MoonHub75 PCB, designed and contributed by Sören">
 
 Anyone can suggest changes to this site. All content lives in the [GitHub repository](https://github.com/MoonModules/moonmodules.github.io) and is edited via pull requests.
 
@@ -26,7 +26,7 @@ The blog is not yet active. When it is, instructions will be added here.
 
 The Reddit and YouTube feeds update automatically every night via GitHub Actions. Instagram does not have a public API, so the feed is updated manually by a maintainer.
 
-**One-time setup** — log in with instaloader (stores a session file locally):
+**One-time setup:** log in with instaloader (stores a session file locally):
 
 ```
 .venv/bin/instaloader --login ewoudwijma
@@ -42,7 +42,7 @@ Enter your Instagram password and 2FA code when prompted.
 
 This writes `docs/assets/instagram-feed.json` with the 3 most recent posts from each contributor account. Commit the file to publish the update.
 
-The nightly CI also runs the script but will produce an empty feed (no session file in CI) — that is expected and harmless.
+The nightly CI also runs the script but will produce an empty feed (no session file in CI). That is expected and harmless.
 
 ---
 
@@ -92,9 +92,9 @@ The site uses Material for MkDocs with a teal primary and amber accent, dark mod
 |---|---|
 | Primary | Teal (Material `teal`) |
 | Accent | Amber (Material `amber`) |
-| Header background | Dark teal gradient — `#0a1f1a` to `#0d3028` |
-| Header accent line | Amber — `#ffab40` |
-| Dark scheme | Slate — near-black background |
+| Header background | Dark teal gradient: `#0a1f1a` to `#0d3028` |
+| Header accent line | Amber: `#ffab40` |
+| Dark scheme | Slate (near-black background) |
 | Light scheme | White background |
 
 Do not introduce additional colours in content. If you need to highlight something, use the built-in admonition types (`note`, `warning`, `tip`) rather than custom colours.
@@ -115,13 +115,13 @@ The MoonModules mascot is the moon character in a hoodie. It lives at `docs/asse
 
 - Minimum display size: 32 × 32 px
 - Do not stretch or recolour it
-- Do not place it on a coloured background in content — use it on neutral or transparent surfaces
+- Do not place it on a coloured background in content. Use it on neutral or transparent surfaces.
 - An SVG version is on the backlog; for now use the PNG
 
 ### Admonitions
 
 Use admonitions to draw attention to specific information. Three types are used on this site:
 
-- `note` — neutral information, used on archive pages to show future home
-- `warning` — used on archive pages to flag outdated content
-- `tip` — for genuinely useful shortcuts or non-obvious advice in instructions
+- `note`: neutral information, used on archive pages to show future home
+- `warning`: used on archive pages to flag outdated content
+- `tip`: for genuinely useful shortcuts or non-obvious advice in instructions

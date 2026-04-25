@@ -36,7 +36,7 @@ Repos moves under Products: it is less intimidating to non-technical visitors an
 
 | Audience | What they need |
 |---|---|
-| Non-technical — including friends and family who have no idea what any of this is | What is this, what can it do, how do I get it, can I see it |
+| Non-technical (including friends and family who have no idea what any of this is) | What is this, what can it do, how do I get it, can I see it |
 | Technical | Project status, how to contribute, architecture |
 | Supporter / donor | Who is behind this, what is the impact, how to support |
 
@@ -69,7 +69,7 @@ What was difficult:
 
 Points for Sprint 1:
 - Decide on URL structure before any content is written: changing URLs later breaks external links
-- The tone of voice guidelines are the most important output of Sprint 1 — without them, contributors will write inconsistently from the start
+- The tone of voice guidelines are the most important output of Sprint 1. Without them, contributors will write inconsistently from the start.
 - Agree early on what counts as "blog content" vs "social feed content" so Sprint 2 archiving decisions are clear
 
 ---
@@ -100,9 +100,9 @@ What was difficult:
 - Some post titles are ambiguous about their future home (release notes vs. product documentation vs. support articles); the mapping in the site map reflects a first judgement and may be revised in Sprint 2
 
 Points for Sprint 2:
-- Use the slug column in the site map as the exact file naming convention — do not invent new slugs during migration
+- Use the slug column in the site map as the exact file naming convention. Do not invent new slugs during migration.
 - Flag content that is factually outdated at migration time; do not silently copy stale information into Archive
-- The hardware page is large and mixes product descriptions with a buying guide — note the split point when archiving so Sprint 4 knows where to divide it
+- The hardware page is large and mixes product descriptions with a buying guide. Note the split point when archiving so Sprint 4 knows where to divide it.
 
 ---
 
@@ -118,7 +118,7 @@ Points for Sprint 2:
 
 **Definition of done:** Every piece of existing content is in the Archive section and has a documented future home. Nothing is lost, nothing is moved yet. Content will be moved from Archive to its final location gradually across the sprints that follow.
 
-**Result:** All 14 posts and 7 pages migrated to `docs/archive/`. Each page carries a Material admonition showing its future home and an outdated flag where relevant (5 posts and 2 pages flagged). The archive index provides a single table of all items with status. The `admonition` markdown extension was added to `mkdocs.yml`. Archive pages are deliberately not listed in the nav — they are reachable via the index table.
+**Result:** All 14 posts and 7 pages migrated to `docs/archive/`. Each page carries a Material admonition showing its future home and an outdated flag where relevant (5 posts and 2 pages flagged). The archive index provides a single table of all items with status. The `admonition` markdown extension was added to `mkdocs.yml`. Archive pages are deliberately not listed in the nav; they are reachable via the index table.
 
 **Retrospective:**
 
@@ -128,12 +128,12 @@ What went well:
 - The split-point annotation on hardware.md gives Sprint 4 a clear instruction without requiring any content to be touched now
 
 What was difficult:
-- Several posts reference StarBase and StarLight by name; flagging them as outdated is correct but the nuance is that the project history is accurate — only the product names changed. Sprint 4 will need to handle this carefully when writing the new Products pages
+- Several posts reference StarBase and StarLight by name; flagging them as outdated is correct but the nuance is that the project history is accurate. Only the product names changed. Sprint 4 will need to handle this carefully when writing the new Products pages
 - MkDocs logs "not in nav" notices for all unlisted archive pages; this is expected behaviour and not an error, but worth noting so future contributors do not try to add them all to `mkdocs.yml`
 
 Points for Sprint 3:
 - The logo is already in `docs/assets/`; Sprint 3 should verify it renders well on both dark and light backgrounds before committing to it
-- Agree on the colour palette before touching any other theme settings — colour affects how admonitions, code blocks, and links look throughout the whole site
+- Agree on the colour palette before touching any other theme settings. Colour affects how admonitions, code blocks, and links look throughout the whole site.
 - The hardware.md archive page has a divider comment marking the Products/Support split; Sprint 4 should use it as a literal cut line
 
 ---
@@ -143,43 +143,43 @@ Points for Sprint 3:
 **Scope:** Establish the visual identity of the new site.
 
 - Define or update the MoonModules logo (SVG, suitable for dark and light backgrounds)
-- Choose a colour palette and typography that looks modern without being corporate — the current default feels too much like a GitHub documentation site; the goal is something that works for non-technical visitors and reflects the art and maker side of MoonModules
+- Choose a colour palette and typography that looks modern without being corporate. The current default feels too much like a GitHub documentation site; the goal is something that works for non-technical visitors and reflects the art and maker side of MoonModules.
 - Configure the MkDocs theme to match: header, footer, sidebar, font, colours
 - Define what a good page looks like: heading hierarchy, image sizes, link style
 - Day/night toggle in the header, defaulting to night (dark mode)
 - No emoji in navigation or headings
 - Review the homepage and a sample content page against the design
 
-**Design direction — options for discussion:**
+**Design direction: options for discussion:**
 
 Three directions to consider, in order from least to most effort:
 
-1. **Warmer dark theme** — keep the Material framework but swap the indigo palette for something with more warmth (deep teal, amber accent, or a purple-leaning dark). Less corporate, still fully functional. Low effort. Reference feel: creative tool documentation sites, not enterprise software.
+1. **Warmer dark theme:** keep the Material framework but swap the indigo palette for something with more warmth (deep teal, amber accent, or a purple-leaning dark). Less corporate, still fully functional. Low effort. Reference feel: creative tool documentation sites, not enterprise software.
 
-2. **Image-led layout** — make the homepage and Projects section visually driven by photos and video stills of actual installations. The tech recedes to the background; the first thing a visitor sees is light art, not a sidebar. Medium effort, mostly CSS and layout adjustments to the Material theme.
+2. **Image-led layout:** make the homepage and Projects section visually driven by photos and video stills of actual installations. The tech recedes to the background; the first thing a visitor sees is light art, not a sidebar. Medium effort, mostly CSS and layout adjustments to the Material theme.
 
-3. **Custom typography** — add a display font for headings (something geometric or slightly playful, not a system font) while keeping a clean readable body font. Changes the personality of the site significantly without touching layout. Low to medium effort via the Material `font` config.
+3. **Custom typography:** add a display font for headings (something geometric or slightly playful, not a system font) while keeping a clean readable body font. Changes the personality of the site significantly without touching layout. Low to medium effort via the Material `font` config.
 
 These can be combined. A decision is needed before any theme work begins so contributors do not redo each other's work.
 
 **Definition of done:** The design is consistent, documented in a style guide page, the new site is committed to the repository and published publicly for the first time, and the fork from https://github.com/thundergolfer/thundergolfer.github.io is removed.
 
-**Result:** Colour palette set to teal primary + amber accent, replacing the default Material indigo. Header given a distinctive dark gradient (`#0a1f1a` → `#0d3028`) with an amber accent line and subtle glow — consistent across both dark and light modes, inspired by the openframeworks.cc aesthetic of typographic confidence over corporate colour. Space Grotesk applied to h1–h4 and the site name. Navigation tabs styled uppercase with letter-spacing; active tab highlighted in amber. GitHub repository icon hidden from the header (edit button still works). Visual style guide added to `docs/contributing.md`. Fork detach is a manual step in GitHub Settings for the repo admin.
+**Result:** Colour palette set to teal primary + amber accent, replacing the default Material indigo. Header given a distinctive dark gradient (`#0a1f1a` → `#0d3028`) with an amber accent line and subtle glow, consistent across both dark and light modes, inspired by the openframeworks.cc aesthetic of typographic confidence over corporate colour. Space Grotesk applied to h1–h4 and the site name. Navigation tabs styled uppercase with letter-spacing; active tab highlighted in amber. GitHub repository icon hidden from the header (edit button still works). Visual style guide added to `docs/contributing.md`. Fork detach is a manual step in GitHub Settings for the repo admin.
 
 **Retrospective:**
 
 What went well:
-- Teal + amber reads as warm and craft-oriented rather than developer tooling — noticeably less corporate than the default Material purple
+- Teal + amber reads as warm and craft-oriented rather than developer tooling, noticeably less corporate than the default Material purple
 - Keeping the header dark in both schemes avoids the inconsistency of a colour flip when toggling day/night
 - Space Grotesk gives the site name and headings real personality without requiring a custom typeface pipeline
-- The openframeworks.cc reference was a useful anchor — the uppercase sparse tab lettering with a clean active indicator is the key detail that makes the header feel distinctive
+- The openframeworks.cc reference was a useful anchor. The uppercase sparse tab lettering with a clean active indicator is the key detail that makes the header feel distinctive.
 
 What was difficult:
 - MkDocs Material's hot reload does not always pick up CSS changes mid-session; a manual server restart was needed to see updates
 - The logo PNG has a white background that may cause a slight halo on the dark header; `mix-blend-mode: lighten` is applied as a workaround, but the proper fix is an SVG version (backlog)
 
 Points for Sprint 4:
-- The archive hardware page has a clear divider marking where the Products content ends and the buying guide begins — use it as a literal cut line
+- The archive hardware page has a clear divider marking where the Products content ends and the buying guide begins. Use it as a literal cut line.
 - The Projects showcase pages will be the first pages on the new site with real images; check that image widths render consistently across dark and light modes before finishing the sprint
 - Consider adding `navigation.instant` to `mkdocs.yml` features in Sprint 4 to make page transitions feel faster
 
@@ -202,7 +202,7 @@ Repositories to cover:
 - Hardware repo (MoonHub75 PCB, control boxes)
 - Audio Reactive (extraction in progress)
 - srg74 tooling (Serg)
-- hpwit tooling (Yves) — ESPLiveScript, I2SClocklessLedDriver, I2SClocklessVirtualLedDriver
+- hpwit tooling (Yves): ESPLiveScript, I2SClocklessLedDriver, I2SClocklessVirtualLedDriver
 
 **Used and referenced projects**
 - WLED (Aircoookie upstream)
@@ -220,14 +220,14 @@ For each repository:
 - Link to GitHub with live star count
 - Link to documentation where it exists
 
-**Projects showcase** — extract from Archive and write up:
+**Projects showcase:** extract from Archive and write up:
 
 - Art installations: Cube202020, Mikael Pedersen bike, BFC (Big Freakin' Cube), concert at festival
 - Hardware builds: MoonHub75 PCB, Universal Control Box (with Bambu Labs / Makerworld links)
 - 3D prints: 16x16 LED matrix grid, illuminated sphere, control boxes
 - Each project gets a title, one image, a short description, and links to relevant resources
 
-**Buying guide** — extract the "Best buy guide" section from the hardware Archive page into `docs/support/buying-guide.md`. Keep it as a practical shopping list for people who want to get started without reading through developer documentation.
+**Buying guide:** extract the "Best buy guide" section from the hardware Archive page into `docs/support/buying-guide.md`. Keep it as a practical shopping list for people who want to get started without reading through developer documentation.
 
 **Definition of done:** The Repos section is complete and accurate for all categories above. The Projects section has at least one page per project type (art, hardware, 3D prints). The buying guide is live under Support.
 
@@ -236,18 +236,18 @@ For each repository:
 **Retrospective:**
 
 What went well:
-- Archive content from Sprint 2 was complete enough that the Projects and buying guide pages needed almost no new writing — the work was restructuring and trimming, not researching from scratch
+- Archive content from Sprint 2 was complete enough that the Projects and buying guide pages needed almost no new writing. The work was restructuring and trimming, not researching from scratch.
 - The split-point annotation on `archive/hardware.md` from Sprint 2 made the buying guide extraction a clean cut with no ambiguity
 - Keeping "Used and referenced projects" as a credits table rather than full descriptions keeps the repos page readable without losing attribution
 
 What was difficult:
-- projectMM has limited public documentation; the description is based on what is inferrable from the codebase and archive posts — worth reviewing for accuracy
+- projectMM has limited public documentation; the description is based on what is inferrable from the codebase and archive posts. Worth reviewing for accuracy.
 - The concert archive page was already very detailed; deciding how much detail to carry into the new Projects page required judgement calls
 
 Points for Sprint 5:
-- The Community page currently has placeholder content — Sprint 5 social feeds work will make it the most immediately useful page for returning visitors
+- The Community page currently has placeholder content. Sprint 5 social feeds work will make it the most immediately useful page for returning visitors.
 - The shields.io star count badges on the repos page are live at build time but static once deployed; if star counts matter for credibility, consider a note about when the page was last updated
-- The archive pages for moonhub75-pcb, universal-control-box, art, and moonlight-concert now have corresponding final-home pages — their admonition notes could be updated to link directly to the new pages
+- The archive pages for moonhub75-pcb, universal-control-box, art, and moonlight-concert now have corresponding final-home pages. Their admonition notes could be updated to link directly to the new pages.
 
 ---
 
@@ -265,28 +265,28 @@ Note: fully automated live feeds require either JavaScript widgets or a build-ti
 
 **Definition of done:** Each social channel has a presence on the Community page and at least one is a live or regularly updated feed.
 
-**Result:** Community page rewritten with sections for Discord, Reddit, YouTube (split into Shorts and Videos), GitHub, and Instagram. Reddit and YouTube feeds are generated at build time via Python scripts (`scripts/fetch_reddit.py`, `scripts/fetch_youtube.py`) and written to static JSON files in `docs/assets/`. The JavaScript reads these local files on page load — no external API calls, no CORS issues. A nightly GitHub Actions workflow (`update-feeds.yml`) refreshes the feeds independently of code commits. Reddit posts show thumbnails and description text. YouTube cards show thumbnail, title, and date in a row layout. Reddit feed appears on both the homepage and the Community page via a `data-feed="reddit"` attribute. GitHub shows live star count badges via shields.io. Instagram lists three contributor profiles. The `attr_list` markdown extension was added to enable Material button styling. Products section restructured: `repos.md` split into one page per core product plus Supporting and Acknowledgements pages. projectMM and FastLED-MM descriptions rewritten from their GitHub READMEs.
+**Result:** Community page rewritten with sections for Discord, Reddit, YouTube (split into Shorts and Videos), GitHub, and Instagram. Reddit and YouTube feeds are generated at build time via Python scripts (`scripts/fetch_reddit.py`, `scripts/fetch_youtube.py`) and written to static JSON files in `docs/assets/`. The JavaScript reads these local files on page load (no external API calls, no CORS issues). A nightly GitHub Actions workflow (`update-feeds.yml`) refreshes the feeds independently of code commits. Reddit posts show thumbnails and description text. YouTube cards show thumbnail, title, and date in a row layout. Reddit feed appears on both the homepage and the Community page via a `data-feed="reddit"` attribute. GitHub shows live star count badges via shields.io. Instagram lists three contributor profiles. The `attr_list` markdown extension was added to enable Material button styling. Products section restructured: `repos.md` split into one page per core product plus Supporting and Acknowledgements pages. projectMM and FastLED-MM descriptions rewritten from their GitHub READMEs.
 
 **Retrospective:**
 
 What went well:
-- Build-time fetch eliminates CORS entirely — the JSON files are local assets served by MkDocs, so the JavaScript is trivial and reliable
-- Separating YouTube into Shorts and Videos required only a URL check (`/shorts/` in the link) — the RSS contains all entries in a single feed
+- Build-time fetch eliminates CORS entirely. The JSON files are local assets served by MkDocs, so the JavaScript is trivial and reliable.
+- Separating YouTube into Shorts and Videos required only a URL check (`/shorts/` in the link). The RSS contains all entries in a single feed.
 - The nightly workflow pattern (fetch → commit if changed → deploy triggers) keeps feeds fresh without any manual intervention and without coupling feed updates to code changes
 - Using `data-feed` attribute instead of `id` for the Reddit container lets the same feed appear on multiple pages with one JS function
 
 What was difficult:
 - Three consecutive fetch strategies were tried for YouTube (rss2json.com → allorigins.win → build-time script) before landing on the right approach; both third-party CORS proxies had reliability or access issues
 - Reddit's public JSON API returns 403 without a correctly formatted User-Agent string; this works fine from Python at build time but cannot be set from browser JavaScript
-- YouTube Shorts have no description text in the RSS feed; the `media:description` element is present but empty — nothing to show until descriptions are added in YouTube Studio
+- YouTube Shorts have no description text in the RSS feed; the `media:description` element is present but empty. Nothing to show until descriptions are added in YouTube Studio.
 - Instagram has no public API suitable for a static site; individual contributor profile links are the only viable option
 
 Points for Sprint 6:
-- The About page is the most text-heavy sprint — start with the team section and let the history and mission flow from there rather than writing top-to-bottom
-- The collaboration section (Apollo Automation, Glorb, Tarna, srg74, hpwit, Stefan Petrick, wladi) benefits from a one-liner per collaborator rather than a list of names — a sentence each is more informative for a visitor who doesn't know these names
-- The Reddit feed on the homepage gives Sprint 7 a strong foundation — the homepage already has live content and does not need a blog or manually maintained news section
-- The About page is the most text-heavy sprint — start with the team section and let the history and mission flow from there rather than writing top-to-bottom
-- The collaboration section (Apollo Automation, Glorb, Tarna, srg74, hpwit, Stefan Petrick, wladi) benefits from a one-liner per collaborator rather than a list of names — a sentence each is more informative for a visitor who doesn't know these names
+- The About page is the most text-heavy sprint. Start with the team section and let the history and mission flow from there rather than writing top-to-bottom.
+- The collaboration section (Apollo Automation, Glorb, Tarna, srg74, hpwit, Stefan Petrick, wladi) benefits from a one-liner per collaborator rather than a list of names, a sentence each is more informative for a visitor who doesn't know these names.
+- The Reddit feed on the homepage gives Sprint 7 a strong foundation. The homepage already has live content and does not need a blog or manually maintained news section.
+- The About page is the most text-heavy sprint. Start with the team section and let the history and mission flow from there rather than writing top-to-bottom.
+- The collaboration section (Apollo Automation, Glorb, Tarna, srg74, hpwit, Stefan Petrick, wladi) benefits from a one-liner per collaborator rather than a list of names, a sentence each is more informative for a visitor who doesn't know these names.
 - If the community page live feeds are working as expected after deployment, consider linking to Community from the homepage in Sprint 7 rather than duplicating content
 
 ---
@@ -305,24 +305,24 @@ Points for Sprint 6:
 
 **Definition of done:** A reviewer unfamiliar with MoonModules can read the About page and understand who this is, what they build, and how to get involved.
 
-**Result:** `docs/about.md` written in full with five sections: Who we are, History, Team (table), Collaborators, and Support/Donate. The collaborator section covers Apollo Automation, Glorb, Tarna, QuinLED, Wladislaw Waag, hpwit, srg74, and Stefan Petrick — each with a one-liner and a link where applicable. Descriptions compiled from their public websites and GitHub profiles. PayPal donation link added as a Material button. `docs/products/index.md` updated with three new sections: Project timeline (narrative replacing the flat list from the archive), Roadmap (April 2026), and a What to use decision table. Both the history prose in `about.md` and the product timeline in `products/index.md` are written to be readable by a non-technical visitor.
+**Result:** `docs/about.md` written in full with five sections: Who we are, History, Team (table), Collaborators, and Support/Donate. The collaborator section covers Apollo Automation, Glorb, Tarna, QuinLED, My Home Control, hpwit, srg74, and Stefan Petrick, each with a one-liner and a link where applicable. Descriptions compiled from their public websites and GitHub profiles. PayPal donation link added as a Material button. `docs/products/index.md` updated with three new sections: Project timeline (narrative replacing the flat list from the archive), Roadmap (April 2026), and a What to use decision table. Both the history prose in `about.md` and the product timeline in `products/index.md` are written to be readable by a non-technical visitor.
 
 **Retrospective:**
 
 What went well:
-- The archive/about.md had enough factual content that the rewrite was structuring and trimming rather than research — the history section wrote itself once the events were in order
+- The archive/about.md had enough factual content that the rewrite was structuring and trimming rather than research. The history section wrote itself once the events were in order.
 - Fetching collaborator websites directly produced accurate one-liners without guesswork; QuinLED and myhome-control.de were particularly clear about their scope
 - Separating the donation section from the general support/contribute text keeps the ask from feeling heavy; the Material button makes it unambiguous without being prominent
 - The "What to use" table replaces a flat bullet list with a decision matrix that is significantly easier to scan
 
 What was difficult:
 - Tarna's site (tarna.ca) had an expired SSL certificate and could not be fetched directly; the description is intentionally minimal
-- Apollo Automation's WLED-MM connection required searching GitHub (ApolloAutomation/WLED-MM-M1) to confirm the relationship — their main site focuses on the broader smart home product line
+- Apollo Automation's WLED-MM connection required searching GitHub (ApolloAutomation/WLED-MM-M1) to confirm the relationship. Their main site focuses on the broader smart home product line.
 
 Points for Sprint 7:
-- The About page collaborator section and the Homepage could share a condensed version of the collaborator list — consider a short "used by" row of logos or names on the homepage
+- The About page collaborator section and the Homepage could share a condensed version of the collaborator list. Consider a short "used by" row of logos or names on the homepage.
 - The What to use table in products/index.md links directly to product pages; verify all anchor links resolve after deployment
-- The homepage is the only remaining page with placeholder-level content — Sprint 7 can now draw on the full site to build it
+- The homepage is the only remaining page with placeholder-level content. Sprint 7 can now draw on the full site to build it.
 
 ---
 
@@ -332,47 +332,128 @@ Points for Sprint 7:
 
 - One-sentence headline immediately below the site name
 - Three entry-point buttons: "Light installations" → Projects, "Our software" → Products, "Support the project" → About#support
-- Featured installations grid: MoonLight at a concert, The Big Freakin' Cube, Cube202020 — each with image, title, one-line description, link
-- Reddit and YouTube feeds retained from Sprint 5 — verified in final layout
+- Featured installations grid: MoonLight at a concert, The Big Freakin' Cube, Cube202020, each with image, title, one-line description, link
+- Reddit and YouTube feeds retained from Sprint 5, verified in final layout
 - Get involved section: Discord, GitHub, Donate buttons
 - No wall of text, no AI-generated summary paragraph
 - Responsive: 3-column grid on desktop, single column on mobile
 
 **Definition of done:** The homepage accurately represents the site, loads quickly, and passes a review by at least two contributors who were not involved in writing it.
 
-**Result:** Homepage rewritten with a one-sentence tagline, two entry-point buttons (Light installations, Our software), a 3-column responsive project card grid (concert, BFC, Cube202020), the existing Reddit and YouTube feeds retained in the new layout, and a Get involved footer (Discord, GitHub, Support the project). Project card CSS added to `extra.css` with a 768px mobile breakpoint. GA4 (G-R6QYDG0126) configured via Material analytics. Instagram feed infrastructure added: Python fetch script using instaloader, nightly CI step, JS renderer, CSS cards, and a contributing guide section explaining the manual update workflow. Support page fully written with Getting started, Getting help, Documentation table (product docs + Wladi FAQ + QuinLED references), and a Support the project/donate section. Buying guide expanded with a Complete LED controller boards section covering 11 boards across 5 manufacturers, all with downloaded images. All external image URLs across the entire site localised to `docs/assets/images/` with descriptive filenames — product pages, buying guide, project pages, homepage, and page headers. Five section pages (About, Support, Community, Projects, Contributing) each received a contextually appropriate header image.
+**Result:** Homepage rewritten with a one-sentence tagline, two entry-point buttons (Light installations, Our software), a 3-column responsive project card grid (concert, BFC, Cube202020), the existing Reddit and YouTube feeds retained in the new layout, and a Get involved footer (Discord, GitHub, Support the project). Project card CSS added to `extra.css` with a 768px mobile breakpoint. GA4 (G-R6QYDG0126) configured via Material analytics. Instagram feed infrastructure added: Python fetch script using instaloader, nightly CI step, JS renderer, CSS cards, and a contributing guide section explaining the manual update workflow. Support page fully written with Getting started, Getting help, Documentation table (product docs + Wladi FAQ + QuinLED references), and a Support the project/donate section. Buying guide expanded with a Complete LED controller boards section covering 11 boards across 5 manufacturers, all with downloaded images. All external image URLs across the entire site localised to `docs/assets/images/` with descriptive filenames (product pages, buying guide, project pages, homepage, and page headers). Five section pages (About, Support, Community, Projects, Contributing) each received a contextually appropriate header image.
 
 **Retrospective:**
 
 What went well:
-- All homepage content was already in place from earlier sprints — Sprint 7 was pure layout and assembly work, no research or writing from scratch
+- All homepage content was already in place from earlier sprints. Sprint 7 was pure layout and assembly work, no research or writing from scratch.
 - The 3-column CSS grid with a single media query breakpoint handles mobile correctly without a framework
 - Localising all images to `docs/assets/images/` with descriptive filenames removes all external dependencies and makes the image library browsable and self-documenting
-- Absolute `/assets/images/` paths work correctly regardless of page nesting depth — avoids the `../` counting trap that caused 404s on first attempt
+- Absolute `/assets/images/` paths work correctly regardless of page nesting depth, avoiding the `../` counting trap that caused 404s on first attempt.
 
 What was tricky:
 - MkDocs `use_directory_urls: true` means relative paths like `../assets/images/` resolve to the wrong location for pages nested more than one level; discovered via 404s in the dev server and fixed by switching to absolute paths
-- Instagram has no public API for unauthenticated static-site access; instaloader returns 403 from GitHub Actions without a stored session file — feed stays manually maintained until first login
+- Instagram has no public API for unauthenticated static-site access; instaloader returns 403 from GitHub Actions without a stored session file. The feed stays manually maintained until first login.
 - The CI nightly workflow installs instaloader and runs the fetch even though it will produce an empty feed until credentials are available; this is harmless but adds a few seconds to every nightly run
 
-Seeds for next sprint:
-- Populate the Instagram feed: run `instaloader --login ewoudwijma` locally then `python scripts/fetch_instagram.py` and commit the result
-- The homepage project card images still use external `github.com/user-attachments` URLs — now also localised in this sprint, but verify they load after deployment
-- Anchor link `about.md#support` — verify the slug resolves correctly after deployment
-- "Used by" collaborator row on the homepage (backlogged)
+---
+
+## Sprint 8: Casual Visitor Polish and Build Fix
+
+**Scope:** Three targeted improvements for non-technical visitors, a style cleanup pass across all content, and a fix for the broken GitHub Actions build.
+
+**Casual visitor improvements:**
+
+- Rephrase the homepage "Featured installations" section to "Made with MoonModules" with an introductory sentence that invites rather than labels
+- Add cost, difficulty, and time estimates to each product section in Getting Started so a new visitor knows what they're in for before reading the steps
+- Create `docs/support/faq.md` with nine beginner-friendly questions (do I need to code, what is an ESP32, how much does it cost, phone control, multiple strips, smart home, LED compatibility, is it free, where to get help) and add to nav
+
+**Style cleanup:**
+
+- Replace all em dashes (" — ") across every `.md` file in the repository with contextually appropriate punctuation: `:` after labels and descriptions, `()` for parenthetical inserts, `,` for continuations, `.` at sentence boundaries
+- Applied to all 29 affected files including archive pages, sprint log, and all product/support/project pages
+
+**Build fix:**
+
+- `deploy.yml` was running `fetch_reddit.py` and `fetch_youtube.py` on every push; Reddit started returning 403, crashing the build. Removed feed-fetch steps from `deploy.yml` — feeds are already committed to the repo by `update-feeds.yml` and do not need to be re-fetched at deploy time.
+- Added `try/except` to both `scripts/fetch_reddit.py` and `scripts/fetch_youtube.py` so a failed fetch writes an empty feed rather than crashing the workflow
+
+**Images and navigation:**
+
+- Added `wled-mm-ui.png` header image to Getting Started (shows what a new user sees after flashing)
+- Added `animartrix-lamps.png` header image to FAQ (approachable, finished installation)
+- Added "Getting started" and "FAQ" buttons to the homepage below the project grid
+
+**Definition of done:** A non-technical visitor landing on the homepage can immediately navigate to Getting Started or FAQ, see what the project produces, understand cost and difficulty before committing, and get answers to basic questions without leaving the site. The build pipeline runs without errors on every push.
+
+**Result:** Homepage "Made with MoonModules" heading with introductory copy and two new nav buttons (Getting started, FAQ). Getting Started page has cost/difficulty/time badges per product and a header image. FAQ page created with nine questions, header image, and added to nav. Em dashes replaced across all 29 files. `deploy.yml` no longer runs feed scripts; both fetch scripts handle failures gracefully.
+
+**Retrospective:**
+
+What went well:
+- The em dash pass was systematic and consistent: a grep to find all occurrences, then context-driven replacements rather than a bulk find-and-replace — the result reads more naturally than the original
+- Removing feed fetches from `deploy.yml` was the correct architectural decision; the two workflows (deploy vs. update-feeds) now have clearly separate responsibilities
+- Cost/difficulty/time badges on Getting Started add immediate value with minimal copy
+
+What was difficult:
+- The em dash replacement was large in volume (29 files, ~100 instances) and required reading each in context to choose the right punctuation; there is no shortcut that produces correct results
+- Reddit's 403 response had been silently breaking the build since Sprint 5; the fix was straightforward once identified but had been blocking deployment for some time
+
+Points for Sprint 9:
+- The "Used by" collaborator row on the homepage (Apollo Automation, Glorb, Tarna, QuinLED) is the next highest-value item for non-technical visitors. Shows adoption without requiring them to read the About page.
+- The Instagram feed via Behold.so would replace the manual instaloader workflow entirely and is low effort.
+- The FAQ and Getting Started pages now exist but are not cross-linked with the support index or the product pages; adding brief pointers would improve discoverability.
+
+---
+
+## Sprint 9: Discoverability
+
+**Scope:** Surface the Getting Started and FAQ pages from everywhere a new visitor might land, and add a collaborator row to the homepage to show real-world adoption.
+
+- Add a "Used by" section to the homepage with names and links for Apollo Automation, Glorb, Tarna, and QuinLED, linking through to About#collaborators
+- Add Getting Started and FAQ buttons to the top of the Support overview page
+- Add a pointer to Getting Started and FAQ below the "What to use" table in Products
+
+**Definition of done:** A visitor landing on the homepage, the Products page, or the Support overview can reach Getting Started and FAQ in one click. The homepage shows who uses MoonModules software in the real world.
+
+**Result:** Homepage has a new "Used by" section with logos for My Home Control, Glorb, and QuinLED downloaded from each collaborator's site, plus a text entry for Tarna (no public logo available), and a button to the full collaborators list. White logos (Glorb, QuinLED) invert to black in light mode via a single CSS rule. `support/index.md` has Getting Started and FAQ buttons at the top of the Getting started section. `products/index.md` has a one-line pointer to both pages below the "What to use" table.
+
+**Retrospective:**
+
+What went well:
+- Logos sourced directly from collaborator websites; no manual graphics work required
+- CSS light/dark handling is clean: a single `filter: brightness(0)` rule on `[data-md-color-scheme="default"]` covers all white logos without per-logo hacks
+- The collaborator row lands naturally between the project grid and the community feeds; two thirds of the homepage now serves non-technical visitors before they reach any technical content
+
+What was difficult:
+- Tarna has no publicly available logo; a text entry is used as a fallback
+- My Home Control logo is a coloured PNG from the shop subdomain; no SVG or wordmark version was found
+
+Points for Sprint 10:
+- Instagram feed via Behold.so
+- Hero image or short video loop for the homepage header
 
 ---
 
 ## Backlog (not yet scheduled)
 
-- "Used by" collaborator row on homepage — logos or names of Apollo Automation, Glorb, Tarna, QuinLED linking to About#collaborators
-- Instagram live feed via [Behold.so](https://behold.so) — free widget, connect Instagram account once, replaces the manually maintained instagram-feed.json with a live embed
-- Detach fork from thundergolfer/thundergolfer.github.io — option not available in GitHub Settings UI; contact [GitHub Support](https://support.github.com) to request detach, or leave as cosmetic issue
-- SVG version of the MoonModules logo — current PNG has a white background causing a slight halo on the dark header; `mix-blend-mode: lighten` is the current workaround
-- Support / documentation section: getting started guides for each product
-- Hardware buying guide: migrate the current detailed hardware page
-- Art and showcase gallery: projects made with MoonModules software
-- Multilingual support (EU audience)
+**Quick actions (low effort, high visibility):**
+- Populate the Instagram feed: run `instaloader --login ewoudwijma` locally, then `python scripts/fetch_instagram.py`, commit the result; one-time setup, feed stays fresh via nightly CI once session file is available
+- Verify `about.md#support` anchor resolves correctly after deployment. The donate button on the homepage depends on it.
+- SVG version of the MoonModules logo: current PNG has a white background causing a slight halo on the dark header; `mix-blend-mode: lighten` is the current workaround
+
+**Content (high value for new visitors):**
+- Archive pages still to migrate: `archive/hardware.md` contains detailed hardware specs not yet in the buying guide; `archive/community.md` and `archive/links.md` have content not yet surfaced
+
+**Feed improvements:**
+- Instagram live feed via [Behold.so](https://behold.so): free widget, connect Instagram account once, replaces manually maintained instagram-feed.json with a live embed (replaces the instaloader approach entirely)
+
+**Design:**
+- Hero image or short video loop for the homepage header: shows the work immediately without scrolling
+- Art and showcase gallery: a grid view of all installations and builds rather than the current list
+
+**Infrastructure:**
+- Detach fork from thundergolfer/thundergolfer.github.io: option not available in GitHub Settings UI; contact [GitHub Support](https://support.github.com) to request detach, or leave as cosmetic issue
+- Multilingual support (EU audience): significant effort, low urgency
 
 ---
 

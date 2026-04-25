@@ -4,26 +4,26 @@ MoonModules develops and maintains open source lighting software for ESP32 micro
 
 **Core products**
 
-- [WLED-MM](wled-mm.md) — the mature fork of WLED, audio-reactive, large fixture support
+- [WLED-MM](wled-mm.md): the mature fork of WLED, audio-reactive, large fixture support
 
   <img width="140" src="/assets/images/wled-mm-ui.png" alt="WLED-MM">
 
-- [MoonLight](moonlight.md) — stage and installation use, DMX and Art-Net, up to 16,384 pixels
+- [MoonLight](moonlight.md): stage and installation use, DMX and Art-Net, up to 16,384 pixels
 
   <img width="140" src="/assets/images/moonlight-ui.png" alt="MoonLight">
 
-- [projectMM](projectmm.md) — cross-platform module runtime for ESP32, Raspberry Pi, and PC; the base layer MoonLight is moving towards
+- [projectMM](projectmm.md): cross-platform module runtime for ESP32, Raspberry Pi, and PC; the base layer MoonLight is moving towards
 
   <img width="140" src="/assets/images/projectmm-ui.gif" alt="projectMM">
 
-- [FastLED-MM](fastled-mm.md) — FastLED combined with the projectMM runtime: a complete ESP32 firmware with web UI, dual-core processing, and REST API
+- [FastLED-MM](fastled-mm.md): FastLED combined with the projectMM runtime: a complete ESP32 firmware with web UI, dual-core processing, and REST API
 
   <img width="140" src="/assets/images/fastled-mm-ui.png" alt="FastLED-MM">
 
 **More**
 
-- [Supporting repositories](supporting.md) — forks and community tooling
-- [Acknowledgements](acknowledgements.md) — open source projects we build on
+- [Supporting repositories](supporting.md): forks and community tooling
+- [Acknowledgements](acknowledgements.md): open source projects we build on
 
 ---
 
@@ -41,7 +41,7 @@ WLED-MM-Troyhacks is a separate playground for experimental work on the ESP32-P4
 - **WLED-MM** continues as a playground for new features; the longer-term aim is to push as much as possible back upstream and minimise the diff with Aircoookie WLED.
 - **MoonLight 1.0** is due in May 2026. Active development stops at 1.0; the project will be maintained but not extended.
 - **projectMM** continues where MoonLight leaves off. A rename is likely as it grows beyond the proof-of-concept stage.
-- **FastLED-MM** remains a minimal demo application — a reference for how to use projectMM as a library and a working firmware for FastLED users who want Wi-Fi and a web UI.
+- **FastLED-MM** remains a minimal demo application, a reference for how to use projectMM as a library and a working firmware for FastLED users who want Wi-Fi and a web UI.
 
 ---
 
@@ -50,7 +50,7 @@ WLED-MM-Troyhacks is a separate playground for experimental work on the ESP32-P4
 | Use case | Recommended product |
 |---|---|
 | Starting out with ESP32 LEDs | [WLED](https://github.com/wled/WLED) (upstream) |
-| Hub75 matrix panels | [WLED-MM](wled-mm.md) — see also the MoonHub75 PCB |
+| Hub75 matrix panels | [WLED-MM](wled-mm.md) (see also the MoonHub75 PCB) |
 | More than 1,024 LEDs | [WLED-MM](wled-mm.md) |
 | More than 10,000 LEDs | [MoonLight](moonlight.md) |
 | More than 50,000 LEDs on ESP32-P4 | WLED-MM Troyhacks |
@@ -60,3 +60,5 @@ WLED-MM-Troyhacks is a separate playground for experimental work on the ESP32-P4
 | FastLED users wanting Wi-Fi and a web UI | [FastLED-MM](fastled-mm.md) |
 | Building the next generation of LED controllers | [projectMM](projectmm.md) |
 | Pushing ESP32-P4 to its limits | WLED-MM Troyhacks |
+
+New to this? The [Getting started guide](../support/getting-started.md) walks through first steps for each product, and the [FAQ](../support/faq.md) answers common beginner questions.

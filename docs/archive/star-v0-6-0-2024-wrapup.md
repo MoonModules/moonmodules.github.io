@@ -1,6 +1,6 @@
-# StarBase and StarLight v0.6.0 — 2024 wrap-up
+# StarBase and StarLight v0.6.0: 2024 wrap-up
 
-!!! warning "Archived — outdated"
+!!! warning "Archived: outdated"
     Originally published 2024-12-20. Migrated without changes. Future home: **Products**. StarBase and StarLight have since been renamed to MoonLight. The project history described here is accurate; product names have changed.
 
 <img width="400" src="https://github.com/user-attachments/assets/c43977c0-18d3-439d-b624-7b63fef0f02b"/>

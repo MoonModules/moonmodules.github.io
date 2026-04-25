@@ -4,9 +4,9 @@
 
 <img width="350" src="/assets/images/fastled-mm-ui.png" alt="FastLED-MM">
 
-FastLED-MM combines FastLED — the pixel maths and hardware driver library — with the projectMM module runtime. The result is a complete ESP32 LED firmware: FastLED handles pixel effects and hardware output, projectMM adds the web UI, dual-core processing, persistent storage, and REST API layer.
+FastLED-MM combines FastLED (the pixel maths and hardware driver library) with the projectMM module runtime. The result is a complete ESP32 LED firmware: FastLED handles pixel effects and hardware output, projectMM adds the web UI, dual-core processing, persistent storage, and REST API layer.
 
-You configure your hardware (pin, width, height), flash the firmware, and connect to the device's Wi-Fi access point. A browser-based control panel with a live LED preview is available immediately — no USB connection needed for day-to-day use.
+You configure your hardware (pin, width, height), flash the firmware, and connect to the device's Wi-Fi access point. A browser-based control panel with a live LED preview is available immediately, no USB connection needed for day-to-day use.
 
 Effects are written as Modules by subclassing `StatefulModule` and implementing `setup()`, `loop()`, and `teardown()`. Effects write directly to a shared LED array; projectMM manages the rendering pipeline and runs effect calculation and hardware output on separate CPU cores.
 
@@ -15,7 +15,7 @@ Effects are written as Modules by subclassing `StatefulModule` and implementing 
 - Browser control panel with live LED preview
 - Art-Net protocol support
 - Audio integration
-- Dual-core task distribution — pixel calculation and hardware update run in parallel
+- Dual-core task distribution: pixel calculation and hardware update run in parallel
 - Network connectivity with fallback access point
 - Persistent configuration storage
 - REST API

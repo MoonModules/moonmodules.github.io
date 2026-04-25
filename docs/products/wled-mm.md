@@ -11,6 +11,6 @@ WLED-MM is MoonModules' fork of WLED, the popular open source LED controller fir
 | Platform | ESP32, ESP32-S3 |
 | Scale | Up to a few thousand pixels |
 | Audience | Hobbyists, makers, intermediate users |
-| Status | Active — follows upstream WLED releases plus MoonModules additions |
+| Status | Active, follows upstream WLED releases plus MoonModules additions |
 
 [GitHub](https://github.com/MoonModules/WLED) · [Documentation](https://mm.kno.wled.ge)

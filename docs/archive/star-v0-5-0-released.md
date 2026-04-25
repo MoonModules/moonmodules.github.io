@@ -1,6 +1,6 @@
 # StarBase and StarLight v0.5.0 released
 
-!!! warning "Archived — outdated"
+!!! warning "Archived: outdated"
     Originally published 2024-11-05. Migrated without changes. Future home: **Products**. StarBase and StarLight have since been renamed to MoonLight; the release links below point to the old repositories.
 
 <img width="300" src="https://github.com/user-attachments/assets/c81d2f56-00d1-4424-a716-8e3c30e76636">

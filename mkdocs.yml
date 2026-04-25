@@ -59,7 +59,9 @@ nav:
     - Acknowledgements: products/acknowledgements.md
   - Support:
     - Overview: support/index.md
+    - Getting Started: support/getting-started.md
     - Buying Guide: support/buying-guide.md
+    - FAQ: support/faq.md
   - Community: community.md
   - Projects:
     - Overview: projects/index.md

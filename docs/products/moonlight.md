@@ -11,6 +11,6 @@ MoonLight is a ground-up rewrite designed for larger and more complex installati
 | Platform | ESP32-S3, ESP32-P4 |
 | Scale | Up to 16,384 pixels |
 | Audience | Advanced users, stage and installation use |
-| Status | Active — growing effect library, DMX support maturing |
+| Status | Active, growing effect library, DMX support maturing |
 
 [GitHub](https://github.com/MoonModules/MoonLight)

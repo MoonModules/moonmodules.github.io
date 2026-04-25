@@ -1,6 +1,6 @@
 # ESPLiveScript v1.2.0 released
 
-!!! warning "Archived — outdated"
+!!! warning "Archived: outdated"
     Originally published 2024-11-06. Migrated without changes. Future home: **Products**. References to StarBase and StarLight below reflect the names used at the time; these projects are now MoonLight.
 
 <img width="300" src="https://github.com/user-attachments/assets/f8126083-2324-4305-8abf-731d502617b6">

@@ -1,7 +1,7 @@
 # Art (original)
 
 !!! note "Archived"
-    Migrated from the original site. Future home: **Community** — art and installations section.
+    Migrated from the original site. Future home: **Community**, art and installations section.
 
 WLED has become a revolutionary tool in the world of lighting art. Known for its flexibility and adaptability, WLED allows artists to transform their visions into vibrant, dynamic light displays with true audio responsive effects.
 

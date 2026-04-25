@@ -22,7 +22,7 @@
   padding: 8px 16px;
 }
 
-/* Hide GitHub repo icon from header — edit button still works */
+/* Hide GitHub repo icon from header, edit button still works */
 .md-header__source {
   display: none;
 }
@@ -299,6 +299,44 @@
 .ig-card__meta {
   font-size: 0.72rem;
   color: var(--md-default-fg-color--light);
+}
+
+/* ─── Collaborator logo row ──────────────────────────────────────────────── */
+
+.collab-logos {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+  margin: 16px 0 24px;
+}
+
+.collab-logos a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.collab-logos a:hover {
+  opacity: 1;
+}
+
+.collab-logos a img {
+  height: 32px;
+  width: auto;
+}
+
+.collab-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--light);
+}
+
+/* White logos are invisible on light backgrounds — invert to black */
+[data-md-color-scheme="default"] .collab-logo--white {
+  filter: brightness(0);
 }
 
 /* ─── Light mode header ──────────────────────────────────────────────────── */

@@ -29,39 +29,45 @@ def extract_video_id(url):
     return params.get('v', [''])[0]
 
 
-req = urllib.request.Request(RSS_URL, headers={'User-Agent': 'Mozilla/5.0'})
-with urllib.request.urlopen(req, timeout=10) as response:
-    xml_data = response.read()
-
-root = ET.fromstring(xml_data)
 shorts = []
 videos = []
 
-for entry in root.findall('atom:entry', NS):
-    title = entry.findtext('atom:title', namespaces=NS) or ''
-    link_el = entry.find('atom:link', NS)
-    link = link_el.get('href', '') if link_el is not None else ''
-    published = entry.findtext('atom:published', namespaces=NS) or ''
-    video_id = extract_video_id(link)
-    thumb_el = entry.find('.//media:thumbnail', NS)
-    thumbnail = thumb_el.get('url', '') if thumb_el is not None else ''
-    if not thumbnail and video_id:
-        thumbnail = f'https://img.youtube.com/vi/{video_id}/mqdefault.jpg'
-    desc_el = entry.find('.//media:description', NS)
-    description = (desc_el.text or '').strip() if desc_el is not None else ''
+try:
+    req = urllib.request.Request(RSS_URL, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req, timeout=10) as response:
+        xml_data = response.read()
 
-    item = {
-        'title': title,
-        'link': link,
-        'published': published,
-        'thumbnail': thumbnail,
-        'description': description,
-    }
+    root = ET.fromstring(xml_data)
 
-    if '/shorts/' in link:
-        shorts.append(item)
-    else:
-        videos.append(item)
+    for entry in root.findall('atom:entry', NS):
+        title = entry.findtext('atom:title', namespaces=NS) or ''
+        link_el = entry.find('atom:link', NS)
+        link = link_el.get('href', '') if link_el is not None else ''
+        published = entry.findtext('atom:published', namespaces=NS) or ''
+        video_id = extract_video_id(link)
+        thumb_el = entry.find('.//media:thumbnail', NS)
+        thumbnail = thumb_el.get('url', '') if thumb_el is not None else ''
+        if not thumbnail and video_id:
+            thumbnail = f'https://img.youtube.com/vi/{video_id}/mqdefault.jpg'
+        desc_el = entry.find('.//media:description', NS)
+        description = (desc_el.text or '').strip() if desc_el is not None else ''
+
+        item = {
+            'title': title,
+            'link': link,
+            'published': published,
+            'thumbnail': thumbnail,
+            'description': description,
+        }
+
+        if '/shorts/' in link:
+            shorts.append(item)
+        else:
+            videos.append(item)
+
+except Exception as e:
+    print(f'YouTube fetch failed: {e}')
+    print('Writing empty feed.')
 
 output = {
     'shorts': shorts[:MAX_EACH],

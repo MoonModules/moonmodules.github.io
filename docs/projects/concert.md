@@ -1,6 +1,6 @@
 # MoonLight at a concert
 
-In early September 2025, MoonLight v0.5.9 was used to drive all the lighting across two stages at a small festival — the ultimate test before the v0.6.0 release.
+In early September 2025, MoonLight v0.5.9 was used to drive all the lighting across two stages at a small festival, the ultimate test before the v0.6.0 release.
 
 <img width="400" src="/assets/images/concert-stage.png" />
 
@@ -10,7 +10,7 @@ In early September 2025, MoonLight v0.5.9 was used to drive all the lighting acr
 
 ## What was driven
 
-All lights — LED bars, moving heads, and LED rings — were controlled from MoonLight using DMX over Art-Net, sent via XLR cables to Art-Net/DMX controllers. Each stage had its own ESP32 controller and network router.
+All lights (LED bars, moving heads, and LED rings) were controlled from MoonLight using DMX over Art-Net, sent via XLR cables to Art-Net/DMX controllers. Each stage had its own ESP32 controller and network router.
 
 ### Live stage
 
@@ -45,11 +45,11 @@ All lights — LED bars, moving heads, and LED rings — were controlled from Mo
 
 | Observation | Next step |
 |---|---|
-| Front lighting on the bar stage needed a fixed white rectangle effect on top of the colour effects | Add layers in v0.7.0 — each layer with its own position and size |
+| Front lighting on the bar stage needed a fixed white rectangle effect on top of the colour effects | Add layers in v0.7.0 (each layer with its own position and size) |
 | Effects looked best on large numbers of lights; small fixtures need dedicated patterns | Design patterns optimised for small displays and moving heads |
 | Some bands wanted ambient lighting, not dynamic effects | Allow preset loops to switch between modes during a show |
 | Shows had to run unsupervised | Preset loops with start/end presets were added as a result |
-| The M5Stack AtomS3R is fully capable in Art-Net mode — connect to USB power and go | |
+| The M5Stack AtomS3R is fully capable in Art-Net mode: connect to USB power and go | |
 
 ---
 

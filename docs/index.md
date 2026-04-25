@@ -7,14 +7,16 @@ Open source LED lighting software and art installations, built by a collective o
 
 ---
 
-## Featured installations
+## Made with MoonModules
+
+From a single LED strip on a bedroom wall to two concert stages controlled from one tiny ESP32. This is what people build with our software.
 
 <div class="project-grid">
   <a class="project-card" href="projects/concert.md">
     <img src="/assets/images/concert-stage.png" alt="MoonLight at a concert" loading="lazy">
     <div class="project-card__body">
       <strong>MoonLight at a concert</strong>
-      <span>Two festival stages controlled from a single ESP32 — LED bars, moving heads, and rings over Art-Net.</span>
+      <span>Two festival stages controlled from a single ESP32: LED bars, moving heads, and rings over Art-Net.</span>
     </div>
   </a>
   <a class="project-card" href="projects/art.md#the-big-freakin-cube">
@@ -34,6 +36,23 @@ Open source LED lighting software and art installations, built by a collective o
 </div>
 
 [All installations and builds](projects/index.md){ .md-button }
+[Getting started](support/getting-started.md){ .md-button }
+[FAQ](support/faq.md){ .md-button }
+
+---
+
+## Used by
+
+MoonModules software runs in products and installations from independent makers and companies.
+
+<div class="collab-logos">
+  <a href="about.md#collaborators"><img src="/assets/images/myhome-control-logo.png" alt="My Home Control"></a>
+  <a href="about.md#collaborators"><img src="/assets/images/glorb-logo.webp" alt="Glorb" class="collab-logo--white"></a>
+  <a href="about.md#collaborators"><span class="collab-name">Tarna</span></a>
+  <a href="about.md#collaborators"><img src="/assets/images/quinled-logo.png" alt="QuinLED" class="collab-logo--white"></a>
+</div>
+
+[All collaborators](about.md#collaborators){ .md-button }
 
 ---
 

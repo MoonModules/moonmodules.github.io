@@ -18,12 +18,12 @@ This page contains the links to places where we look frequently and can be regar
 ## Hardware
 
 - Our [Tindie MoonModules Store](https://www.tindie.com/stores/moonmodules/) (temporarily closed)
-- [Wladislaw Waag](https://www.myhome-control.de/)
+- [My Home Control](https://www.myhome-control.de/)
 - Designing ...
 
 ## End user
 
-- [WLED webinstaller](https://install.wled.me/) or [Wladi WLED unofficial installer](https://wled-install.github.io/) - Not on Safari
+- [WLED webinstaller](https://install.wled.me/) or [My Home Control WLED unofficial installer](https://wled-install.github.io/) - Not on Safari
 - or flash Github created firmware (.bin files):
     - WLED-MM: [Latest release](https://github.com/MoonModules/WLED/releases) [Latest development](https://github.com/MoonModules/WLED/actions)
     - MoonLight: [Latest release](https://github.com/MoonModules/MoonLight/releases) [Latest development](https://github.com/MoonModules/MoonLight/actions)
@@ -52,7 +52,7 @@ This page contains the links to places where we look frequently and can be regar
 - [moonmodules.github.io](https://github.com/MoonModules/moonmodules.github.io) -> [moonmodules.org](https://moonmodules.org) - Fork this repo and submit PR's to propose changes to this website
 - [WLED-Docs](https://github.com/MoonModules/WLED-Docs) -> [mm.kno.wled.ge](https://mm.kno.wled.ge)
 - [MoonLight docs](https://MoonModules.org/MoonLight)
-- [Wladi WLED FAQ](https://wled-faq.github.io) (unofficial documentation in German/English), [Wladi WLED calculator](https://wled-calculator.github.io/).
+- [My Home Control WLED FAQ](https://wled-faq.github.io) (unofficial documentation in German/English), [My Home Control WLED calculator](https://wled-calculator.github.io/).
 
 <p>
     Did we forget something? Please consider

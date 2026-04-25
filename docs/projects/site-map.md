@@ -9,13 +9,13 @@ This document defines the full content structure of moonmodules.org. It covers t
 ```
 /                     Home
 /about/               About
-/products/            Products — overview
-/products/repos/      Products — repository descriptions and star counts
+/products/            Products: overview
+/products/repos/      Products: repository descriptions and star counts
 /support/             Support
 /community/           Community and social feeds
-/projects/            Projects — internal MoonModules initiatives
-/archive/             Archive — all migrated content from the old site
-/contributing/        Contributing — how to edit and add content
+/projects/            Projects: internal MoonModules initiatives
+/archive/             Archive: all migrated content from the old site
+/contributing/        Contributing: how to edit and add content
 ```
 
 ---
@@ -48,7 +48,7 @@ This document defines the full content structure of moonmodules.org. It covers t
 
 ## News and updates strategy
 
-Social feeds are the primary channel for ongoing activity. MoonModules is active on YouTube, Reddit, and Instagram — surfacing those feeds on the Community page gives visitors a live picture of the project without requiring anyone to maintain a separate blog.
+Social feeds are the primary channel for ongoing activity. MoonModules is active on YouTube, Reddit, and Instagram. Surfacing those feeds on the Community page gives visitors a live picture of the project without requiring anyone to maintain a separate blog.
 
 A blog section is kept as a future option. It will not be populated or linked in the main navigation until there is a commitment to maintain it. The MkDocs blog plugin stays installed but disabled.
 
@@ -60,13 +60,13 @@ Historical news posts from the old site are preserved in Archive. They are not t
 
 | Source file | Archive slug | Future home |
 |---|---|---|
-| `index.md` | — | Home (Sprint 7) |
+| `index.md` | (none) | Home (Sprint 7) |
 | `about.md` | `/archive/about/` | About (Sprint 6) |
 | `software.md` | `/archive/software/` | Products overview (Sprint 4) |
 | `hardware.md` | `/archive/hardware/` | Products / Support split (Sprint 4) |
 | `community.md` | `/archive/community/` | Community (Sprint 5/6) |
 | `links.md` | `/archive/links/` | Support (future sprint) |
-| `art.md` | `/archive/art/` | Community — art and installations (future sprint) |
+| `art.md` | `/archive/art/` | Community, art and installations (future sprint) |
 
 ---
 
