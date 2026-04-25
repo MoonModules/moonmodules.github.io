@@ -18,12 +18,15 @@ jobs:
         with:
           python-version: '3.12'
 
+      - run: pip install instaloader
+
       - run: python scripts/fetch_youtube.py
       - run: python scripts/fetch_reddit.py
+      - run: python scripts/fetch_instagram.py
 
       - name: Commit and push if feeds changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/assets/youtube-feed.json docs/assets/reddit-feed.json
+          git add docs/assets/youtube-feed.json docs/assets/reddit-feed.json docs/assets/instagram-feed.json
           git diff --cached --quiet || (git commit -m "Update social feeds" && git push)

@@ -1,5 +1,7 @@
 # Community
 
+<img width="400" src="/assets/images/animartrix-lamps.png" alt="AnimARTrix lamps by netmindz">
+
 MoonModules is active across several platforms. Discord is the fastest way to get help; Reddit is the primary news channel for releases and project updates.
 
 ---
@@ -25,8 +27,8 @@ The MoonModules organisation on GitHub hosts all repositories. Core products:
 
 ## Instagram
 
-Individual contributors on Instagram — builds, installations, and works in progress:
+Builds, installations, and works in progress from individual contributors:
 
-- [ewowi](https://www.instagram.com/ewoudwijma)
-- [netmindz](https://www.instagram.com/milliwatt.uk)
-- [troyhacks](https://www.instagram.com/troy_ess)
+<div data-feed="instagram"></div>
+
+[ewowi](https://www.instagram.com/ewoudwijma) &middot; [netmindz](https://www.instagram.com/milliwatt.uk) &middot; [troyhacks](https://www.instagram.com/troy_ess)

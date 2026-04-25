@@ -191,6 +191,116 @@
   color: var(--md-default-fg-color--light);
 }
 
+/* ─── Project grid (homepage featured installations) ─────────────────────── */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 16px 0 24px;
+}
+
+@media (max-width: 768px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  background: var(--md-code-bg-color);
+  border-radius: 6px;
+  overflow: hidden;
+  transition: filter 0.15s ease;
+}
+
+.project-card:hover {
+  filter: brightness(1.08);
+}
+
+.project-card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.project-card__body {
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.project-card__body strong {
+  font-size: 0.88rem;
+  color: var(--md-default-fg-color);
+  line-height: 1.3;
+}
+
+.project-card__body span {
+  font-size: 0.78rem;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.4;
+}
+
+/* ─── Instagram feed ─────────────────────────────────────────────────────── */
+
+[data-feed="instagram"] {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin: 12px 0 24px;
+}
+
+.ig-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 8px;
+  text-decoration: none;
+  background: var(--md-code-bg-color);
+  border-radius: 4px;
+  transition: background 0.15s ease;
+}
+
+.ig-card:hover {
+  filter: brightness(1.1);
+}
+
+.ig-card img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.ig-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.ig-card__user {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--md-accent-fg-color);
+}
+
+.ig-card__desc {
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color);
+  line-height: 1.4;
+}
+
+.ig-card__meta {
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--light);
+}
+
 /* ─── Light mode header ──────────────────────────────────────────────────── */
 
 [data-md-color-scheme="default"] .md-header {

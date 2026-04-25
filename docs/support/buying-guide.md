@@ -4,22 +4,82 @@ Hardware we have used and tested. If you are not sure what to buy, start here. A
 
 Some links are affiliate links — if you buy through them, we earn a small commission at no extra cost to you. This helps fund hardware testing and site maintenance.
 
+For the full list of tested boards with pinouts and configuration details, see the [MoonLight board details page](https://moonmodules.org/MoonLight/moonbase/inputoutput/#board-details).
+
+---
+
+## Complete LED controller boards
+
+Ready-made boards that combine the ESP32 and LED driver circuitry. Plug in power, connect your LED strips, and flash firmware.
+
+### QuinLED
+
+* [QuinLED Dig-Uno v3](https://quinled.info) — 2 LED outputs, 50 W. Good starting board.
+
+<img width="250" src="/assets/images/quinled-dig-uno-v3.png">
+
+* [QuinLED Dig-Next-2](https://quinled.info) — 2 LED outputs, 65 W, 4 relay pins.
+
+<img width="250" src="/assets/images/quinled-dig-next-2.jpg">
+
+* [QuinLED Dig-Quad v3](https://quinled.info) — 4 LED outputs, 150 W.
+
+<img width="250" src="/assets/images/quinled-dig-quad-v3.png">
+
+* [QuinLED Dig-Octa v2](https://quinled.info) — 8 LED outputs, 400 W, onboard Ethernet, 16 MB flash. For large installs.
+
+<img width="250" src="/assets/images/quinled-dig-octa-v2.png">
+
+### Serg (srg74)
+
+* [Universal Shield](https://www.tindie.com/stores/serg74/) — 50 W, IR, relay, mic, I2C
+* [Mini Shield](https://www.tindie.com/stores/serg74/) — compact, 50 W, mic, I2C
+
+### Olimex
+
+* [ESP32-POE](https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/) — onboard Ethernet with Power over Ethernet support
+
+### MyHome-Control (Wladislaw Waag)
+
+* [MHC V43](https://shop.myhome-control.de) — 4 LED outputs, 75 W, mic
+* [MHC V57 PRO](https://shop.myhome-control.de) — 4 LED outputs, 75 W, relay
+
+<img width="250" src="/assets/images/mhc-v57-pro.jpg">
+
+* [MHC P4 Nano Shield](https://shop.myhome-control.de) — up to 16 LED outputs, 100 W, ESP32-P4, mic/line-in
+
+<img width="250" src="/assets/images/mhc-p4-nano-shield.png">
+
+### StephanElec / Limpkin
+
+* [SE16 v1](https://www.limpkin.fr) — 16 LED outputs, 500 W, SPI Ethernet (W5500), ESP32-S3
+
+<img width="250" src="/assets/images/se16-v1.jpg">
+
+* [LightCrafter16](https://www.limpkin.fr) — 16 LED outputs, 500 W, SPI Ethernet (W5500), ESP32-S3, RS-485
+
+<img width="250" src="/assets/images/lightcrafter16.jpg">
+
+### M5Stack
+
+* [Atom S3R](https://docs.m5stack.com/en/core/AtomS3R) — 4 LED outputs, 10 W, compact. Used at the September 2025 festival.
+
 ---
 
 ## Microcontrollers
 
 * [ESP32 S3 N16R8 (AliExpress)](https://s.click.aliexpress.com/e/_DBAtJ2H)
 
-<img width="250" src="https://github.com/user-attachments/assets/008546b8-65ce-40e7-a48a-3ab359f9fb89"><img width="250" src="https://github.com/user-attachments/assets/32154cbe-8b5e-4cff-8fbe-8f1565f1ef2a">
+<img width="250" src="/assets/images/esp32-s3-n16r8-a.png"><img width="250" src="/assets/images/esp32-s3-n16r8-b.png">
 
 * [ESP32 WROVER (AliExpress)](https://a.aliexpress.com/_EzhPi6g)
 
-<img width="250" src="https://github.com/user-attachments/assets/65d39b8e-9467-4538-b974-76b791884bd5"><img width="250" src="https://github.com/user-attachments/assets/f155f414-77d6-4b20-a4a0-9c0f5ef9407d">
+<img width="250" src="/assets/images/esp32-wrover-a.png"><img width="250" src="/assets/images/esp32-wrover-b.png">
 
 * [Lilygo T7-S3 (AliExpress)](https://s.click.aliexpress.com/e/_EGCULv7) — recommended for the MoonHub75 PCB
 
-<img width="250" src="https://github.com/user-attachments/assets/8d28a49d-5ba7-475d-a938-0c6be5fe5f45">
-<img width="250" src="https://github.com/user-attachments/assets/caf3555d-4e5b-4158-b8ba-b933864255d5">
+<img width="250" src="/assets/images/lilygo-t7-s3-a.png">
+<img width="250" src="/assets/images/lilygo-t7-s3-b.png">
 
 ---
 
@@ -27,23 +87,23 @@ Some links are affiliate links — if you buy through them, we earn a small comm
 
 * [I2S ADC Audio (AliExpress)](https://s.click.aliexpress.com/e/_DBr6Oqv)
 
-<img width="222" src="https://github.com/user-attachments/assets/bfedf80b-6596-41e7-a563-ba7dd58cc476">
+<img width="222" src="/assets/images/i2s-adc-audio.png">
 
 * [Ethernet board (AliExpress)](https://a.aliexpress.com/_EGkyCYM)
 
-<img width="222" src="https://github.com/user-attachments/assets/19229007-f0f4-4e22-86b3-10e58a3360c8">
+<img width="222" src="/assets/images/ethernet-board.png">
 
 * [Lyra board with audio in (AliExpress)](https://s.click.aliexpress.com/e/_DB1SZW9)
 
-<img width="300" src="https://github.com/user-attachments/assets/ad7d5f03-7594-48f1-8048-4a3ba1ce51bf">
+<img width="300" src="/assets/images/lyra-board.png">
 
 * [Art-Net LED controller (AliExpress)](https://s.click.aliexpress.com/e/_Ex9uaOk)
 
-<img width="300" src="https://github.com/user-attachments/assets/9c65921c-64e9-4558-b6ef-aed2a163fd88">
+<img width="300" src="/assets/images/artnet-led-controller.png">
 
 * [Art-Net DMX controller (AliExpress)](https://s.click.aliexpress.com/e/_ExRrKe4)
 
-<img width="300" src="https://github.com/user-attachments/assets/e3d605b6-a023-4abb-b604-77b44267b1a3">
+<img width="300" src="/assets/images/artnet-dmx-controller.png">
 
 ---
 
@@ -58,7 +118,7 @@ Some links are affiliate links — if you buy through them, we earn a small comm
 * [LED Curtain with T-connector LEDs (AliExpress)](https://s.click.aliexpress.com/e/_DCuOwNB) — use 800 addresses
 * [LED Curtain USB, APA106 (AliExpress)](https://s.click.aliexpress.com/e/_EzXzjVS) — red and blue swapped
 
-<img width="300" src="https://github.com/user-attachments/assets/dcd676e0-aaa0-489f-933d-d378e7cfb2ff">
+<img width="300" src="/assets/images/led-curtain.png">
 
 [Cube stands (AliExpress)](https://s.click.aliexpress.com/e/_ExMSPeG)
 
@@ -66,7 +126,7 @@ Some links are affiliate links — if you buy through them, we earn a small comm
 
 P2, P2.5, P3 etc. is the pixel pitch in mm. We work mostly with P2.5.
 
-<img width="300" src="https://github.com/user-attachments/assets/4d386045-9526-4a5a-aa31-638058b31f32">
+<img width="300" src="/assets/images/hub75-panel.png">
 
 * [128×64 P2.5 — €23.97 (AliExpress)](https://s.click.aliexpress.com/e/_Ev3JvTE)
 * [128×64 P2.5 — €19.19 (AliExpress)](https://s.click.aliexpress.com/e/_Evp2bDe)
@@ -81,7 +141,7 @@ Use the [MoonHub75 PCB](../projects/hardware.md) to connect a HUB75 panel to a L
 
 * [19×15W Zoom Wash RGBW Moving Head (AliExpress)](https://s.click.aliexpress.com/e/_EGvoUVc) — used at the September 2025 festival
 
-<img width="378" alt="Moving head" src="https://github.com/user-attachments/assets/d03b1b66-320f-4e76-9ad8-7acb622358aa" />
+<img width="378" alt="Moving head" src="/assets/images/moving-head.png" />
 
 19 LEDs, 15W each (max 285W). Supports zoom. Three LED groups for 16Ch or 24Ch DMX mode. Temperature-controlled fan. No gobos. ~100–110 €. Supported by current MoonLight.
 

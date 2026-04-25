@@ -2,7 +2,7 @@
 
 In early September 2025, MoonLight v0.5.9 was used to drive all the lighting across two stages at a small festival — the ultimate test before the v0.6.0 release.
 
-<img width="400" src="https://github.com/user-attachments/assets/75b18cf6-bc32-4bf0-a03b-7eea8dbfd677" />
+<img width="400" src="/assets/images/concert-stage.png" />
 
 [Full event video on YouTube](https://youtu.be/NnEV9RplZN8)
 
@@ -16,7 +16,7 @@ All lights — LED bars, moving heads, and LED rings — were controlled from Mo
 
 18 LED bars, driven over Art-Net from a single M5Stack AtomS3R running MoonLight. Audio was injected from the house mix using a WLED-MM sound injector.
 
-<img width="400" src="https://github.com/user-attachments/assets/8a9f39a1-3204-482c-8415-d300965d666d" />
+<img width="400" src="/assets/images/concert-live-stage.png" />
 
 | Hardware | |
 |---|---|
@@ -30,7 +30,7 @@ All lights — LED bars, moving heads, and LED rings — were controlled from Mo
 
 19 RGBW moving heads and 16 LED rings, driven over Art-Net. The rings used 16 parallel direct outputs running at 500 FPS.
 
-<img width="400" src="https://github.com/user-attachments/assets/f8a0f9b7-b785-4571-a344-2c9ab4dc06ce" />
+<img width="400" src="/assets/images/concert-dance-stage.png" />
 
 | Hardware | |
 |---|---|

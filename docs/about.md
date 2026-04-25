@@ -1,5 +1,7 @@
 # About
 
+<img width="600" src="/assets/images/concert-stage.png" alt="MoonLight driving two stages at a festival">
+
 ## Who we are
 
 MoonModules is a collective of light artists, hardware and software developers based across Europe and North America. We build open source lighting software and hardware for ESP32 microcontrollers, used by makers, artists, and engineers running everything from small hobby installations to large stage setups.

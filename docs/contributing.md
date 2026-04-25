@@ -1,5 +1,7 @@
 # Contributing
 
+<img width="400" src="/assets/images/moonhub75-pcb.png" alt="MoonHub75 PCB — designed and contributed by Sören">
+
 Anyone can suggest changes to this site. All content lives in the [GitHub repository](https://github.com/MoonModules/moonmodules.github.io) and is edited via pull requests.
 
 ---
@@ -17,6 +19,30 @@ Every page has a pencil icon in the top right corner. Clicking it opens the file
 ## Adding a new post (when the blog is active)
 
 The blog is not yet active. When it is, instructions will be added here.
+
+---
+
+## Updating the Instagram feed
+
+The Reddit and YouTube feeds update automatically every night via GitHub Actions. Instagram does not have a public API, so the feed is updated manually by a maintainer.
+
+**One-time setup** — log in with instaloader (stores a session file locally):
+
+```
+.venv/bin/instaloader --login ewoudwijma
+```
+
+Enter your Instagram password and 2FA code when prompted.
+
+**To refresh the feed:**
+
+```
+.venv/bin/python scripts/fetch_instagram.py
+```
+
+This writes `docs/assets/instagram-feed.json` with the 3 most recent posts from each contributor account. Commit the file to publish the update.
+
+The nightly CI also runs the script but will produce an empty feed (no session file in CI) — that is expected and harmless.
 
 ---
 

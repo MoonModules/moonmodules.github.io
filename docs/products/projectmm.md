@@ -2,6 +2,8 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/ewowi/projectMM?style=flat-square)](https://github.com/ewowi/projectMM)
 
+<img width="350" src="/assets/images/projectmm-ui.gif" alt="projectMM">
+
 projectMM is a cross-platform modular runtime for ESP32, Raspberry Pi, and PC. It organises functionality into Modules — small units with a `setup()` / `loop()` / `teardown()` lifecycle — and schedules them across all three platforms from a single codebase.
 
 Each Module describes its controls in JSON. The browser-based UI reads those descriptions and renders the interface automatically, so adding a new control in firmware means no separate frontend work.

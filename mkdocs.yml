@@ -34,6 +34,11 @@ extra_css:
 extra_javascript:
   - assets/community-feeds.js
 
+extra:
+  analytics:
+    provider: google
+    property: G-R6QYDG0126
+
 plugins:
   - search
 

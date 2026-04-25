@@ -8,7 +8,7 @@ A selection of light installations built with MoonModules software.
 
 The HSC — Human Sized Cube — scaled up into the BFC, a large interactive LED cube installation.
 
-<img width="400" alt="The Big Freakin Cube" src="https://github.com/user-attachments/assets/742aeae3-9dcb-4368-b29c-320d4f91eb2f" />
+<img width="400" alt="The Big Freakin Cube" src="/assets/images/bfc-installation.png" />
 
 [Video on Instagram](https://www.instagram.com/reel/DDEGQRPgLbX)
 
@@ -18,7 +18,7 @@ The HSC — Human Sized Cube — scaled up into the BFC, a large interactive LED
 
 The Cube202020 — a 20×20×20 LED curtain cube — was displayed at a party at [Villa Ockenburgh](https://villaockenburgh.nl). Built from LED curtain strings on a custom frame, driven by WLED-MM with multi-pin fixture support.
 
-<img width="400" src="https://github.com/user-attachments/assets/51b7d69c-d699-4551-b471-ada885626895">
+<img width="400" src="/assets/images/cube202020.png">
 
 [Video on Instagram](https://www.instagram.com/reel/DESUP5zNcr1)
 
@@ -28,7 +28,7 @@ The Cube202020 — a 20×20×20 LED curtain cube — was displayed at a party at
 
 Working with Bicyclus, a local bike repair shop, to light up a classic [Mikael Pedersen bike](https://en.wikipedia.org/wiki/Mikael_Pedersen) for display in the shop window over the winter season. Eight LED strip strings driven by WLED-MM on an ESP32 with a Serg shield.
 
-<img width="400" src="https://github.com/user-attachments/assets/86a7f0d7-e388-470e-9b98-43721f94cf7a">
+<img width="400" src="/assets/images/mikael-pedersen-bike.png">
 
 [Video on Instagram](https://www.instagram.com/reel/DDCFbIruACB)
 
@@ -38,7 +38,7 @@ Working with Bicyclus, a local bike repair shop, to light up a classic [Mikael P
 
 Designed and built by [netmindz](https://github.com/netmindz) using Stefan Petrick's [animartrix](https://github.com/StefanPetrick/animartrix) library, integrated into WLED-MM. Generative art effects running on custom lamp hardware.
 
-<img width="400" src="https://github.com/user-attachments/assets/6ec60692-2a30-4447-8be8-fe42a8f673e0">
+<img width="400" src="/assets/images/animartrix-lamps.png">
 
 [Buy on Etsy](https://milliwattuk.etsy.com) · [Photos and videos on Instagram](https://www.instagram.com/milliwatt.uk/) · [AnimARTrix effects playlist on YouTube](https://www.youtube.com/playlist?list=PL7xCYThV9HuL354h9CA9STVKKeQmBsfju)
 

@@ -71,9 +71,43 @@ async function loadRedditFeed() {
   }
 }
 
+async function loadInstagramFeed() {
+  const containers = document.querySelectorAll('[data-feed="instagram"]');
+  if (!containers.length) return;
+
+  try {
+    const res = await fetch('/assets/instagram-feed.json');
+    if (!res.ok) return;
+    const posts = await res.json();
+    if (!posts.length) return;
+
+    const html = posts.map(p => {
+      const date = p.date ? new Date(p.date).toLocaleDateString('en-GB', {
+        year: 'numeric', month: 'short', day: 'numeric'
+      }) : '';
+      const captionHtml = p.caption
+        ? `<span class="ig-card__desc">${p.caption.slice(0, 150)}${p.caption.length > 150 ? '…' : ''}</span>`
+        : '';
+      return `<a class="ig-card" href="${p.url}" target="_blank" rel="noopener noreferrer">
+        ${p.thumbnail ? `<img src="${p.thumbnail}" alt="" loading="lazy">` : ''}
+        <div class="ig-card__body">
+          <span class="ig-card__user">@${p.username}</span>
+          ${captionHtml}
+          <span class="ig-card__meta">${date}${p.likes ? ` &middot; &#9825; ${p.likes}` : ''}</span>
+        </div>
+      </a>`;
+    }).join('');
+
+    containers.forEach(c => { c.innerHTML = html; });
+  } catch {
+    containers.forEach(c => { c.innerHTML = ''; });
+  }
+}
+
 function init() {
   loadYouTubeFeed();
   loadRedditFeed();
+  loadInstagramFeed();
 }
 
 if (document.readyState === 'loading') {

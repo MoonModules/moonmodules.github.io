@@ -1,5 +1,7 @@
 # Projects
 
+<img width="250" src="/assets/images/bfc-installation.png" alt="The Big Freakin' Cube — a human-sized interactive LED cube installation">
+
 Things MoonModules has built: art installations, hardware, and 3D-printed components.
 
 - [Art installations](art.md) — LED cubes, bikes, lamps, and more

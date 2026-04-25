@@ -330,27 +330,49 @@ Points for Sprint 7:
 
 **Scope:** The homepage is the last sprint because it depends on all other content being in place.
 
-- Clear headline: what MoonModules is in one sentence
-- Three entry points: casual visitor, technical user, supporter
-- Featured projects with thumbnail and one-line description
-- Recent news: live Reddit feed already placed in Sprint 5 — verify it renders correctly and fits the final homepage layout
-- Community call to action: Discord, GitHub
+- One-sentence headline immediately below the site name
+- Three entry-point buttons: "Light installations" → Projects, "Our software" → Products, "Support the project" → About#support
+- Featured installations grid: MoonLight at a concert, The Big Freakin' Cube, Cube202020 — each with image, title, one-line description, link
+- Reddit and YouTube feeds retained from Sprint 5 — verified in final layout
+- Get involved section: Discord, GitHub, Donate buttons
 - No wall of text, no AI-generated summary paragraph
-- Works on mobile
+- Responsive: 3-column grid on desktop, single column on mobile
 
 **Definition of done:** The homepage accurately represents the site, loads quickly, and passes a review by at least two contributors who were not involved in writing it.
+
+**Result:** Homepage rewritten with a one-sentence tagline, two entry-point buttons (Light installations, Our software), a 3-column responsive project card grid (concert, BFC, Cube202020), the existing Reddit and YouTube feeds retained in the new layout, and a Get involved footer (Discord, GitHub, Support the project). Project card CSS added to `extra.css` with a 768px mobile breakpoint. GA4 (G-R6QYDG0126) configured via Material analytics. Instagram feed infrastructure added: Python fetch script using instaloader, nightly CI step, JS renderer, CSS cards, and a contributing guide section explaining the manual update workflow. Support page fully written with Getting started, Getting help, Documentation table (product docs + Wladi FAQ + QuinLED references), and a Support the project/donate section. Buying guide expanded with a Complete LED controller boards section covering 11 boards across 5 manufacturers, all with downloaded images. All external image URLs across the entire site localised to `docs/assets/images/` with descriptive filenames — product pages, buying guide, project pages, homepage, and page headers. Five section pages (About, Support, Community, Projects, Contributing) each received a contextually appropriate header image.
+
+**Retrospective:**
+
+What went well:
+- All homepage content was already in place from earlier sprints — Sprint 7 was pure layout and assembly work, no research or writing from scratch
+- The 3-column CSS grid with a single media query breakpoint handles mobile correctly without a framework
+- Localising all images to `docs/assets/images/` with descriptive filenames removes all external dependencies and makes the image library browsable and self-documenting
+- Absolute `/assets/images/` paths work correctly regardless of page nesting depth — avoids the `../` counting trap that caused 404s on first attempt
+
+What was tricky:
+- MkDocs `use_directory_urls: true` means relative paths like `../assets/images/` resolve to the wrong location for pages nested more than one level; discovered via 404s in the dev server and fixed by switching to absolute paths
+- Instagram has no public API for unauthenticated static-site access; instaloader returns 403 from GitHub Actions without a stored session file — feed stays manually maintained until first login
+- The CI nightly workflow installs instaloader and runs the fetch even though it will produce an empty feed until credentials are available; this is harmless but adds a few seconds to every nightly run
+
+Seeds for next sprint:
+- Populate the Instagram feed: run `instaloader --login ewoudwijma` locally then `python scripts/fetch_instagram.py` and commit the result
+- The homepage project card images still use external `github.com/user-attachments` URLs — now also localised in this sprint, but verify they load after deployment
+- Anchor link `about.md#support` — verify the slug resolves correctly after deployment
+- "Used by" collaborator row on the homepage (backlogged)
 
 ---
 
 ## Backlog (not yet scheduled)
 
+- "Used by" collaborator row on homepage — logos or names of Apollo Automation, Glorb, Tarna, QuinLED linking to About#collaborators
+- Instagram live feed via [Behold.so](https://behold.so) — free widget, connect Instagram account once, replaces the manually maintained instagram-feed.json with a live embed
 - Detach fork from thundergolfer/thundergolfer.github.io — option not available in GitHub Settings UI; contact [GitHub Support](https://support.github.com) to request detach, or leave as cosmetic issue
 - SVG version of the MoonModules logo — current PNG has a white background causing a slight halo on the dark header; `mix-blend-mode: lighten` is the current workaround
 - Support / documentation section: getting started guides for each product
 - Hardware buying guide: migrate the current detailed hardware page
 - Art and showcase gallery: projects made with MoonModules software
 - Multilingual support (EU audience)
-- Analytics: confirm GA4 is configured correctly on the new site
 
 ---
 
