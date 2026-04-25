@@ -22,8 +22,9 @@
   padding: 8px 16px;
 }
 
-/* Hide GitHub repo icon from header, edit button still works */
-.md-header__source {
+/* Hide GitHub repo icon from header and mobile drawer, edit button still works */
+.md-header__source,
+.md-nav__source {
   display: none;
 }
 
