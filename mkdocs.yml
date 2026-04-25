@@ -31,18 +31,27 @@ theme:
 extra_css:
   - assets/extra.css
 
+extra_javascript:
+  - assets/community-feeds.js
+
 plugins:
   - search
 
 markdown_extensions:
   - admonition
+  - attr_list
 
 nav:
   - Home: index.md
   - About: about.md
   - Products:
     - Overview: products/index.md
-    - Repos: products/repos.md
+    - WLED-MM: products/wled-mm.md
+    - MoonLight: products/moonlight.md
+    - projectMM: products/projectmm.md
+    - FastLED-MM: products/fastled-mm.md
+    - Supporting repos: products/supporting.md
+    - Acknowledgements: products/acknowledgements.md
   - Support:
     - Overview: support/index.md
     - Buying Guide: support/buying-guide.md

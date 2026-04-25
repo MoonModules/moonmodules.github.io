@@ -1,0 +1,90 @@
+{
+  "shorts": [
+    {
+      "title": "4 April 2026",
+      "link": "https://www.youtube.com/shorts/AE17XUvIdbo",
+      "published": "2026-04-04T09:43:10+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/AE17XUvIdbo/hqdefault.jpg",
+      "description": ""
+    },
+    {
+      "title": "Colortrails v3",
+      "link": "https://www.youtube.com/shorts/AQPUZVJBkKU",
+      "published": "2026-03-15T12:55:11+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/AQPUZVJBkKU/hqdefault.jpg",
+      "description": ""
+    },
+    {
+      "title": "ColorTrailsEffectv2",
+      "link": "https://www.youtube.com/shorts/-nnPGs_IzB0",
+      "published": "2026-03-15T11:57:20+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/-nnPGs_IzB0/hqdefault.jpg",
+      "description": ""
+    },
+    {
+      "title": "FastLED ColorTrailsEffect",
+      "link": "https://www.youtube.com/shorts/3AAFi8B1Ygs",
+      "published": "2026-03-15T11:30:06+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/3AAFi8B1Ygs/hqdefault.jpg",
+      "description": ""
+    },
+    {
+      "title": "FastLED canvas graphics",
+      "link": "https://www.youtube.com/shorts/lKyyV2UHLwU",
+      "published": "2026-03-13T20:20:16+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/lKyyV2UHLwU/hqdefault.jpg",
+      "description": ""
+    },
+    {
+      "title": "FastLED Audio demo",
+      "link": "https://www.youtube.com/shorts/1h4V_C5g7Ko",
+      "published": "2026-03-08T20:32:24+00:00",
+      "thumbnail": "https://i2.ytimg.com/vi/1h4V_C5g7Ko/hqdefault.jpg",
+      "description": ""
+    }
+  ],
+  "videos": [
+    {
+      "title": "MoonLight v0.7.0",
+      "link": "https://www.youtube.com/watch?v=TtHu7hYC1oU",
+      "published": "2025-12-22T16:02:49+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/TtHu7hYC1oU/hqdefault.jpg",
+      "description": "This video introduces version 0.7.0 of MoonLight\nMoonLight is open source software to control LEDs and lights, running on a microcontroller (ESP32)\n\nPlease like and subscribe (more tutorials will follow)\n\n0:00 - Introduction\n0:59 - Building MoonLight 🎶\n1:43 - Receiving Art-Net\n3:59 - Sending Art-Net\n6:31 - Board presets\n8:13 - Installer\n9:37 - Devices 🎶\n11:30 - Effects\n12:45 - Final thoughts\n14:28 - End credits 🎶\n\nProducts used in this video:\n - Serg Universal Shield:  https://www.tindie.com/products/serg74/wled-shield-board-for-addressable-leds/\n - Serg ESP32-16MB: https://www.tindie.com/products/serg74/esp32-wroom-usb-c-d1-mini32-form-factor-board/\n - Myhome control ESP32-P4-Nano Shield: https://shop.myhome-control.de/ABC-WLED-ESP32-P4-Shield/HW10027\n- Quinled Dig2Go: https://quinled.info/quinled-dig2go/\n- Quinled Dig Uno: https://quinled.info/pre-assembled-quinled-dig-uno/\n- Quinled Dig Quad: https://quinled.info/pre-assembled-quinled-dig-quad/\n- Quinled Dig Octa stack: https://quinled.info/quinled-dig-octa/\n- Resolume Arena: https://resolume.com\n\nMoonLight Videos\nhttps://youtu.be/l6lTDG6EdEA\nhttps://youtu.be/Z70zDhpqY8o\nhttps://youtu.be/7DQOEWa-Kwg\nhttps://youtu.be/bJIgiBBx3lg\nhttps://youtu.be/tdrU9yGkyVo\nhttps://youtu.be/NnEV9RplZN8\n\nLinks\n- https://discord.gg/TC8NSUSCdV\n- https://www.reddit.com/r/MoonModules/\n- GitHub: https://github.com/MoonModules/MoonLight\n- MoonModules: https://moonmodules.org/\n- MoonLight Website: https://moonmodules.org/MoonLight/\n- MoonLight Installer: https://moonmodules.org/MoonLight/gettingstarted/installer/"
+    },
+    {
+      "title": "MoonLight v0.6.0 release",
+      "link": "https://www.youtube.com/watch?v=l6lTDG6EdEA",
+      "published": "2025-11-07T12:15:17+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/l6lTDG6EdEA/hqdefault.jpg",
+      "description": "This video introduces version 0.6.0 of MoonLight\nMoonLight is open source software to control LEDs and lights, running on a microcontroller (ESP32)\n\nPlease like and subscribe (more tutorials will follow)\n\n0:00 - Modules on the Moon introducing MoonLight\n0:58 - Build some MoonLight\n2:14 - Introduction\n3:15 - The Past\n7:17 - The Present\n8:34 - The Future\n12:56 - Final remarks\n\nLinks\n- https://youtu.be/eEUySka3l-8\n- WLED-MM help pages: https://mm.kno.wled.ge/moonmodules/what-is-moonmodules/\n- https://discord.gg/TC8NSUSCdV\n- https://www.reddit.com/r/MoonModules/\n- https://youtu.be/Z70zDhpqY8o\n- https://youtu.be/7DQOEWa-Kwg\n- https://youtu.be/bJIgiBBx3lg\n- https://youtu.be/tdrU9yGkyVo\n- https://youtu.be/NnEV9RplZN8\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on Github https://github.com/MoonModules/MoonLight"
+    },
+    {
+      "title": "MoonLight Developer Quick Start",
+      "link": "https://www.youtube.com/watch?v=tdrU9yGkyVo",
+      "published": "2025-10-25T14:48:02+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/tdrU9yGkyVo/hqdefault.jpg",
+      "description": "This video is a Quickstart for developers to add functionality to MoonLight\nMoonLight is open source software to control LEDs and lights, running on a microcontroller (ESP32)\n\n0:00 Introduction\n2:10 GitHub Fork\n3:37 Install VSCode\n4:21 GitHib Clone\n6:09 Add new effect\n12:27 Install PlatformIO extension\n13:32 Documentation\n14:43 Flash Firmware\n16:45 Test new effect\n17:38 Modifier, Layout and Driver nodes\n18:44 GitHub Branch and Commit\n20:47 GitHub Pull Request\n21:47 Final remarks\n\nPlease like and subscribe (more tutorials will come)\n\nCheck also the other videos in this channel, e.g.:\n\nhttps://youtu.be/Z70zDhpqY8o\nhttps://youtu.be/7DQOEWa-Kwg\nhttps://youtu.be/bJIgiBBx3lg\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on Github https://github.com/MoonModules/MoonLight"
+    },
+    {
+      "title": "MoonLight Functionality",
+      "link": "https://www.youtube.com/watch?v=bJIgiBBx3lg",
+      "published": "2025-10-18T16:19:54+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/bJIgiBBx3lg/hqdefault.jpg",
+      "description": "This video gives an overview of MoonLight functionality\nMoonLight is open source software to control LEDs and lights, running on a microcontroller (ESP32)\n\n0:00 Introduction\n2:40 Drivers\n7:56 Layouts\n10:02 Effects\n12:20 Modifiers\n14:15 Lights control\n\nPlease like and subscribe (more tutorials will come)\n\nCheck also the other videos in this channel, e.g.:\n\nhttps://youtu.be/NnEV9RplZN8\nhttps://youtu.be/Z70zDhpqY8o\nhttps://youtu.be/7DQOEWa-Kwg\nhttps://youtu.be/tdrU9yGkyVo\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on Github https://github.com/MoonModules/MoonLight"
+    },
+    {
+      "title": "MoonLight Introduction",
+      "link": "https://www.youtube.com/watch?v=Z70zDhpqY8o",
+      "published": "2025-10-09T15:06:12+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/Z70zDhpqY8o/hqdefault.jpg",
+      "description": "This video gives an introduction to MoonLight\nMoonLight is open source software to control LEDs and lights, running on a microcontroller (ESP32)\n\n0:00 Introduction\n1:44 Why?\n2:41 What\n6:07 Community\n\nPlease like and subscribe (more tutorials will come)\n\nCheck also the other videos on this channel e.g.:\n\nhttps://youtu.be/7DQOEWa-Kwg\nhttps://youtu.be/NnEV9RplZN8\nhttps://youtu.be/bJIgiBBx3lg\nhttps://youtu.be/tdrU9yGkyVo\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on Github https://github.com/MoonModules/MoonLight"
+    },
+    {
+      "title": "MoonLight Install",
+      "link": "https://www.youtube.com/watch?v=7DQOEWa-Kwg",
+      "published": "2025-10-01T12:03:51+00:00",
+      "thumbnail": "https://i4.ytimg.com/vi/7DQOEWa-Kwg/hqdefault.jpg",
+      "description": "This tutorial explains how to install the MoonLight firmware onto an ESP32 microcontroller\nMoonLight is open source software to control LEDs and lights\n\n0:00 Install \n1:47 Connect\n3:56 Setup\n\nPlease like and subscribe (more tutorials will come)\n\nCheck also the other videos on this channel e.g.:\n\nhttps://youtu.be/Z70zDhpqY8o\nhttps://youtu.be/NnEV9RplZN8\nhttps://youtu.be/bJIgiBBx3lg\nhttps://youtu.be/tdrU9yGkyVo\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on GitHub: https://github.com/MoonModules/MoonLight"
+    }
+  ]
+}

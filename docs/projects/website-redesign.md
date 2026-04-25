@@ -201,7 +201,8 @@ Repositories to cover:
 - WLED-MM-Troyhacks (Troy)
 - Hardware repo (MoonHub75 PCB, control boxes)
 - Audio Reactive (extraction in progress)
-- Yves / srg74 tooling
+- srg74 tooling (Serg)
+- hpwit tooling (Yves) — ESPLiveScript, I2SClocklessLedDriver, I2SClocklessVirtualLedDriver
 
 **Used and referenced projects**
 - WLED (Aircoookie upstream)
@@ -264,6 +265,30 @@ Note: fully automated live feeds require either JavaScript widgets or a build-ti
 
 **Definition of done:** Each social channel has a presence on the Community page and at least one is a live or regularly updated feed.
 
+**Result:** Community page rewritten with sections for Discord, Reddit, YouTube (split into Shorts and Videos), GitHub, and Instagram. Reddit and YouTube feeds are generated at build time via Python scripts (`scripts/fetch_reddit.py`, `scripts/fetch_youtube.py`) and written to static JSON files in `docs/assets/`. The JavaScript reads these local files on page load — no external API calls, no CORS issues. A nightly GitHub Actions workflow (`update-feeds.yml`) refreshes the feeds independently of code commits. Reddit posts show thumbnails and description text. YouTube cards show thumbnail, title, and date in a row layout. Reddit feed appears on both the homepage and the Community page via a `data-feed="reddit"` attribute. GitHub shows live star count badges via shields.io. Instagram lists three contributor profiles. The `attr_list` markdown extension was added to enable Material button styling. Products section restructured: `repos.md` split into one page per core product plus Supporting and Acknowledgements pages. projectMM and FastLED-MM descriptions rewritten from their GitHub READMEs.
+
+**Retrospective:**
+
+What went well:
+- Build-time fetch eliminates CORS entirely — the JSON files are local assets served by MkDocs, so the JavaScript is trivial and reliable
+- Separating YouTube into Shorts and Videos required only a URL check (`/shorts/` in the link) — the RSS contains all entries in a single feed
+- The nightly workflow pattern (fetch → commit if changed → deploy triggers) keeps feeds fresh without any manual intervention and without coupling feed updates to code changes
+- Using `data-feed` attribute instead of `id` for the Reddit container lets the same feed appear on multiple pages with one JS function
+
+What was difficult:
+- Three consecutive fetch strategies were tried for YouTube (rss2json.com → allorigins.win → build-time script) before landing on the right approach; both third-party CORS proxies had reliability or access issues
+- Reddit's public JSON API returns 403 without a correctly formatted User-Agent string; this works fine from Python at build time but cannot be set from browser JavaScript
+- YouTube Shorts have no description text in the RSS feed; the `media:description` element is present but empty — nothing to show until descriptions are added in YouTube Studio
+- Instagram has no public API suitable for a static site; individual contributor profile links are the only viable option
+
+Points for Sprint 6:
+- The About page is the most text-heavy sprint — start with the team section and let the history and mission flow from there rather than writing top-to-bottom
+- The collaboration section (Apollo Automation, Glorb, Tarna, srg74, hpwit, Stefan Petrick, wladi) benefits from a one-liner per collaborator rather than a list of names — a sentence each is more informative for a visitor who doesn't know these names
+- The Reddit feed on the homepage gives Sprint 7 a strong foundation — the homepage already has live content and does not need a blog or manually maintained news section
+- The About page is the most text-heavy sprint — start with the team section and let the history and mission flow from there rather than writing top-to-bottom
+- The collaboration section (Apollo Automation, Glorb, Tarna, srg74, hpwit, Stefan Petrick, wladi) benefits from a one-liner per collaborator rather than a list of names — a sentence each is more informative for a visitor who doesn't know these names
+- If the community page live feeds are working as expected after deployment, consider linking to Community from the homepage in Sprint 7 rather than duplicating content
+
 ---
 
 ## Sprint 6: About Page
@@ -289,7 +314,7 @@ Note: fully automated live feeds require either JavaScript widgets or a build-ti
 - Clear headline: what MoonModules is in one sentence
 - Three entry points: casual visitor, technical user, supporter
 - Featured projects with thumbnail and one-line description
-- Recent news (latest two or three posts from the blog)
+- Recent news: live Reddit feed already placed in Sprint 5 — verify it renders correctly and fits the final homepage layout
 - Community call to action: Discord, GitHub
 - No wall of text, no AI-generated summary paragraph
 - Works on mobile

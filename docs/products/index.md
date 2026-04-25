@@ -1,7 +1,15 @@
 # Products
 
-MoonModules develops and maintains open source lighting software for ESP32 microcontrollers. The two main products are WLED-MM, a mature fork of WLED with audio-reactive effects and large fixture support, and MoonLight, a newer system built for stage and installation use with DMX and Art-Net output.
+MoonModules develops and maintains open source lighting software for ESP32 microcontrollers.
 
-Both run on low-cost ESP32 hardware and are free to use under open source licences.
+**Core products**
 
-See [Repos](repos.md) for full descriptions, GitHub links, and acknowledgements.
+- [WLED-MM](wled-mm.md) — the mature fork of WLED, audio-reactive, large fixture support
+- [MoonLight](moonlight.md) — stage and installation use, DMX and Art-Net, up to 16,384 pixels
+- [projectMM](projectmm.md) — the modular framework underpinning MoonLight
+- [FastLED-MM](fastled-mm.md) — multi-pin LED driver library
+
+**More**
+
+- [Supporting repositories](supporting.md) — forks and community tooling
+- [Acknowledgements](acknowledgements.md) — open source projects we build on
