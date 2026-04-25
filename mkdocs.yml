@@ -6,6 +6,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  logo: assets/moonmodules-logo.png
+  favicon: assets/moonmodules-logo.png
   palette:
     - scheme: slate
       primary: indigo
@@ -40,4 +42,6 @@ nav:
   - Projects:
     - Overview: projects/index.md
     - Website Redesign: projects/website-redesign.md
+    - Site Map: projects/site-map.md
   - Archive: archive/index.md
+  - Contributing: contributing.md

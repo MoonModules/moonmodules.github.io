@@ -83,6 +83,23 @@ Points for Sprint 1:
 
 **Definition of done:** A reviewed site map document exists and there is agreement on where everything lives.
 
+**Result:** Site map created at [projects/site-map.md](site-map.md) covering the full navigation tree, audience targeting per section, URL conventions, news strategy, and a mapping of all 14 existing posts and 7 existing pages to their archive slug and future home. Contributing guide created at [contributing.md](../contributing.md) with tone of voice rules and editing workflow. Logo moved to `docs/assets/` and wired into the theme. Both pages added to the nav.
+
+**Retrospective:**
+
+What went well:
+- Mapping all existing content up front gives Sprint 2 a clear checklist with no decisions left to make
+- Keeping the news strategy decision (social feeds primary, blog optional) in the site map makes the reasoning visible to future contributors
+- The contributing guide doubles as a style reference during all subsequent sprints
+
+What was difficult:
+- Some post titles are ambiguous about their future home (release notes vs. product documentation vs. support articles); the mapping in the site map reflects a first judgement and may be revised in Sprint 2
+
+Points for Sprint 2:
+- Use the slug column in the site map as the exact file naming convention — do not invent new slugs during migration
+- Flag content that is factually outdated at migration time; do not silently copy stale information into Archive
+- The hardware page is large and mixes product descriptions with a buying guide — note the split point when archiving so Sprint 4 knows where to divide it
+
 ---
 
 ## Sprint 2: Content Archive
