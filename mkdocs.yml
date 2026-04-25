@@ -25,6 +25,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.footer
     - search.highlight
     - content.action.edit
 
@@ -33,6 +34,7 @@ extra_css:
 
 extra_javascript:
   - assets/community-feeds.js
+  - assets/page-nav.js
 
 extra:
   analytics:

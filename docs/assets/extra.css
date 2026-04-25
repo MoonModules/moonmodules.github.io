@@ -339,6 +339,37 @@
   filter: brightness(0);
 }
 
+/* ─── Small navigation buttons ──────────────────────────────────────────── */
+
+.btn-sm {
+  display: inline-block;
+  padding: 3px 10px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: 3px;
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+  transition: background-color 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+
+.btn-sm:hover {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  text-decoration: none;
+}
+
+.page-nav-top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 28px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
 /* ─── Light mode header ──────────────────────────────────────────────────── */
 
 [data-md-color-scheme="default"] .md-header {
