@@ -371,6 +371,13 @@
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 
+/* ─── Footer prev/next navigation ───────────────────────────────────────── */
+
+/* Material hides the prev page title on narrow screens by default — show it */
+.md-footer__link--prev .md-footer__title {
+  display: block;
+}
+
 /* ─── Light mode header ──────────────────────────────────────────────────── */
 
 [data-md-color-scheme="default"] .md-header {
