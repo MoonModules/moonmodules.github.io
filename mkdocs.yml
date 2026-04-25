@@ -43,10 +43,16 @@ nav:
   - Products:
     - Overview: products/index.md
     - Repos: products/repos.md
-  - Support: support.md
+  - Support:
+    - Overview: support/index.md
+    - Buying Guide: support/buying-guide.md
   - Community: community.md
   - Projects:
     - Overview: projects/index.md
+    - Art Installations: projects/art.md
+    - Concert at a Festival: projects/concert.md
+    - Hardware Builds: projects/hardware.md
+    - 3D Prints: projects/3d-prints.md
     - Website Redesign: projects/website-redesign.md
     - Site Map: projects/site-map.md
   - Archive: archive/index.md

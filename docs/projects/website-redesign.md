@@ -230,6 +230,24 @@ For each repository:
 
 **Definition of done:** The Repos section is complete and accurate for all categories above. The Projects section has at least one page per project type (art, hardware, 3D prints). The buying guide is live under Support.
 
+**Result:** Repos page rewritten with full descriptions for all four core products (WLED-MM, MoonLight, projectMM, FastLED-MM) and all supporting repos, plus a credits table for third-party dependencies. Projects section expanded with four new pages: art installations, concert at a festival (standalone), hardware builds, and 3D prints. Support converted from a single file to a section; buying guide extracted from `archive/hardware.md` and published at `support/buying-guide.md`. Navigation updated throughout.
+
+**Retrospective:**
+
+What went well:
+- Archive content from Sprint 2 was complete enough that the Projects and buying guide pages needed almost no new writing — the work was restructuring and trimming, not researching from scratch
+- The split-point annotation on `archive/hardware.md` from Sprint 2 made the buying guide extraction a clean cut with no ambiguity
+- Keeping "Used and referenced projects" as a credits table rather than full descriptions keeps the repos page readable without losing attribution
+
+What was difficult:
+- projectMM has limited public documentation; the description is based on what is inferrable from the codebase and archive posts — worth reviewing for accuracy
+- The concert archive page was already very detailed; deciding how much detail to carry into the new Projects page required judgement calls
+
+Points for Sprint 5:
+- The Community page currently has placeholder content — Sprint 5 social feeds work will make it the most immediately useful page for returning visitors
+- The shields.io star count badges on the repos page are live at build time but static once deployed; if star counts matter for credibility, consider a note about when the page was last updated
+- The archive pages for moonhub75-pcb, universal-control-box, art, and moonlight-concert now have corresponding final-home pages — their admonition notes could be updated to link directly to the new pages
+
 ---
 
 ## Sprint 5: Social Feeds
@@ -282,6 +300,8 @@ Note: fully automated live feeds require either JavaScript widgets or a build-ti
 
 ## Backlog (not yet scheduled)
 
+- Detach fork from thundergolfer/thundergolfer.github.io — option not available in GitHub Settings UI; contact [GitHub Support](https://support.github.com) to request detach, or leave as cosmetic issue
+- SVG version of the MoonModules logo — current PNG has a white background causing a slight halo on the dark header; `mix-blend-mode: lighten` is the current workaround
 - Support / documentation section: getting started guides for each product
 - Hardware buying guide: migrate the current detailed hardware page
 - Art and showcase gallery: projects made with MoonModules software
