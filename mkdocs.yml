@@ -1,0 +1,43 @@
+site_name: MoonModules
+site_url: https://moonmodules.org
+site_description: Open source lighting software, hardware and art
+repo_url: https://github.com/MoonModules/moonmodules.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.action.edit
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Products:
+    - Overview: products/index.md
+    - Repos: products/repos.md
+  - Support: support.md
+  - Community: community.md
+  - Projects:
+    - Overview: projects/index.md
+    - Website Redesign: projects/website-redesign.md
+  - Archive: archive/index.md

@@ -1,4 +1,5 @@
 _site
+site/
 .sass-cache
 .DS_Store
 .jekyll-metadata
@@ -18,6 +19,7 @@ vendor/
 ########
 # Python
 ########
+.venv/
 **/poetry.lock
 **/media
 
