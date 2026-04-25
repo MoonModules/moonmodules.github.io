@@ -1,32 +1,26 @@
 # moonmodules.github.io
 
-See this repo in action [moonmodules.org](http://moonmodules.org)
+Source for [moonmodules.org](https://moonmodules.org) — the MoonModules project website.
 
-The theme is [thundergolfer/**junior-theme**](https://github.com/thundergolfer/junior-theme)
+Built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). All site content lives under `docs/`.
 
-----
-
-### What it looks like
-
-<img width="500" src="https://github.com/user-attachments/assets/20918ca4-33ec-483d-82f0-af72c5928fa0">
-
+---
 
 ### What you can find there
 
-* [News](http://moonmodules.org/blog)
-* [Community](http://moonmodules.org/community/)
-* [Software](http://moonmodules.org/software/)
-* [Hardware](http://moonmodules.org/hardware/)
-* [Art](http://moonmodules.org/art/)
-* [Links](http://moonmodules.org/links/)
+- [Products](https://moonmodules.org/products/) — WLED-MM, MoonLight, projectMM, FastLED-MM
+- [Support](https://moonmodules.org/support/) — getting started, buying guide, FAQ
+- [Projects](https://moonmodules.org/projects/) — art installations, concert builds, hardware
+- [Community](https://moonmodules.org/community/)
+- [About](https://moonmodules.org/about/)
 
 ### Other places you can find us
 
-* Reddit @ [MoonModules](https://www.reddit.com/r/MoonModules/)
-* Discord @ [WLED 2D and audio dev](https://discord.gg/TC8NSUSCdV)
+- Reddit: [r/MoonModules](https://www.reddit.com/r/MoonModules/)
+- Discord: [MoonModules](https://discord.gg/TC8NSUSCdV)
+- YouTube: [MoonModules Lighting](https://www.youtube.com/@MoonModulesLighting)
+- GitHub: [MoonModules](https://github.com/MoonModules)
 
-----
+---
 
-### Development
-
-Development documentation is in [DEVELOPMENT.md](DEVELOPMENT.md)
+Development instructions: [DEVELOPMENT.md](DEVELOPMENT.md)
