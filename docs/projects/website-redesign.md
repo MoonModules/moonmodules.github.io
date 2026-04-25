@@ -305,6 +305,25 @@ Points for Sprint 6:
 
 **Definition of done:** A reviewer unfamiliar with MoonModules can read the About page and understand who this is, what they build, and how to get involved.
 
+**Result:** `docs/about.md` written in full with five sections: Who we are, History, Team (table), Collaborators, and Support/Donate. The collaborator section covers Apollo Automation, Glorb, Tarna, QuinLED, Wladislaw Waag, hpwit, srg74, and Stefan Petrick — each with a one-liner and a link where applicable. Descriptions compiled from their public websites and GitHub profiles. PayPal donation link added as a Material button. `docs/products/index.md` updated with three new sections: Project timeline (narrative replacing the flat list from the archive), Roadmap (April 2026), and a What to use decision table. Both the history prose in `about.md` and the product timeline in `products/index.md` are written to be readable by a non-technical visitor.
+
+**Retrospective:**
+
+What went well:
+- The archive/about.md had enough factual content that the rewrite was structuring and trimming rather than research — the history section wrote itself once the events were in order
+- Fetching collaborator websites directly produced accurate one-liners without guesswork; QuinLED and myhome-control.de were particularly clear about their scope
+- Separating the donation section from the general support/contribute text keeps the ask from feeling heavy; the Material button makes it unambiguous without being prominent
+- The "What to use" table replaces a flat bullet list with a decision matrix that is significantly easier to scan
+
+What was difficult:
+- Tarna's site (tarna.ca) had an expired SSL certificate and could not be fetched directly; the description is intentionally minimal
+- Apollo Automation's WLED-MM connection required searching GitHub (ApolloAutomation/WLED-MM-M1) to confirm the relationship — their main site focuses on the broader smart home product line
+
+Points for Sprint 7:
+- The About page collaborator section and the Homepage could share a condensed version of the collaborator list — consider a short "used by" row of logos or names on the homepage
+- The What to use table in products/index.md links directly to product pages; verify all anchor links resolve after deployment
+- The homepage is the only remaining page with placeholder-level content — Sprint 7 can now draw on the full site to build it
+
 ---
 
 ## Sprint 7: Homepage
