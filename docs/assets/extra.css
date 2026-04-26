@@ -340,6 +340,47 @@
   filter: brightness(0);
 }
 
+/* ─── Hover tooltips (ⓘ icon) ───────────────────────────────────────────── */
+
+.info-tip {
+  position: relative;
+  display: inline-block;
+  cursor: help;
+  font-size: 0.78em;
+  color: var(--md-primary-fg-color);
+  vertical-align: super;
+  margin-left: 3px;
+  user-select: none;
+}
+
+.info-tip::after {
+  content: attr(data-tip);
+  position: absolute;
+  bottom: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--md-default-fg-color);
+  color: var(--md-default-bg-color);
+  padding: 7px 11px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.45;
+  white-space: normal;
+  width: 270px;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.15s;
+  z-index: 100;
+  pointer-events: none;
+  text-align: left;
+}
+
+.info-tip:hover::after {
+  visibility: visible;
+  opacity: 1;
+}
+
 /* ─── Small navigation buttons ──────────────────────────────────────────── */
 
 .btn-sm {

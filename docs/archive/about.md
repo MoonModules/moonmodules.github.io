@@ -24,7 +24,7 @@ Started in 2023 we are also developing a new product based on our experience wor
 - [WLED-MM-Troyhacks](https://github.com/troyhacks/WLED). Since 2025: Playground for SUPER new stuff which might or might not end up in WLED-MM. Strong points: p4-ppa, 100K pixels art-net on hub76, displays
 - [MoonLight](https://github.com/MoonModules/MoonLight) (pka [StarLight](https://github.com/ewowi/StarLight)): since 2023. Esp32 based Lights controller, build from scratch based on what we learned from WLED (see [Why MoonLight](https://moonmodules.org/MoonLight/moonlight/overview/#why-build-moonlight-when-wled-already-exists))
 - [projectMM](https://github.com/ewowi/projectMM): since 2026: build from scratch based on what we learned from MoonLight (see [why](https://ewowi.github.io/projectMM/why-project-mm/))
-- [FastLED-MM](https://github.com/MoonModules/FastLED-MM): since 2026: showcase using projectMM as a library in simple sketches (one main.cpp does everything)
+- [FastLED-MM](https://github.com/MoonModules/FastLED-MM): since 2026: showcase using projectMM as a library in simple sketches (one main.cpp / FastLED-MM.ino does everything)
 
 ## Roadmap (April 2026)
 

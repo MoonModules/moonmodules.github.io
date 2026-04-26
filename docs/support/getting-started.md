@@ -73,7 +73,7 @@ FastLED-MM is aimed at developers already familiar with FastLED who want to add 
 **Cost:** ~€10–20 (any ESP32 board; also runs on Raspberry Pi and PC)  
 **Time:** Open-ended; this is a development platform
 
-projectMM is for developers who want to build on the MoonModules runtime directly, writing their own modules or extending the platform.
+projectMM is for developers who want to build on the MoonModules runtime directly, writing their own modules or extending the platform. It will get an installer for end-users in the future
 
 1. Read the [why projectMM](https://ewowi.github.io/projectMM/why-project-mm/) page first to understand the design intent.
 2. Follow the [getting started guide](https://ewowi.github.io/projectMM/user-guide/getting-started/) in the projectMM documentation.

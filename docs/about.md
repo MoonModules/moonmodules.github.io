@@ -6,7 +6,7 @@
 
 MoonModules is a collective of light artists, hardware and software developers based across Europe and North America. We build open source lighting software and hardware for ESP32 microcontrollers, used by makers, artists, and engineers running everything from small hobby installations to large stage setups.
 
-All software is released under GPL-3.0 and EUPL-1.2.
+All software is released under GPL-3.0 and EUPL-1.2. For the practical implications of each licence, see the [FAQ](support/faq.md#is-the-software-free).
 
 ---
 
@@ -28,10 +28,10 @@ Alongside MoonLight, projectMM took shape as a cross-platform module runtime, ap
 |---|---|
 | **Ewowi** | Founder. Core architecture across all projects. |
 | **Harry Baas** | Co-founder. Audio reactive effects and early 2D work. |
-| **SoftHack007** | Audio, effects, and hardware support across WLED-MM and MoonLight. |
+| **SoftHack007** | Audio, effects, performance tuning |
 | **Troy** (Troyhacks) | WLED-MM-Troyhacks, pushing ESP32-P4 to 50,000+ pixels on Art-Net. |
-| **Sören** | Effects and Hub75 work in WLED-MM. |
-| **NetMindz** | Networking, multi-instance sync, and performance. |
+| **Sören** | Hardware and Hub75 work in WLED-MM. |
+| **NetMindz** | Art-Net / DMX, Coordinator WLED / WLED-MM |
 
 ---
 

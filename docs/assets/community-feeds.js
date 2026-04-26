@@ -35,40 +35,65 @@ async function loadYouTubeFeed() {
   }
 }
 
+function renderRedditPosts(posts, containers) {
+  if (!posts.length) return;
+  const html = posts.map(p => {
+    const date = new Date(p.created_utc * 1000).toLocaleDateString('en-GB', {
+      year: 'numeric', month: 'short', day: 'numeric'
+    });
+    const imgHtml = p.img_url
+      ? `<img class="reddit-post__img" src="${p.img_url}" alt="" loading="lazy">`
+      : '';
+    const descHtml = p.selftext
+      ? `<span class="reddit-post__desc">${p.selftext.slice(0, 150)}${p.selftext.length > 150 ? '…' : ''}</span>`
+      : '';
+    return `<a class="reddit-post" href="https://reddit.com${p.permalink}" target="_blank" rel="noopener noreferrer">
+      ${imgHtml}
+      <div class="reddit-post__content">
+        <span class="reddit-post__title">${p.title}</span>
+        ${descHtml}
+        <span class="reddit-post__meta">u/${p.author} &middot; ${date} &middot; &#9650; ${p.score}</span>
+      </div>
+    </a>`;
+  }).join('');
+  containers.forEach(c => { c.innerHTML = html; });
+}
+
 async function loadRedditFeed() {
   const containers = document.querySelectorAll('[data-feed="reddit"]');
   if (!containers.length) return;
 
+  // Fetch directly from Reddit's JSON API — browsers send their own User-Agent
+  // and Reddit's CORS headers allow it. Server-side scripts get 403 (blocked by
+  // Reddit's IP rules for GitHub Actions), so we do this client-side instead.
+  try {
+    const res = await fetch('https://www.reddit.com/r/moonmodules.json?limit=10');
+    if (res.ok) {
+      const data = await res.json();
+      const posts = data.data.children.map(c => {
+        const p = c.data;
+        return {
+          title: p.title,
+          author: p.author,
+          score: p.score,
+          permalink: p.permalink,
+          created_utc: p.created_utc,
+          img_url: p.thumbnail && p.thumbnail.startsWith('http') ? p.thumbnail : null,
+          selftext: p.selftext
+        };
+      });
+      renderRedditPosts(posts, containers);
+      return;
+    }
+  } catch { /* fall through to cached JSON */ }
+
+  // Fall back to the last committed snapshot
   try {
     const res = await fetch('/assets/reddit-feed.json');
     if (!res.ok) return;
     const posts = await res.json();
-    if (!posts.length) return;
-
-    const html = posts.map(p => {
-      const date = new Date(p.created_utc * 1000).toLocaleDateString('en-GB', {
-        year: 'numeric', month: 'short', day: 'numeric'
-      });
-      const imgHtml = p.img_url
-        ? `<img class="reddit-post__img" src="${p.img_url}" alt="" loading="lazy">`
-        : '';
-      const descHtml = p.selftext
-        ? `<span class="reddit-post__desc">${p.selftext.slice(0, 150)}${p.selftext.length > 150 ? '…' : ''}</span>`
-        : '';
-      return `<a class="reddit-post" href="https://reddit.com${p.permalink}" target="_blank" rel="noopener noreferrer">
-        ${imgHtml}
-        <div class="reddit-post__content">
-          <span class="reddit-post__title">${p.title}</span>
-          ${descHtml}
-          <span class="reddit-post__meta">u/${p.author} &middot; ${date} &middot; &#9650; ${p.score}</span>
-        </div>
-      </a>`;
-    }).join('');
-
-    containers.forEach(c => { c.innerHTML = html; });
-  } catch {
-    containers.forEach(c => { c.innerHTML = ''; });
-  }
+    renderRedditPosts(posts, containers);
+  } catch { /* nothing to show */ }
 }
 
 async function loadInstagramFeed() {

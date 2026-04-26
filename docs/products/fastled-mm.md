@@ -27,6 +27,6 @@ Effects are written as Modules by subclassing `StatefulModule` and implementing 
 | Platform | ESP32 |
 | Audience | Developers who want the FastLED ecosystem with a full control layer |
 | Status | Active |
-| Licence | GPL-3.0 |
+| Licence | MIT (using the GPL-v3 projectMM libary) |
 
 [GitHub](https://github.com/MoonModules/FastLED-MM)

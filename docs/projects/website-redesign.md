@@ -429,8 +429,42 @@ What was difficult:
 - My Home Control logo is a coloured PNG from the shop subdomain; no SVG or wordmark version was found
 
 Points for Sprint 10:
-- Instagram feed via Behold.so
-- Hero image or short video loop for the homepage header
+- Two pieces of user feedback arrived after Sprint 9 shipped. First: a visitor found the Products overview good but unclear on the "why" behind each product — WLED-MM's fork reason isn't stated, MoonLight's target hardware isn't mentioned, FastLED-MM's key features need context. Second: a separate visitor said the homepage feels busy. Both are fast to address without a full rewrite.
+
+---
+
+## Sprint 10: Products clarity and homepage simplification
+
+**Scope:** Address the two user feedback themes from after Sprint 9.
+
+User 1 (Products page):
+- WLED-MM: add a short explanation of why it was forked from WLED (ideas that moved faster than upstream could absorb (wled /wled has a very large userbase), we want to have a playground to develop new things)
+- MoonLight: verify it is clear it runs on ESP32-dev, ESP32-S3 and ESP32-P4 hardware but runs best on S3 and P4 as it has more memory (PSRAM)
+- FastLED-MM: add context for what the web UI, dual-core processing, and REST API mean in practice for someone who half-knows the terms
+- Add hover tooltips ((i) icon) to each product on the overview page so the extra context is available without cluttering the scan-level layout. Tooltip on mouse-over, not a click-through.
+
+User 2 (Homepage):
+- Audit what is on the homepage and identify what adds noise without adding value for a first-time visitor
+- Simplify: remove or condense whatever is making the page feel busy; keep the three project cards, the collaborator row, and the community feeds, but reduce structural weight elsewhere
+
+**Definition of done:** A visitor on the Products overview can answer "why does this exist and what makes it different" for each product without leaving the page. The homepage reads clearly on first load without feeling like it is trying to say everything at once.
+
+**Result:** Products overview: `ⓘ` tooltip icons added to all four core products. WLED-MM tooltip explains the fork reason (ideas moving faster than upstream, need for a playground). MoonLight tooltip clarifies ESP32-dev/S3/P4 support and why S3/P4 are recommended (PSRAM). projectMM tooltip explains the cross-platform module concept. FastLED-MM tooltip unpacks web UI (browser control, no app), dual-core (animation and Wi-Fi on separate cores), and REST API (HTTP commands from other software). Tooltips use a CSS `::after` pseudo-element with `data-tip` attribute — no JavaScript, no extra elements in the DOM. Homepage: removed the "Used by" heading and intro text (logos speak for themselves, now labelled "Collaborations"), removed the "Getting started" and "FAQ" buttons from the project card section, replaced `##` headings for Reddit/YouTube with bold labels, removed the redundant "Latest from the community" and "YouTube Shorts/Videos" headings. Also fixed a long-standing Reddit 403 issue: the nightly Python script was being blocked by Reddit's IP rules on GitHub Actions; switched to fetching `reddit.com/r/moonmodules.json` directly in the browser (CORS allowed, browser User-Agent accepted), with the committed JSON as fallback. FAQ licence table linked from `about.md` ("Who we are" section) and from `products/index.md` (below the "What to use" table), targeted at developers considering using the software in their own products.
+
+**Retrospective:**
+
+What went well:
+- CSS `::after` tooltips are the right tool here: zero JavaScript, no accessibility regressions for users who don't hover, and the `data-tip` attribute keeps the tooltip text in the HTML where it belongs alongside the element it describes
+- The homepage audit made the noise obvious: three separate `##` headings, a paragraph of intro text above the Reddit feed, and two separate YouTube sub-sections were all structural weight with no content value. Removing them made the page feel half as long without losing anything a visitor actually reads
+- The Reddit browser-fetch fix is more reliable than the server-side script: no IP blocking, no User-Agent workarounds, and the data is always live rather than up to 24 hours old
+
+What was difficult:
+- Tooltip positioning needs care on narrow screens — the `270px` fixed width can overflow the viewport edge if the icon is near the right margin; acceptable for now but worth revisiting if it becomes a problem on mobile
+- The "Collaborations" heading on the homepage (replacing "Used by") was a user edit; keeping both the heading and the logo row consistent required reading the final user-modified file rather than the intermediate version
+
+Points for Sprint 11:
+- Instagram feed remains empty (no session file committed). Behold.so is the lowest-effort path to a working feed.
+- The tooltip overflow on mobile is a known issue worth a quick fix if users report it.
 
 ---
 

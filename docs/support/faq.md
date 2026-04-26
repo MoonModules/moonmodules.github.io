@@ -6,7 +6,7 @@
 
 No. WLED-MM and MoonLight are both point-and-click. You flash the firmware through a browser, connect to WiFi, and control your lights from a web app or phone. No programming, no command line, no soldering beyond the LED connector.
 
-FastLED-MM and projectMM are aimed at developers and do require coding.
+FastLED-MM is aimed at developers and do require coding. projectMM is currenyly a developer project but will get end user support with an automated installer and firmware updates.
 
 ---
 
@@ -56,7 +56,16 @@ If you're not sure, the [buying guide](buying-guide.md) lists tested and recomme
 
 ## Is the software free?
 
-Yes. All MoonModules software (WLED-MM, MoonLight, FastLED-MM, and projectMM) is open source and free to use. The source code is on [GitHub](https://github.com/MoonModules).
+Yes. All MoonModules software is open source and free to use. The source code is on [GitHub](https://github.com/MoonModules). Each project uses a slightly different licence:
+
+| Software | Licence | What it means in practice |
+|---|---|---|
+| WLED-MM | EUPL-1.2 | You can use, modify, and redistribute it freely. If you distribute a modified version, you must share the source code of your changes under the same licence. Similar to GPL but explicitly valid under EU law. |
+| MoonLight | GPL-3.0 | Same principle: use freely, but any distributed modifications must be open source. Widely used in open source hardware projects. |
+| projectMM | GPL-3.0 | Same as MoonLight. |
+| FastLED-MM | MIT (own code), GPL-3.0 (via projectMM) | FastLED-MM's own code is MIT — very permissive. However, it runs on top of projectMM, which is GPL-3.0. If you distribute a product that includes the combined result, the GPL-3.0 applies to the whole: you must make the source code available. The MIT licence of the top layer does not override the GPL-3.0 of the dependency underneath it. |
+
+For most users — running the software on your own hardware — the licence does not affect you at all. The differences matter if you are a company or developer who wants to ship a product that includes or modifies this code.
 
 If it's useful to you, you can [support the project](../about.md#support) with a donation, but there's no requirement.
 

@@ -9,8 +9,6 @@ Open source LED lighting software and art installations, built by a collective o
 
 ## Made with MoonModules
 
-From a single LED strip on a bedroom wall to two concert stages controlled from one tiny ESP32. This is what people build with our software.
-
 <div class="project-grid">
   <a class="project-card" href="projects/concert.md">
     <img src="/assets/images/concert-stage.png" alt="MoonLight at a concert" loading="lazy">
@@ -36,14 +34,8 @@ From a single LED strip on a bedroom wall to two concert stages controlled from 
 </div>
 
 [All installations and builds](projects/index.md){ .md-button }
-[Getting started](support/getting-started.md){ .md-button }
-[FAQ](support/faq.md){ .md-button }
 
----
-
-## Used by
-
-MoonModules software runs in products and installations from independent makers and companies.
+## Collaborations
 
 <div class="collab-logos">
   <a href="about.md#collaborators"><img src="/assets/images/myhome-control-logo.png" alt="My Home Control"></a>
@@ -52,35 +44,27 @@ MoonModules software runs in products and installations from independent makers 
   <a href="about.md#collaborators"><img src="/assets/images/quinled-logo.png" alt="QuinLED" class="collab-logo--white"></a>
 </div>
 
-[All collaborators](about.md#collaborators){ .md-button }
-
 ---
 
-## Latest from the community
+## From the community
 
-### Reddit
-
-New releases, builds, and community projects are posted to r/moonmodules.
+**Reddit**
 
 <div data-feed="reddit"></div>
 
-[View all posts on r/moonmodules](https://www.reddit.com/r/moonmodules/){ .md-button }
+[r/moonmodules on Reddit](https://www.reddit.com/r/moonmodules/){ .md-button }
 
----
-
-### YouTube Shorts
-
-<div id="youtube-shorts"></div>
-
-### YouTube Videos
+**Youtube videos**
 
 <div id="youtube-videos"></div>
+
+**Youtube shorts**
+
+<div id="youtube-shorts"></div>
 
 [MoonModules on YouTube](https://www.youtube.com/@MoonModulesLighting){ .md-button }
 
 ---
-
-## Get involved
 
 [Join Discord](https://discord.gg/TC8NSUSCdV){ .md-button }
 [GitHub](https://github.com/MoonModules){ .md-button }
