@@ -45,6 +45,13 @@
   ],
   "videos": [
     {
+      "title": "FlowFieldsV2",
+      "link": "https://www.youtube.com/watch?v=0ztJzw0BOWY",
+      "published": "2026-04-30T10:24:10+00:00",
+      "thumbnail": "https://i1.ytimg.com/vi/0ztJzw0BOWY/hqdefault.jpg",
+      "description": ""
+    },
+    {
       "title": "MoonLight v0.7.0",
       "link": "https://www.youtube.com/watch?v=TtHu7hYC1oU",
       "published": "2025-12-22T16:02:49+00:00",
@@ -78,13 +85,6 @@
       "published": "2025-10-09T15:06:12+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/Z70zDhpqY8o/hqdefault.jpg",
       "description": "This video gives an introduction to MoonLight\nMoonLight is open source software to control LEDs and lights, running on a microcontroller (ESP32)\n\n0:00 Introduction\n1:44 Why?\n2:41 What\n6:07 Community\n\nPlease like and subscribe (more tutorials will come)\n\nCheck also the other videos on this channel e.g.:\n\nhttps://youtu.be/7DQOEWa-Kwg\nhttps://youtu.be/NnEV9RplZN8\nhttps://youtu.be/bJIgiBBx3lg\nhttps://youtu.be/tdrU9yGkyVo\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on Github https://github.com/MoonModules/MoonLight"
-    },
-    {
-      "title": "MoonLight Install",
-      "link": "https://www.youtube.com/watch?v=7DQOEWa-Kwg",
-      "published": "2025-10-01T12:03:51+00:00",
-      "thumbnail": "https://i4.ytimg.com/vi/7DQOEWa-Kwg/hqdefault.jpg",
-      "description": "This tutorial explains how to install the MoonLight firmware onto an ESP32 microcontroller\nMoonLight is open source software to control LEDs and lights\n\n0:00 Install \n1:47 Connect\n3:56 Setup\n\nPlease like and subscribe (more tutorials will come)\n\nCheck also the other videos on this channel e.g.:\n\nhttps://youtu.be/Z70zDhpqY8o\nhttps://youtu.be/NnEV9RplZN8\nhttps://youtu.be/bJIgiBBx3lg\nhttps://youtu.be/tdrU9yGkyVo\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on GitHub: https://github.com/MoonModules/MoonLight"
     }
   ]
 }
