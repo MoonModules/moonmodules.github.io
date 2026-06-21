@@ -2,8 +2,6 @@
 
 > Gearchiveerd vanaf [het originele forumtopic](https://www.weetjewel.nl/phpbb3/viewtopic.php?t=65821).
 
-
-
 ## ewoudwijma — 2020-12-13
 
 ### [T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475626#p475626)
@@ -104,7 +102,6 @@ Inhoudsopgave (klik op pijltje om naar post te gaan):
 
 Laatst gewijzigd door [ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453) op wo mar 10, 2021 12:03, 22 keer totaal gewijzigd.
 
-
 ## Snautzer — 2020-12-13
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475627#p475627)
@@ -116,7 +113,6 @@ Laatst gewijzigd door [ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.ph
 door **[Snautzer](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=10387)** » zo dec 13, 2020 16:11
 
 Veel plezier met bouwen.
-
 
 ## moosev — 2020-12-13
 
@@ -135,7 +131,6 @@ René
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 [Klik -----> Ombouw T5GP LWB Camper project 2017 en diverse aanpassingen 2018 <------](http://www.weetjewel.nl/phpbb3/viewtopic.php?f=13&t=55800)
 
-
 ## ewoudwijma — 2020-12-13
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475647#p475647)
@@ -150,7 +145,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 . Ik ga niet boven slapen, zie het ontwerp bij dit bericht (nog niet gelukt om via de iPhone een afbeelding toe te voegen...ontwerp komt nog): er komt in eerste instantie een keukenblok en een slaapblok. Via het slaapblok kun je gebruik makend van de achterbank zowel een 1 als 2 persoons bed creëren.  
   
 Ik zal nog een berichtje maken waarin ik uitleg welke omzwervingen ik heb gemaakt op autosites en campersites voordat ik bij de transporter en dit ontwerp uitgekomen ben.
-
 
 ## krekwakwol — 2020-12-13
 
@@ -167,7 +161,6 @@ Hier heb ik ook veel voordeel van gehad bij mijn ombouw naar camperbus.
 
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
-
 
 ## Multivan Generation — 2020-12-13
 
@@ -188,7 +181,6 @@ Doe er je voordeel mee..
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## ewoudwijma — 2020-12-13
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475663#p475663)
@@ -204,7 +196,6 @@ Dank je voor de tip! Ben aan het kijken of <https://www.hekkemakampeerauto.nl> e
 
 Laatst gewijzigd door [ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453) op za dec 19, 2020 11:57, 2 keer totaal gewijzigd.
 
-
 ## Multivan Generation — 2020-12-14
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475669#p475669)
@@ -219,7 +210,6 @@ Hilo heeft wel een kwalitatief goed plat hefdak..
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## ewoudwijma — 2020-12-14
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475674#p475674)
@@ -232,7 +222,6 @@ Hilo heeft wel een kwalitatief goed plat hefdak..
 door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453)** » ma dec 14, 2020 8:31
 
 Met een vanaf prijs wat voor mij niet helemaal in verhouding is met de prijs van een 2de hands transporter. Kan dat niet in mijn budget verantwoorden helaas. Ik heb even gekeken. Zeker een mooi dak
-
 
 ## ewoudwijma — 2020-12-14
 
@@ -250,7 +239,6 @@ Dank je, ik zal zeker foto's sturen!
 (zojuist berichtje geplaatst met de 'voorgeschiedenis'. Hierna komen berichtjes met foto's van het project!)
 
 Laatst gewijzigd door [ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453) op ma dec 14, 2020 21:30, 1 keer totaal gewijzigd.
-
 
 ## ewoudwijma — 2020-12-14
 
@@ -293,7 +281,6 @@ Idee 4b: 4a maar dan meer dan 2 personen bijv Transporter Multivan of Mercedes V
   
 Terug naar idee 2: De T5 L2 personenbus. Uiteindelijk viel alles op zijn plaats: Oa van de multivan/ viano geleerd om meer dan 2 personen te kunnen vervoeren en hoe een camperbus er straatvriendelijk uit kan zien, maar dan wel ietsje langer (L2). En inmiddels een verder uitgewerkt plan om er iets moois van te maken.
 
-
 ## Renew — 2020-12-15
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475742#p475742)
@@ -310,7 +297,6 @@ Voor een idee voor meer leefruimte kijk ook eens bij;
   
 Verder zijn er hier op het forum nog allerlei andere mooie oplossingen te vinden
 
-
 ## ewoudwijma — 2020-12-15
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475746#p475746)
@@ -326,7 +312,6 @@ Hoi Renew,
 Ik had je project al gezien. Ziet er goed uit! Bed is heel creatief bedacht! Out of the bus denken (of was die grap al gemaak ). De stijl van je inrichting lijkt op mijn plannen. Ik loop een paar dagen voor met klussen tov van mijn berichten hier, maar foto’s volgen binnenkort !  
 Groet, Ewoud
 
-
 ## Multivan Generation — 2020-12-15
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475750#p475750)
@@ -341,7 +326,6 @@ Laat voor als je naar de RDW-keuring gaat in ieder geval een bank op de originel
 Anders kan het wel eens afkeur betekenen.
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## sjozti — 2020-12-15
 
@@ -363,7 +347,6 @@ Heb jij deze ook? Wat zijn je plannen er mee?
   
 Groeten uit Den Haag
 
-
 ## ewoudwijma — 2020-12-15
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475755#p475755)
@@ -378,7 +361,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 Hallo sjozti,  
 Wat leuk om te horen! Ik heb een dak bij Hekkema besteld. Ik zou graag een keer komen kijken, aangezien je ook in Den Haag woont. Uiteraard is mijn werk (in uitvoering) ook te bezichtigen.  
 Ik ben tijdens het strippen de A-C unit ook tegengekomen. Wil hem er wel laten, mogelijk beetje ‘restylen’ als dat mogelijk is.
-
 
 ## ewoudwijma — 2020-12-15
 
@@ -396,7 +378,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > Anders kan het wel eens afkeur betekenen.
 
 De achterste 3-zits bank blijft staan. Ik heb de RDW vorige week gebeld en mijn plannen met ze besproken. De persoon waar ik mee sprak was erg hulpvaardig. Zo hoop ik niet voor keuringsverrassingen komen te staan.
-
 
 ## Multivan Generation — 2020-12-15
 
@@ -421,7 +402,6 @@ zie ook dit project..
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## ewoudwijma — 2020-12-15
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475763#p475763)
@@ -439,7 +419,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > <https://weetjewel.nl/phpbb3/viewtopic.php?f=25&t=64627>
 
 Dank je. Goed om te weten!
-
 
 ## ewoudwijma — 2020-12-15
 
@@ -470,7 +449,6 @@ Verder is het plan om bovenin de bus over de lengte zowel links en rechts een **
 Ga de zijschotten ook vervangen door houten exemplaren zodat ze bij de rest van het hout passen.  
   
 Ik hoor graag wat jullie hiervan vinden. Kan mij voorstellen dat de meningen verdeeld zijn over sommige onderwerpen, bijv. isolatie, of het bed. Misschien zijn er anderen die soortgelijke oplossingen bedacht hebben (ik heb nog lang niet alles hier bekeken). Vind het ook wel weer leuk dat hiermee ook weer een uniek exemplaar gemaakt wordt.
-
 
 ## Multivan Generation — 2020-12-15
 
@@ -519,7 +497,6 @@ Zie ook eens hier voor wat inspiratie:
 Groeten Peter
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2020-12-16
 
@@ -575,7 +552,6 @@ Daar ga ik niet echt de nadruk op leggen ;-) Is bovendien ook niet de bedoeling,
 
 Heb het al bijna helemaal bekeken. Is zeker al inspiratiebron voor mij! Nogmaals dank Peter!!!   
 Groeten Ewoud
-
 
 ## Multivan Generation — 2020-12-16
 
@@ -646,7 +622,6 @@ Groetjes Peter
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## Multivan Generation — 2020-12-16
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475819#p475819)
@@ -670,13 +645,11 @@ Dak is een SCA 192 comfort..
   
 Groetjes Peter
 
-Bijlagen
-:   [![20201216_193151_copy_1612x2149.jpg](assets/post023_img00.jpg "20201216_193151_copy_1612x2149.jpg (50.75 KiB) 2493 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52346&mode=view)
-:   [![20201216_193209_copy_1612x1209.jpg](assets/post023_img01.jpg "20201216_193209_copy_1612x1209.jpg (93.68 KiB) 2493 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52345&mode=view)
-:   [![20201216_193039_copy_1612x1209.jpg](assets/post023_img02.jpg "20201216_193039_copy_1612x1209.jpg (91.73 KiB) 2493 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52344&mode=view)
+[![20201216_193151_copy_1612x2149.jpg](assets/post023_img00.jpg "20201216_193151_copy_1612x2149.jpg (50.75 KiB) 2493 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52346&mode=view)
+[![20201216_193209_copy_1612x1209.jpg](assets/post023_img01.jpg "20201216_193209_copy_1612x1209.jpg (93.68 KiB) 2493 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52345&mode=view)
+[![20201216_193039_copy_1612x1209.jpg](assets/post023_img02.jpg "20201216_193039_copy_1612x1209.jpg (91.73 KiB) 2493 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52344&mode=view)
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2020-12-16
 
@@ -705,7 +678,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Mooi gedaan! Zoiets zit ik dus aan te denken . Hoe heb je de opbergruimte vastgemaakt aan het dak?
 
-
 ## ewoudwijma — 2020-12-17
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475863#p475863)
@@ -728,7 +700,6 @@ The devil is in the detail. Om de box passend te maken moeter er meerdere stukje
 [![bedbox2.jpg](assets/post025_img01.jpg "bedbox2.jpg (65.44 KiB) 2444 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52359&mode=view)
 
 De schroefhaak die je ziet liggen wordt gebruikt voor bevestiging aan de bevestigingspunten op de vloer. De schroefhaak is verbonden met een koppelmoer en een bout, alles 8mm. In het hout gaten geboord van 13mm zodat de koppelmoer er in past. Moet nog een borgmoer toevoegen die de koppelmoer op zijn plaats houdt.
-
 
 ## ewoudwijma — 2020-12-18
 
@@ -768,7 +739,6 @@ Lijkt mij ook erg prettig om ook achter in de bus muziek te hebben, moet je je b
   
 Hebben jullie nog goede tips voor speaker keuze of geluid achter? Ik heb deze link al gevonden: [viewtopic.php?f=3&t=65716](https://www.weetjewel.nl/phpbb3/viewtopic.php?f=3&t=65716). Al even vluchtig bekeken, zal deze de komende dagen doorspitten.
 
-
 ## ewoudwijma — 2020-12-19
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=475946#p475946)
@@ -806,7 +776,6 @@ Dit maar eens even gaan overwegen ;-). Edit: het gaat Armafflex XG worden. Vanwe
 
 Laatst gewijzigd door [ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453) op di dec 22, 2020 16:35, 1 keer totaal gewijzigd.
 
-
 ## ewoudwijma — 2020-12-22
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476082#p476082)
@@ -834,7 +803,6 @@ Zonnepaneel controller en schakelbordje ([https://www.amazon.nl/gp/product/B0894
 
 Koelkast: [https://www.amperewinkel.nl/product/com ... -42-liter/](https://www.amperewinkel.nl/product/compressor-koelkast-indel-webasto-12v-24v-inbouw-42-liter/), Doordat het compressor gedeelte los van de koelkast geplaatst kan worden is dit de enige koelkast die ik gevonden heb die in het 40 cm diepe keukenblok geplaatst kan worden.
 
-
 ## krekwakwol — 2020-12-22
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476092#p476092)
@@ -855,7 +823,6 @@ De PC platen ertussen voor de koeling , want ze kunnen erg heet worden vin de ba
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
 
-
 ## ewoudwijma — 2020-12-28
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476326#p476326)
@@ -871,7 +838,6 @@ Hoi Arnold,
   
 Dank voor je reactie. Klinkt interessant! Ik heb je post bekeken en met name je foto's bestudeerd. Ik kan niet zo heel goed zien hoe alles uiteindelijk vast zit. Wel nog even gegoogled op zonnepaneel / kanaalplaat maar zie niet zo veel bruikbaars. Hoe ben je op het idee gekomen? En is het hierbij nodig dat je zonnepaneel flexibel is? (Dat is die van mij niet)  
 En gebruik je hierbij geen hoeksteunen. Ik heb deze klaar liggen: [https://www.amperewinkel.nl/product/mon ... el-op-dak/](https://www.amperewinkel.nl/product/montageset-hoekspoilers-tbv-montage-zonnepaneel-op-dak/) maar moet hierbij ook nog puzzzelen hoe ik met het relief op het dak rekening houd.
-
 
 ## ewoudwijma — 2020-12-28
 
@@ -893,7 +859,6 @@ Was intussen al aardig opgeschoten met het keukenblok. Vandaag de laden eruit ge
 [![keuken1.jpg](assets/post031_img01.jpg "keuken1.jpg (75.16 KiB) 1871 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52484&mode=view)
 
 Door de lockdown omstandigheden meer aan het multitasken dan de bedoeling was: isoleren / betimmeren / keuken apparatuur / audio / stroomvoorziening / vloerbedekking loopt allemaal tegelijk.
-
 
 ## krekwakwol — 2020-12-28
 
@@ -922,7 +887,6 @@ Zie ook deze link naar de blogspot van Michel Moen.
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
 
-
 ## ewoudwijma — 2020-12-28
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476337#p476337)
@@ -936,7 +900,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Ha Arnold, dank je wel voor je reactie en het linkje. Heb de blog van Michel Moen bekeken. Heel uitgebreid! Zo te zien gebruiken jullie flexibele panelen, had ik misschien achteraf ook moeten doen maar heb nu gewone liggen. Maar ga kijken of ik de kanaalplaat ook kan gebruiken voor strakkere montage op het dak.  
 Groeten, Ewoud.
-
 
 ## ewoudwijma — 2020-12-28
 
@@ -955,7 +918,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 Hoi Peter, ik herinnerde mij deze opmerking nog van je. Kun je vertellen waar de slang dan van binnen naar buiten gaat?  
 Groeten, Ewoud.
 
-
 ## Multivan Generation — 2020-12-28
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476340#p476340)
@@ -971,14 +933,12 @@ Met plaatjes zal ik het proberen.
 Je moet zijn achter de B-stijl, een cm of 10 a 15 zit er daar een gat in het gootje
 
 ![net achter de B-stijl aan de bestuurderszijde](assets/post035_img01.jpg)
-:   *net achter de B-stijl aan de bestuurderszijde*
-:   20160924\_155202.jpg (48.56 KiB) 1857 keer bekeken
+*net achter de B-stijl aan de bestuurderszijde*
 
 Stop in dat gat een hele stugge draad, bijvoorbeeld installatiedraad, en duw dat in de wijsrichting naar beneden
 
 ![Let op de richting van mijn vinger, die is bepalend](assets/post035_img02.jpg)
-:   *Let op de richting van mijn vinger, die is bepalend*
-:   20161221\_152026.jpg (36.54 KiB) 1857 keer bekeken
+*Let op de richting van mijn vinger, die is bepalend*
 
 Je komt dan in een soort van kokerruimte en het jammere is dat de gaten niet recht onder elkaar zitten, maar dat het onderste gat, naar mijn idee ongeveer een cm of 3 verder naar achter zit en een cm naar buiten.  
   
@@ -986,11 +946,9 @@ Ga naar de buitenzijde en haal op je gevoel op die positie de rubberen stop los 
 Zet een sterke lamp tegen de carrosserie en laat hem in het gat schijnen zodat je wat meer indicatie krijgt welke richting je op moet.  
 
 ![hier kom je er dan uit..](assets/post035_img03.jpg)
-:   *hier kom je er dan uit..*
-:   20161221\_153056.jpg (36.08 KiB) 1857 keer bekeken
+*hier kom je er dan uit..*
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## Multivan Generation — 2020-12-28
 
@@ -1005,15 +963,12 @@ door **[Multivan Generation](https://www.weetjewel.nl/phpbb3/memberlist.php?mode
 Voor een betere indicatie nog een iets gemakkelijker plaatje.  
 
 ![20161221_153112.jpg](assets/post036_img00.jpg)
-:   20161221\_153112.jpg (24.4 KiB) 1857 keer bekeken
 
 ![20161221_153126.jpg](assets/post036_img01.jpg)
-:   20161221\_153126.jpg (36.24 KiB) 1857 keer bekeken
 
 Bewerk de afwerkdop en je kunt de slang er strak doorheen steken  
 
 ![20161221_155031.jpg](assets/post036_img02.jpg)
-:   20161221\_155031.jpg (44.86 KiB) 1857 keer bekeken
 
 succes   
   
@@ -1022,7 +977,6 @@ Laat je even weten of het gelukt is?
 Groetjes Peter
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2020-12-28
 
@@ -1038,7 +992,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 Wauw wat een topuitleg! Ik laat het je weten! Dat multitask ik er nog wel even bij
 
 Laatst gewijzigd door [ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453) op ma dec 28, 2020 19:40, 1 keer totaal gewijzigd.
-
 
 ## krekwakwol — 2020-12-28
 
@@ -1056,13 +1009,11 @@ door **[krekwakwol](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Als jij vaste panelen hebt zit er waarschijnlijk ook een aluminium rand omheen, en heb je ruime tussen je paneel en de onderzijde van de rand. Ik weet niet of de kanaal plaat nog iets toevoegt voor jou.
 
-Bijlagen
-:   [![Heb jij een paneel als deze?](assets/post038_img00.jpg "IMG_20180306_185301.jpg (205.31 KiB) 1851 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52494&mode=view)
-    :   Heb jij een paneel als deze?
+[![Heb jij een paneel als deze?](assets/post038_img00.jpg "IMG_20180306_185301.jpg (205.31 KiB) 1851 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52494&mode=view)
+Heb jij een paneel als deze?
 
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
-
 
 ## ewoudwijma — 2020-12-28
 
@@ -1080,7 +1031,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Ha Arnold, zo een heb ik idd. Die rand zit vastlijmen in de weg dan. In dit geval zal ik het met die hoekmontage blokken moeten doen
 
-
 ## krekwakwol — 2020-12-28
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476351#p476351)
@@ -1096,7 +1046,6 @@ Er zijn genoeg campers die de panelen ook zo vast hebben, dus dan zal het wel lo
 
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
-
 
 ## ewoudwijma — 2020-12-29
 
@@ -1121,7 +1070,6 @@ Meteen van de gelegenheid gebruik gemaakt om wat meer demping te veroorzaken Vol
 [![demping2.jpg](assets/post041_img03.jpg "demping2.jpg (72.45 KiB) 1803 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52509&mode=view)
 
 En vandaag 2 dozen Armaflex XG geleverd - to be continued...
-
 
 ## ewoudwijma — 2020-12-31
 
@@ -1155,7 +1103,6 @@ Fijne jaarwisseling!
 Groetjes,  
 Ewoud
 
-
 ## Multivan Generation — 2020-12-31
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476510#p476510)
@@ -1169,7 +1116,6 @@ door **[Multivan Generation](https://www.weetjewel.nl/phpbb3/memberlist.php?mode
 Bodemplaat moet er af ja..
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2020-12-31
 
@@ -1186,7 +1132,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > Bodemplaat moet er af ja..
 
 OK, gaan we daar later mee verder ;-)
-
 
 ## MrRaceHardware — 2021-01-02
 
@@ -1236,7 +1181,6 @@ In de bijgeleverde verloop stekkers wordt de CAN helemaal niet aangesloten.
 
 Keep simple things simple is the most difficult ....
 
-
 ## MrRaceHardware — 2021-01-02
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476575#p476575)
@@ -1250,7 +1194,6 @@ door **[MrRaceHardware](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=view
 NB, die Eaton speakers zijn top :-) !
 
 Keep simple things simple is the most difficult ....
-
 
 ## ewoudwijma — 2021-01-03
 
@@ -1277,7 +1220,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Er zat bij deze radio een canban module, gewoon alle volkswagen stekkers erin pluggen en het werkte. Geen idee van lekstromen... zal dat een keer gaan meten. Hoe kreeg je het vermoeden dat het 'lekte'?
 
-
 ## ewoudwijma — 2021-01-03
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476616#p476616)
@@ -1293,7 +1235,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > NB, die Eaton speakers zijn top :-) !
 
 Ik heb de instructie gevolgd maar wel andere speakers ingebouwd: [https://www.amazon.nl/gp/product/B08CDV ... UTF8&psc=1](https://www.amazon.nl/gp/product/B08CDV4TQW/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1). Deze waren net iets preiswertiger en klinken erg goed!
-
 
 ## ewoudwijma — 2021-01-03
 
@@ -1315,7 +1256,6 @@ Hier een sneak preview van welke richting het op gaat (en de armaflex XG 19mm zi
 [![sneak3.jpg](assets/post049_img02.jpg "sneak3.jpg (69.37 KiB) 2251 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52565&mode=view)
 
 Morgen bus afleveren bij <https://www.hekkemakampeerauto.nl/> voor het hefdak.
-
 
 ## MrRaceHardware — 2021-01-04
 
@@ -1344,7 +1284,6 @@ Paar foto's van mijn binnenkant en Reimo hefdak, de binnenkant moet ik nog verde
 
 Keep simple things simple is the most difficult ....
 
-
 ## ewoudwijma — 2021-01-09
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476876#p476876)
@@ -1370,7 +1309,6 @@ Met deze afmeting worden er niet 3 maar 2 dakspanten verwijderd waardoor het dak
 
 [![dak4.jpg](assets/post051_img02.jpg "dak4.jpg (64.61 KiB) 2136 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=52626&mode=view)
 
-
 ## Ronald van der Meer — 2021-01-09
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476902#p476902)
@@ -1387,7 +1325,6 @@ Mis op hun site een prijs indicatie.
 Ben verder benieuwd hoe dit project verder gaat..  
   
 gr Ronald
-
 
 ## ewoudwijma — 2021-01-10
 
@@ -1410,7 +1347,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Er zit een rubber rondom op het hefdak en rubber rondom het dak van de bus, dat sluit af als het dak dicht is
 
-
 ## ewoudwijma — 2021-01-10
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476957#p476957)
@@ -1431,7 +1367,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > gr Ronald
 
 Is idd achterwege gelaten vanwege de verbouwing. Prijs was ‘markt conform’. Ik houd jullie op de hoogte!
-
 
 ## ewoudwijma — 2021-01-10
 
@@ -1466,7 +1401,6 @@ Zie hier plaatje waar hij naar buiten komt. De stikker op het karton geeft de pl
 
 Heb je de bodemplaat er na afloop weer op gedaan of rijd je zonder (zag hem niet op je fotos)?
 
-
 ## Multivan Generation — 2021-01-11
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=476999#p476999)
@@ -1492,7 +1426,6 @@ Leuk idee he..
 Groetjes Peter
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2021-01-13
 
@@ -1527,7 +1460,6 @@ Mocht er interesse in het dak zijn dan is het het handigst om contact met Hekkem
   
 Groet,  
 Ewoud
-
 
 ## ewoudwijma — 2021-01-13
 
@@ -1566,7 +1498,6 @@ Voorlopig niet
 Hebben jullie nog tips mbt wat wel / niet doen? Ik heb het idee dat overblijvende koudebruggen mogelijk de isolerende werking verstoren, maar hoe ver te gaan om deze allemaal weg te werken? Je hebt iedere keer weer een nieuwe zwakste schakel...  
 En adviseren jullie om met pur schuim de moeilijke plekken aan te pakken? Sluit je daarmee mogelijk delen af waar je later nog bij moet kunnen?
 
-
 ## ewoudwijma — 2021-01-16
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=477289#p477289)
@@ -1583,7 +1514,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > ...
 
 Goedemorgen Jan, dank je voor je reactie. Ga voor nu een grens trekken, geen pur schuim nu in ieder geval. Ga eerst maar eens ervaren wat de huidige isolatie doet en kan altijd later finetunen.
-
 
 ## ewoudwijma — 2021-01-16
 
@@ -1624,7 +1554,6 @@ Nu opgehangen met touwtjes om ideeen op te doen:
 Uitdaging is dat het zowel strak tegen de zijkant als bovenkant vast komt te zitten, Zit nu te overwegen om de beugeltjes die ook gebruikt worden voor het hefdak (zie foto) ook te gebruiken op de plank en met spanband, bouten/mouren en/of draadspanners vast te zetten aan zowel de 8mm gaten die in de bus zitten en het hout van de hefdakconstructie. Maar het voelt nog niet 100% goed...  
 Tips welkom ;-)!
 
-
 ## Multivan Generation — 2021-01-16
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=477299#p477299)
@@ -1644,7 +1573,6 @@ Wat ook vaak gedaan wordt is een plaatje hout nemen en een flinke dot kit en dat
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## ewoudwijma — 2021-01-16
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=477307#p477307)
@@ -1662,7 +1590,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > Wat ook vaak gedaan wordt is een plaatje hout nemen en een flinke dot kit en dat tegen een polyester frame aan drukken en daar dan je afwerk lat/plafond plaat tegenaan schroeven
 
 Tappen en kitten idd ook nog een optie. Neem het mee in het beslissingsproces . Thx!
-
 
 ## ewoudwijma — 2021-01-16
 
@@ -1705,7 +1632,6 @@ In bovenstaande manuals staan aansluitschemas maar er wordt niet een combinatie 
 
 Opmerkingen? Heeft iemand een soortgelijke configuratie?
 
-
 ## ewoudwijma — 2021-01-24
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=477749#p477749)
@@ -1741,7 +1667,6 @@ Ideeën of tips?
 
 Laatst gewijzigd door [ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453) op wo jan 27, 2021 10:57, 1 keer totaal gewijzigd.
 
-
 ## ewoudwijma — 2021-01-27
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=477866#p477866)
@@ -1763,7 +1688,6 @@ Electriciteit update: Keukenblok geplaatst en verankerd in de bus. Accu geplaats
 
 Op de laatste foto is ook te zien dat kabels voor verlichting in bovenkastjes, afvoer a la Peter Multivan, warm en koud water, gas en achterspeakers kabels ook getrokken zijn. Warm water en achterspeakers zijn toekomstige uitbreidingen.
 
-
 ## Hanz — 2021-01-27
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=477869#p477869)
@@ -1777,7 +1701,6 @@ door **[Hanz](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=
 Mooi stuk werk. Wordt de accu nog vastgezet met een beugel of spanband? Je wilt natuurlijk niet dat die een eigen leven gaat leiden bij hobbels in de weg of ongeluk/noodstop.
 
 T4 California 1997 - 2.5TDI/ACV
-
 
 ## ewoudwijma — 2021-01-27
 
@@ -1795,7 +1718,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Dank je. Hij zit nu behoorlijk vast geklemd in de houten balken, denk dat het wel een hobbel overleeft. Maar je hebt denk ik wel gelijk, zal er ook nog een spanband om heen zetten voor de zekerheid.
 
-
 ## Hanz — 2021-01-27
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=477886#p477886)
@@ -1812,7 +1734,6 @@ door **[Hanz](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=
 Hout werkt, zou zo maar kunnen dat er over een paar maanden al een paar mm speling zit tussen hout en accu. Gebruikelijk is om de accu te zekeren met beugel of spanband.
 
 T4 California 1997 - 2.5TDI/ACV
-
 
 ## Multivan Generation — 2021-01-27
 
@@ -1832,7 +1753,6 @@ Eerst passen en meten en kijken of het werkt, en daarna definitiever maken he..
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## ewoudwijma — 2021-01-28
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=477935#p477935)
@@ -1846,7 +1766,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Jullie hebben allebei gelijk   
 Zowel under construction maar was zelf niet helemaal scherp mbt deugdelijk vastzetten!
-
 
 ## ewoudwijma — 2021-01-30
 
@@ -1880,7 +1799,6 @@ Dat zou wel heel mooi zijn. Is er in de buurt van Den Haag iemand die het zou wi
 
 * <https://nl.aliexpress.com/item/1005001606261128.html>
 
-
 ## Multivan Generation — 2021-01-31
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478044#p478044)
@@ -1894,7 +1812,6 @@ door **[Multivan Generation](https://www.weetjewel.nl/phpbb3/memberlist.php?mode
 Controleer even de metalen buis van de uitlaat naar de EGR. Daarvan willen de lasnaadjes wel eens loskomen, met dezelfde symptomen.
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2021-01-31
 
@@ -1922,7 +1839,6 @@ Heb even wat fotos gemaakt:
 
 Denk dat je of plaatje 2 of plaatje 3 bedoelt. Kun jij op de plaatjes al iets zien? Of moet ik detail foto's nemen?
 
-
 ## Multivan Generation — 2021-01-31
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478047#p478047)
@@ -1937,7 +1853,6 @@ Je hebt foto's geplaatst van je uitlaat.
 Dat wat ik bedoel, zit achterop van boven op de motor.
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2021-01-31
 
@@ -1967,7 +1882,6 @@ Kun je hier de metalen buis wel zien? Laat maar weten of ik nog detailfoto's moe
   
 Nogmaals dank voor je hulp!
 
-
 ## Multivan Generation — 2021-01-31
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478056#p478056)
@@ -1985,7 +1899,6 @@ Zit zo'n beetje op 3 uur..
 Die even volgen naar beide uiteinden en even aan trekken of bij draaiende motor even kijken of daar geen uitlaat gassen ontsnappen.
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2021-01-31
 
@@ -2008,7 +1921,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 Instructie opgevolgd : zit aan beide einden geen beweging in, en ook ontsnappen er geen gassen. Ze zijn wel aan beide kanten vastgeschroefd, zie zelf geen las punten.   
 Las in de andere post ook nog iets over roetfilter, zou het daar eventueel mee te maken kunnen hebben?
 
-
 ## ewoudwijma — 2021-02-03
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478270#p478270)
@@ -2025,7 +1937,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Ik ben er nog niet achter wat het probleem is. Ik heb gisteren de 2de accu losgekoppeld, omdat dat de verandering is nadat hij geen storing gaf, maar dat hielp ook niet.  
 Is er misschien iemand in de buurt van Den Haag met vagcom software? Dat geeft hopelijk wat meer duidelijkheid over het probleem.
-
 
 ## John_Baas — 2021-02-06
 
@@ -2045,7 +1956,6 @@ Uiteindelijk is het roetfilter gedemonteerd en de sensor uit geboord.
 Ik zou hem laten uitlezen, dan weet je meer.  
 Suc6.
 
-
 ## ewoudwijma — 2021-02-06
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478452#p478452)
@@ -2064,7 +1974,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > Suc6.
 
 Dank je John! Ik heb een vagcom stekker in bestelling, verwacht hem ongeveer over een week, dan hopelijk meer duidelijkheid
-
 
 ## ewoudwijma — 2021-02-06
 
@@ -2091,7 +2000,6 @@ Flinke uitdaging geweest om deze passend te maken, wordt opgehangen met 4 bouten
 De ledstrips in feestverlichting stand ;-):
 
 [![plafondkast3.jpg](assets/post081_img02.jpg "plafondkast3.jpg (71.64 KiB) 3272 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53031&mode=view)
-
 
 ## ewoudwijma — 2021-02-09
 
@@ -2129,7 +2037,6 @@ Genoeg informatie te vinden op weetjewel als je zoekt op deze foutcodes: lijkt n
 
 Is de N75 sensor vervangen de eerste optie? Of toch maar naar een garage brengen? Of heeft het zin om eerst alle foutcodes te wissen en kijken of het dan weer optreedt? Ben daar wel beetje huiverig voor, want dan gaat er misschien meer diagnostische info verloren die voor verdere probleemanaluse nodig is...
 
-
 ## Snautzer — 2021-02-09
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478581#p478581)
@@ -2142,7 +2049,6 @@ door **[Snautzer](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofil
 
 Als er echt iets niet goed is komen die fout codes gewoon weer terug. Persoonlijk zou ik ze eerst wissen (schone lei) en na verloop van enige tijd nog eens kijken.  
 Zolang de bus rijd en er geen meldingen op het dashboard staan moet m.i.. kunnen.
-
 
 ## ewoudwijma — 2021-02-09
 
@@ -2161,7 +2067,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Dank je voor je reactie! Ik kan dat proberen, maar gaat dat ook het gedrag veranderen? (nu max 2500 toeren en cruise control werkt niet)
 
-
 ## Snautzer — 2021-02-09
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478584#p478584)
@@ -2173,7 +2078,6 @@ Dank je voor je reactie! Ik kan dat proberen, maar gaat dat ook het gedrag veran
 door **[Snautzer](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=10387)** » di feb 09, 2021 18:32
 
 Geen id. Als er iets echt stuk is zal het wissen van de fout codes echt niet helpen. Even wel weet je wel dat de fouten die nu opkomen diegene zijn waar je naar moet gaan speuren.
-
 
 ## Eddy_T5 — 2021-02-09
 
@@ -2187,7 +2091,6 @@ door **[Eddy\_T5](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofil
 
 Leuk project gozer ziet er goed uit,  
 Wat betreft je fout in je bus. Op de foto bij je turbo zie je een klein vacuum slang. Volg die slang en kijk even of je daar vacuum op hebt.
-
 
 ## ewoudwijma — 2021-02-10
 
@@ -2208,7 +2111,6 @@ Hoi Eddy, thx !
 Ik heb dat slangetje (en andere slangetjes) vandaag nog eens goed visueel gechecked, maar zie niets raars. Hoe zie je of je er vacuüm op hebt? Heb je daar geen metertje voor nodig?  
 Wel meen ik door het motor geluid heen een sissend / vacuüm trekkend geluid te horen, maar misschien is dat normaal. Hier te beluisteren: <https://youtu.be/L6w4YdS5X7w>
 
-
 ## Multivan Generation — 2021-02-10
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478633#p478633)
@@ -2223,7 +2125,6 @@ Zoek eens op moo valve of koeien geluid hier op het forum.
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## Eddy_T5 — 2021-02-10
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478640#p478640)
@@ -2237,7 +2138,6 @@ door **[Eddy\_T5](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofil
 Als de motor stationait draait kan je de slangetje los trekken en kijken of je er vacuum op voelt. Dit is het gedeelte wat jr druk regeld. Als dit oke is kan je kijken je niet ergens een lekkage hebt. Inlaat, turbo slangen.  
   
 Sisent geluid duid wel op een lekkage.
-
 
 ## ewoudwijma — 2021-02-10
 
@@ -2260,7 +2160,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Nav de koeien geluiden berichten (alhoewel dit geluid er niet is) en eerdere berichten heb ik de N75 klep besteld. Die ga ik monteren, als dat niet helpt de vacuum test en als dat niet helpt wordt het tijd een garage te zoeken ;-)  
 Bedankt voor de tips!
-
 
 ## ewoudwijma — 2021-02-11
 
@@ -2290,7 +2189,6 @@ Ik moet mij nog meer verdiepen in wat Torque kan laten zien maar er is een basis
 
 [![torque2.jpg](assets/post091_img01.jpg "torque2.jpg (84.79 KiB) 3208 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53087&mode=view)
 
-
 ## Eddy_T5 — 2021-02-11
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478681#p478681)
@@ -2306,7 +2204,6 @@ Je moet even kijken of de wasgate van je turbo beweegt en hoeveel. Je hebt een l
 Als almere niet tever is voor je kan je eventueel langskomen. Kan ik het nakijken voor je.  
   
 Zo op afstand is dat moeilijk uitleggen.
-
 
 ## ewoudwijma — 2021-02-13
 
@@ -2324,7 +2221,6 @@ Vanuit Den Haag wel een behoorlijke rit, is het wel verstandig zo’n lange rit 
   
 Overigens gisteren de foutcodes gewist. Ze zijn nu weg .  
 Zal binnenkort een rondje rijden om te zien of probleem ook weg is en of de codes weer verschijnen. Verwacht ook een nieuwe n75 valve met de post binnenkort. Die wil ik ook nog aansluiten. Mocht het dan nog niet werken dan kijk ik of ik een tocht naar Almere kan maken / combineren met familiebezoek. Ik houd je op de hoogte!
-
 
 ## ewoudwijma — 2021-02-16
 
@@ -2364,7 +2260,6 @@ Dank jullie wel voor alle tips!!!
   
 Heeft het nog zin om Turbo cleaner of engine cleaner door het systeem te spuiten? Om toekomstige problemen voor te zijn?
 
-
 ## Multivan Generation — 2021-02-16
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=478935#p478935)
@@ -2378,7 +2273,6 @@ door **[Multivan Generation](https://www.weetjewel.nl/phpbb3/memberlist.php?mode
 graag gedaan hoor
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2021-02-19
 
@@ -2412,7 +2306,6 @@ Bank of 1 persoonsbed:
 
 Kussens op maat zijn besteld, rekening houdend met de vorm van de achterbank, in meerdere delen zodat ze bijv deels op de bestuurderstoel geparkeerd kunnen worden als je de tafel in gebruik hebt.
 
-
 ## Hanz — 2021-02-19
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479081#p479081)
@@ -2429,7 +2322,6 @@ En kun je op de bijrijdersstoel of de achterbank echt aan de tafel zitten? Op de
 Aanvulling: eerste vraag beantwoord; de foto even omgedraaid en vergroot en dan is de pen te zien die het tafelblad op zijn plaats houdt.
 
 T4 California 1997 - 2.5TDI/ACV
-
 
 ## ewoudwijma — 2021-02-22
 
@@ -2452,7 +2344,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 Dank je Hanz en Jan . De tafel zit idd wat verder van de stoel. Wil in de toekomst ook de bestuurders stoel draaibaar maken, die zal ook niet vlak bij de tafel, niet ideaal voor eten, maar wel ok voor bijv spelletje of zo schat ik in. Dan maar bord op schoot, het blijft camperen .  
 Hanz, klopt idd met die pin (intussen de schroefdraad van de pin gevijld en met heatshrink wat minder scherp gemaakt). Worden de foto’s bij jou gedraaid getoond?
 
-
 ## Hanz — 2021-02-22
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479241#p479241)
@@ -2466,7 +2357,6 @@ door **[Hanz](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=
 Als ik de foto's aanklik worden ze inderdaad op zijn kop getoond.
 
 T4 California 1997 - 2.5TDI/ACV
-
 
 ## ewoudwijma — 2021-03-01
 
@@ -2533,7 +2423,6 @@ Dit project gaat dus nog wel een paar week duren. In het slechtste geval gaat de
   
 Iemand vergelijkbare ervaringen? Het vreemdst vond ik nog wel dat het zo moeilijk is koppelmateriaal voor 10mm slangen te vinden, ik heb echt uren zitten zoeken. Dit is voor zover ik weet de standaardmaat voor boten en campers...
 
-
 ## Multivan Generation — 2021-03-01
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479637#p479637)
@@ -2549,7 +2438,6 @@ Je kunt voor koppelingetjes eens kijken naar het merk John Guest.
 Groetjes Peter
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2021-03-02
 
@@ -2568,7 +2456,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Hoi Arnold, ga toch voor jouw oplossing. Ik heb 2 flexibele zonnepanelen besteld die ik op het hefdak wil monteren. Liefst zonder kanaal platen, maar warmte ontwikkeling en de mogelijkheid om eventueel in de toekomst een kapot zonnepaneel te vervangen is wel een voordeel. Zag ook nog dat iemand meubelpootjes op het dak had gelijmd (<https://youtu.be/rznU2kET4TM>), dat zal ik ook nog even bestuderen, want dan kun je ze gewoon op de schroeven van die pootjes door de ring-gaten van het zonnepaneel vast maken...
 
-
 ## Hanz — 2021-03-02
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479675#p479675)
@@ -2582,7 +2469,6 @@ door **[Hanz](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=
 Wat ik zie in dat filmpje is dat het paneel rondom weer afgeplakt is met tape. Dan heb je naar mijn idee geen echte ventilatie onder je paneel zoals bij de kanaalplaat. Ik denk ook dat een flexibel paneel dat zo 'losjes' gemonteerd is tijdens het rijden gaat klapperen, niet doordat er lucht onderkomt maar door de zuiging van bovenaf. Dat lijkt mij niet gunstig voor de levensduur van zo'n paneel.
 
 T4 California 1997 - 2.5TDI/ACV
-
 
 ## krekwakwol — 2021-03-02
 
@@ -2602,7 +2488,6 @@ Het zou mijn keuze niet zijn.
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
 
-
 ## krekwakwol — 2021-03-02
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479679#p479679)
@@ -2617,7 +2502,6 @@ Maar als je ze op het hefdak monteert, hoe doe je dat met de kabels, komt er een
 
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
-
 
 ## Multivan Generation — 2021-03-02
 
@@ -2634,7 +2518,6 @@ Ik heb ook geen issues met warmte
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## krekwakwol — 2021-03-02
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479686#p479686)
@@ -2650,7 +2533,6 @@ Ik weet niet welk paneel jij hebt, dus dat weet ik niet.
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
 
-
 ## Hanz — 2021-03-02
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479690#p479690)
@@ -2664,7 +2546,6 @@ door **[Hanz](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=
 Dit is het topic van Peter maar helaas zijn de foto's niet meer zichtbaar [viewtopic.php?p=430772#p430772](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=430772#p430772)
 
 T4 California 1997 - 2.5TDI/ACV
-
 
 ## Multivan Generation — 2021-03-02
 
@@ -2692,7 +2573,6 @@ Laatst gewijzigd door [Multivan Generation](https://www.weetjewel.nl/phpbb3/memb
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## Multivan Generation — 2021-03-02
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479703#p479703)
@@ -2708,7 +2588,6 @@ door **[Multivan Generation](https://www.weetjewel.nl/phpbb3/memberlist.php?mode
 [![20180629_221410.jpg](assets/post110_img01.jpg "20180629_221410.jpg (98.91 KiB) 2760 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53422&mode=view)
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## krekwakwol — 2021-03-02
 
@@ -2727,7 +2606,6 @@ Maar het paneel op een aluminium plaat lijmen en deze op meerdere pootjes op het
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
 
-
 ## ewoudwijma — 2021-03-04
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479776#p479776)
@@ -2745,7 +2623,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Mooi spul! Als ik nog moest beginnen zou ik dit gebruiken! Maar ben nu al redelijk onderweg met de 1/2 inch knie koppelingen van Ali dus ga eerst dat maar werkend krijgen.
 
-
 ## ewoudwijma — 2021-03-04
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479777#p479777)
@@ -2761,7 +2638,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > Maar als je ze op het hefdak monteert, hoe doe je dat met de kabels, komt er een spiraal kabel tussen, want je hebt wel wat hoogte te overbruggen als het dak omhoog staat.
 
 De kabels gaan via dakdoorvoeren op het hefdak naar binnen. Met een gewone kabel. Als het dak dicht is kan ik de kabel in de plafondkasten wegstoppen.
-
 
 ## ewoudwijma — 2021-03-04
 
@@ -2782,7 +2658,6 @@ Ha Peter, dat ziet er weer super profi uit! Had je next level thread nog niet ee
   
 Bedankt Peter, Arnold, Hanz en KWW voor de zonnepanelen feedback. Mijn conclusie: direct met sikaflex erop kitten. Voor de minste hoogte, de minste luchtweerstand en de eenvoudigste montage. Warmteontwikkeling lijkt ok te zijn. Enige zorg was dan wat te doen als er ooit een vervangen moet worden. Na wat googelen is de conclusie: met een gitaarsnaar, of carglass snaar loshalen, behandelen met sticker verwijderaar en wegschuren kom je een heel eind.
 
-
 ## Multivan Generation — 2021-03-04
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479782#p479782)
@@ -2797,7 +2672,6 @@ Ik heb in het midden automotive foamtape van 3M gebruikt en alleen bij de randen
 Mocht je het paneel dan ooit nog eens willen/moeten verwijderen, dan is dat iets gemakkelijker..
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2021-03-04
 
@@ -2836,7 +2710,6 @@ Moet ik mij zorgen maken?
 
 Laatst gewijzigd door [ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453) op do mar 04, 2021 12:09, 1 keer totaal gewijzigd.
 
-
 ## moosev — 2021-03-04
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479789#p479789)
@@ -2857,7 +2730,6 @@ René
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 [Klik -----> Ombouw T5GP LWB Camper project 2017 en diverse aanpassingen 2018 <------](http://www.weetjewel.nl/phpbb3/viewtopic.php?f=13&t=55800)
 
-
 ## ewoudwijma — 2021-03-04
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479808#p479808)
@@ -2876,7 +2748,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Hoi René, dit is een heel interessant idee !!!  
 Heb jij er ervaring mee? Voor mijn gevoel hecht sikaflex daar niet goed op, of gaat dat prima?
-
 
 ## ewoudwijma — 2021-03-04
 
@@ -2916,7 +2787,6 @@ Lopende bestellingen
 - Dakdragers  
 - Branddeken
 
-
 ## moosev — 2021-03-04
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479823#p479823)
@@ -2941,7 +2811,6 @@ Goede vraag of de sikaflex daar problemen mee zou hebben, geen idee.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 [Klik -----> Ombouw T5GP LWB Camper project 2017 en diverse aanpassingen 2018 <------](http://www.weetjewel.nl/phpbb3/viewtopic.php?f=13&t=55800)
-
 
 ## krekwakwol — 2021-03-04
 
@@ -2978,14 +2847,12 @@ Moet ik mij zorgen maken?
 Dat is wel weinig, ik had op mijn 80W flex panelen al meer dan 12volt onder de TL lampen. Maar meet ze eens als ze in de zon liggen.  
 Passen die panelen samen wel op de Pop up dak?
 
-Bijlagen
-:   [![IMG_20200728_160814.jpg](assets/post121_img00.jpg "IMG_20200728_160814.jpg (239.32 KiB) 3106 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53452&mode=view)
+[![IMG_20200728_160814.jpg](assets/post121_img00.jpg "IMG_20200728_160814.jpg (239.32 KiB) 3106 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53452&mode=view)
 
 Laatst gewijzigd door [krekwakwol](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=10825) op do mar 04, 2021 20:53, 2 keer totaal gewijzigd.
 
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
-
 
 ## ewoudwijma — 2021-03-04
 
@@ -3008,7 +2875,6 @@ Wordt helaas niet op gereageerd ...
 Ik heb toevallig nog car wrap liggen want mijn luidsprekers ermee behandeld ;-). Ga wel een testje doen.  
 ...Of mat car wrap, die heeft denk ik een ruwere oppervlakte...
 
-
 ## Multivan Generation — 2021-03-04
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479835#p479835)
@@ -3027,7 +2893,6 @@ Denk dat de matheid zit in het materiaal en niet op het materiaal
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## ewoudwijma — 2021-03-06
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=479914#p479914)
@@ -3045,7 +2910,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 
 Heb ze gisteren in de zon gemeten, toen alle drie rond de 21 volt, dus ik heb geen zorgen meer ;-).  
 En de panelen passen op het pop up dak, die is 1 meter 50 bij 1 meter 10 en de panelen zijn 54 \* 100 per stuk
-
 
 ## ewoudwijma — 2021-03-06
 
@@ -3066,7 +2930,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > Denk dat de matheid zit in het materiaal en niet op het materiaal
 
 True that!
-
 
 ## ewoudwijma — 2021-03-06
 
@@ -3089,7 +2952,6 @@ Vandaag zijn de kussens bezorgd, het past perfect (gezien de omstandigheden ;-))
 
 [![ateam2.jpg](assets/post126_img01.jpg "ateam2.jpg (100.19 KiB) 3046 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53477&mode=view)
 
-
 ## krekwakwol — 2021-03-08
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=480077#p480077)
@@ -3104,7 +2966,6 @@ Ziet er goed uit
 
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
-
 
 ## ewoudwijma — 2021-03-10
 
@@ -3136,7 +2997,6 @@ Mocht een paneel vervangen moeten worden dan met mes of snaar los te maken en er
   
 Dus zo ga ik het doen
 
-
 ## JeDo — 2021-03-11
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=480182#p480182)
@@ -3158,7 +3018,6 @@ door **[JeDo](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=
 
 Dit werd mij afgeraden, omdat de wrap bij hogere temperaturen (paneel in volle zon) los kan laten. Ik heb het paneel direct op het dak gelijmd en er 'omheen' gewrapt.
 
-
 ## ewoudwijma — 2021-03-11
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=480185#p480185)
@@ -3174,7 +3033,6 @@ door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprof
 > Dit werd mij afgeraden, omdat de wrap bij hogere temperaturen (paneel in volle zon) los kan laten. Ik heb het paneel direct op het dak gelijmd en er 'omheen' gewrapt.
 
 Ha JeDo, kan ik mij voorstellen. Ben intussen van het idee afgestapt, zie boven.
-
 
 ## ewoudwijma — 2021-03-23
 
@@ -3194,7 +3052,6 @@ Vandaag de daktuin ingericht
 [![dak6.jpg](assets/post131_img02.jpg "dak6.jpg (71.58 KiB) 2717 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53698&mode=view)
 
 Iemand een goed idee hoe de kabels vast te zetten?
-
 
 ## krekwakwol — 2021-03-23
 
@@ -3217,7 +3074,6 @@ Sorry, afbeelding wil niet laden,status balkje blijft grijs.
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
 
-
 ## Multivan Generation — 2021-03-23
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=480781#p480781)
@@ -3232,7 +3088,6 @@ Paar kleine gaatjes boren en daardoor tieraps trekken, kabel er tussen en aantre
 Plat en kost bijna niets.
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
-
 
 ## ewoudwijma — 2021-03-28
 
@@ -3269,7 +3124,6 @@ Mocht iemand nog mc4 stekkers nodig hebben, ik heb ze ruim in voorraad ;-)
   
 Nog een vraag mbt spanning, stroom en vermogen van de zonnepanelen. Het controller display laat zien dat er bij zonlicht 2A door de zonnepanelen gaat en de getoonde spanning is gelijk aan de accuspanning, tegen te 13V. De zonnepanelen zijn in serie geschakeld en leveren zonder belasting ieder rond de 20 V. Hoe wordt die spanning teruggebracht naar 12/13 V? Gaat die vanzelf naar beneden door belasting of zit er een spanningsomvormer tussen? En hoe zit het met het geleverde vermogen? 13 V \* 2A is 26 W. De zonnepanelen zijn (theoretisch) 100 W per stuk, dat er maar 26 W getoond wordt komt waarschijnlijk doordat de accu bijna vol is en niet veel nodig heeft. Hoe leeg moet de accu zijn om het maximale vermogen te vragen? Zou dan toch wel een ampere of 8 minimaal willen zien. Klopt dat?
 
-
 ## krekwakwol — 2021-03-29
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=481060#p481060)
@@ -3287,7 +3141,6 @@ Als je gebruikers aanzet, gaat de laadstroom ook wel omhoog bij volle accu's.
 Groet, Arnold  
 T5 2.5TDI 96kw bj 2008
 
-
 ## Multivan Generation — 2021-03-30
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=481117#p481117)
@@ -3302,7 +3155,6 @@ Test? Zet je koelkast vol aan gedurende 2 dagen en morgenochtend een aanwezige s
 
 ...have you ever noticed that some people never have the money to do it right, but can always find the money to do it twice?...
 
-
 ## ewoudwijma — 2021-03-30
 
 ### [Re: T5 L2 ombouw 9 persoons naar 5 persoons / 2 slaap camper](https://www.weetjewel.nl/phpbb3/viewtopic.php?p=481150#p481150)
@@ -3315,7 +3167,6 @@ Test? Zet je koelkast vol aan gedurende 2 dagen en morgenochtend een aanwezige s
 door **[ewoudwijma](https://www.weetjewel.nl/phpbb3/memberlist.php?mode=viewprofile&u=15453)** » di mar 30, 2021 20:49
 
 Ga van morgen tot vrijdag test mini vakantie doen en ga alles vol open zetten. Heb de ingebouwde stand kachel nog niet heringericht dus die doet nog niet mee
-
 
 ## ewoudwijma — 2021-03-30
 
@@ -3339,7 +3190,6 @@ De kniekoppelingen 1/2 inch naar 10mm zijn intussen bezorgd en met Threebond wat
 [![stookhok4.jpg](assets/post138_img00.jpg "stookhok4.jpg (96.89 KiB) 2190 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53785&mode=view)
 
 [![stookhok5.jpg](assets/post138_img01.jpg "stookhok5.jpg (85.45 KiB) 2190 keer bekeken")](https://www.weetjewel.nl/phpbb3/download/file.php?id=53786&mode=view)
-
 
 ## ewoudwijma — 2021-04-12
 
@@ -3365,7 +3215,6 @@ De fiets heeft 500Wh nodig. De accu heeft ongeveer 2000Wh aan maximum capaciteit
 De zonnepanelen zouden zeker meer dan 100 Watt moeten kunnen leveren (in theorie 2 \* 100 Watt). In de praktijk nog niet meer dan 3A \* 13V is 39 Watt gezien... In dit geval is 12.5 uur zon dan voldoende voor een volle fiets. Daarnaast wordt bij rijden de accu ook geladen dus dat helpt ook ;-).  
   
 De fiets gebruikt bij laden vanaf leeg ongeveer 300-600 Watt, bij halverwege vol ongeveer 175 Watt en bij bijna vol ongeveer 75 Watt. De inverter kan continu 800 Watt aan dus dat is voldoende.
-
 
 ## ewoudwijma — 2021-05-04
 
