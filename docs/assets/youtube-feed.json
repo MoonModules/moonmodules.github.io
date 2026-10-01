@@ -45,6 +45,13 @@
   ],
   "videos": [
     {
+      "title": "MoonLight v6",
+      "link": "https://www.youtube.com/watch?v=F_YgmiUyWVQ",
+      "published": "2026-10-01T10:22:15+00:00",
+      "thumbnail": "https://i3.ytimg.com/vi/F_YgmiUyWVQ/hqdefault.jpg",
+      "description": "MoonLight drives LED installations and DMX fixtures, live, from any browser, on any device.\n\nThis is the whole series in one video. Luna, the agent who wrote the new MoonLight, explains why it was rebuilt from scratch. Then the team shows it at work: installing it on a computer or a device, finding your way around, building a pipeline from layouts, layers and drivers, writing your own effects, and driving it all from one control surface. The corner window shows what people have made with MoonLight.\n\nTry it\n\nInstall it from your browser: https://moonmodules.org/MoonLight/install/\nDocumentation: https://moonmodules.org/MoonLight/\nSource code and releases: https://github.com/MoonModules/MoonLight\n\nLike what you see? Give MoonLight a star on GitHub. It takes one click, it is how other people find a project like this, and it tells the people building it that the work is worth continuing.\n\nTalk to us\n      Discord: https://discord.gg/TC8NSUSCdV\n      Reddit: https://reddit.com/r/moonmodules\n      Issues and ideas: https://github.com/MoonModules/MoonLight/issues\n\nChapters:\n\n0:00 Why MoonLight was rebuilt: Luna introduces it\n6:00 Install on your computer: the desktop build\n6:38 Install on an ESP32 with the web installer\n8:53 The interface, module by module, on a computer\n11:32 What an ESP32 adds: LED pins, I2C, microphone, updates over the air\n14:02 Every card works the same: power, replace, delete, help, JSON\n16:48 Scenario testing: three layers on a live device\n18:24 Layouts: grid, ring, spiral, cube, tubes and MoonLive layouts\n21:21 Layers: effects, modifiers and blending\n22:56 Drivers on a computer: preview, NDI, RTSP, HLS, Art-Net, Hue\n25:19 Drivers on an ESP32: RMT, parallel LED output, HUB75 panels\n29:05 MoonLive: write your own effects, compiled on the device\n31:35 Services: audio, buttons, analog inputs, infrared\n36:30 Control: switches, encoders and faders pointed at any setting\n42:18 MoonDeck: the developer console that builds, flashes and tests\n46:21 Getting started, and how to get involved\n48:14 Attribution: who we learned from\n\nMoonLight is open source under the GPL v3. Made by MoonModules."
+    },
+    {
       "title": "FlowFieldsV2",
       "link": "https://www.youtube.com/watch?v=0ztJzw0BOWY",
       "published": "2026-04-30T10:24:10+00:00",
@@ -78,13 +85,6 @@
       "published": "2025-10-18T16:19:54+00:00",
       "thumbnail": "https://i3.ytimg.com/vi/bJIgiBBx3lg/hqdefault.jpg",
       "description": "This video gives an overview of MoonLight functionality\nMoonLight is open source software to control LEDs and lights, running on a microcontroller (ESP32)\n\n0:00 Introduction\n2:40 Drivers\n7:56 Layouts\n10:02 Effects\n12:20 Modifiers\n14:15 Lights control\n\nPlease like and subscribe (more tutorials will come)\n\nCheck also the other videos in this channel, e.g.:\n\nhttps://youtu.be/NnEV9RplZN8\nhttps://youtu.be/Z70zDhpqY8o\nhttps://youtu.be/7DQOEWa-Kwg\nhttps://youtu.be/tdrU9yGkyVo\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on Github https://github.com/MoonModules/MoonLight"
-    },
-    {
-      "title": "MoonLight Introduction",
-      "link": "https://www.youtube.com/watch?v=Z70zDhpqY8o",
-      "published": "2025-10-09T15:06:12+00:00",
-      "thumbnail": "https://i3.ytimg.com/vi/Z70zDhpqY8o/hqdefault.jpg",
-      "description": "This video gives an introduction to MoonLight\nMoonLight is open source software to control LEDs and lights, running on a microcontroller (ESP32)\n\n0:00 Introduction\n1:44 Why?\n2:41 What\n6:07 Community\n\nPlease like and subscribe (more tutorials will come)\n\nCheck also the other videos on this channel e.g.:\n\nhttps://youtu.be/7DQOEWa-Kwg\nhttps://youtu.be/NnEV9RplZN8\nhttps://youtu.be/bJIgiBBx3lg\nhttps://youtu.be/tdrU9yGkyVo\n\nMore info:\n\nMoonLight Website: https://moonmodules.org/MoonLight/\nMoonLight on Github https://github.com/MoonModules/MoonLight"
     }
   ]
 }
